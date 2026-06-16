@@ -1,4 +1,4 @@
-# Emblem-wordle
+# Emblem Wordle
 
 A Wordle/Loldle-style web game for guessing Fire Emblem characters based on their attributes.
 
@@ -45,6 +45,8 @@ Each character has the following fields, used for comparison:
 - `starting_class` — starting class (Cavalier, Mage, Thief...)
 - `movement_type` — movement type (Infantry, Cavalry, Armored, Flying...)
 - `hair_color` — hair color
+
+**Deliberately excluded:** affiliation/country (characters with ambiguous or shifting loyalties), year (redundant with game), is_lord (barely relevant, applies to very few characters).
 
 ## Comparison logic (core of the game)
 
