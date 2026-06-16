@@ -1,6 +1,9 @@
 from datetime import datetime
 from pydantic import BaseModel, EmailStr
 
+#Los esquemas Pydantic son la capa de contrato de la API: definen exactamente qué datos acepta cada endpoint y qué devuelve. Son distintos de los modelos SQLAlchemy aunque a veces se parezcan.
+#Un ejemplo concreto de por qué los necesitamos: el modelo User tiene password_hash — nunca debes devolverlo en una respuesta de API. 
+#El esquema UserResponse existe precisamente para devolver solo lo que el frontend necesita ver: id, username, email, created_at.
 
 class UserCreate(BaseModel):
     username: str

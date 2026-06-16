@@ -6,5 +6,5 @@ psycopg2-binary
 pydantic-settings
 pydantic[email]
 python-jose[cryptography]
-passlib[bcrypt]
+bcrypt
 python-multipart
