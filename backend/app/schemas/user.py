@@ -11,6 +11,11 @@ class UserCreate(BaseModel):
     password: str
 
 
+class UserLogin(BaseModel):
+    username: str
+    password: str
+
+
 class UserResponse(BaseModel):
     id: int
     username: str
@@ -27,3 +32,13 @@ class Token(BaseModel):
 
 class TokenData(BaseModel):
     user_id: int | None = None
+
+
+class UserStatsResponse(BaseModel):
+    games_played: int
+    games_won: int
+    current_streak: int
+    max_streak: int
+    avg_attempts: float
+
+    model_config = {"from_attributes": True}

@@ -20,19 +20,46 @@ class GuessResult(BaseModel):
     starting_class: CategoryResult
     movement_type: CategoryResult
     hair_color: CategoryResult
+    promotion_tier: CategoryResult = CategoryResult(status="incorrect")
 
 
 class GuessRequest(BaseModel):
     character_id: int
 
 
+class CharacterData(BaseModel):
+    game: list[str]
+    gender: list[str]
+    weapon: list[str]
+    starting_class: list[str]
+    movement_type: list[str]
+    hair_color: list[str]
+    promotion_tier: str
+
+    model_config = {"from_attributes": True}
+
+
+class TargetCharacter(BaseModel):
+    name: str
+    portrait_url: str | None
+    game: list[str]
+    weapon: list[str]
+    starting_class: list[str]
+    movement_type: list[str]
+    promotion_tier: str
+
+    model_config = {"from_attributes": True}
+
+
 class GuessResponse(BaseModel):
     attempt_number: int
     character_name: str
     character_portrait_url: str | None
+    character_data: CharacterData
     result: GuessResult
     session_completed: bool
     session_won: bool
+    target_character: TargetCharacter | None = None
 
 
 class SessionResponse(BaseModel):
@@ -41,3 +68,24 @@ class SessionResponse(BaseModel):
     won: bool
     attempts_count: int
     guesses: list[GuessResponse]
+    target_character: TargetCharacter | None = None
+
+
+class InfiniteStartResponse(BaseModel):
+    session_token: str
+
+
+class InfiniteGuessRequest(BaseModel):
+    session_token: str
+    character_id: int
+    attempt_number: int
+
+
+class InfiniteGuessResponse(BaseModel):
+    character_name: str
+    character_portrait_url: str | None
+    character_data: CharacterData
+    result: GuessResult
+    won: bool
+    lost: bool = False
+    target_character: TargetCharacter | None = None

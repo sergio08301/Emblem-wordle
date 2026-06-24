@@ -4,6 +4,8 @@ from app.models.user_stats import UserStats
 from app.schemas.user import UserCreate
 from app.core.security import hash_password, verify_password, create_access_token, decode_access_token
 
+#auth_service.py contiene toda la lógica de negocio de autenticación: registrar usuarios, verificar credenciales 
+# y obtener el usuario a partir de un token. Es la capa que conecta los routers (que solo reciben peticiones HTTP) con los modelos (que hablan con la BD).
 
 def get_user_by_email(db: Session, email: str) -> User | None:
     return db.query(User).filter(User.email == email).first()
@@ -38,8 +40,8 @@ def register_user(db: Session, user_data: UserCreate) -> User:
     return user
 
 
-def authenticate_user(db: Session, email: str, password: str) -> str | None:
-    user = get_user_by_email(db, email)
+def authenticate_user(db: Session, username: str, password: str) -> str | None:
+    user = get_user_by_username(db, username)
     if not user or not verify_password(password, user.password_hash):
         return None
     return create_access_token({"user_id": user.id})
