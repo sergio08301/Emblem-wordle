@@ -38,27 +38,23 @@ GAME_TO_FE_CODE = {
     "Engage": "fe17",
 }
 
-WIKI_API = "https://fireemblemwiki.org/api.php"
+# Correct API endpoint
+WIKI_API = "https://fireemblemwiki.org/w/api.php"
 
 
 def clean_name(name: str) -> str:
     """
-    Strip parenthetical suffixes like '(Shadow Dragon)' or '(Fates)',
-    remove apostrophes, strip accents, and lowercase.
+    Strip parenthetical suffixes, apostrophes, accents, lowercase.
     Examples:
       'Cain (Shadow Dragon)' -> 'cain'
       "L'Arachel"            -> 'larachel'
       'Scáthach'             -> 'scathach'
       'Céline'               -> 'celine'
     """
-    # Remove anything in parentheses: "Cain (Shadow Dragon)" -> "Cain"
     name = re.sub(r'\s*\(.*?\)', '', name).strip()
-    # Remove apostrophes: "L'Arachel" -> "LArachel"
     name = name.replace("'", "")
-    # Strip accents: "Scáthach" -> "Scathach"
     name = unicodedata.normalize("NFD", name)
     name = "".join(c for c in name if unicodedata.category(c) != "Mn")
-    # Lowercase and replace spaces with underscores
     return name.lower().replace(" ", "_")
 
 
@@ -73,10 +69,6 @@ def get_games_by_chronological_order(game_field: str) -> list[str]:
 
 
 def build_wiki_filename(name: str, fe_code: str) -> str:
-    """
-    Build the wiki filename for a portrait.
-    Example: 'Cain (Shadow Dragon)', 'fe11' -> 'Portrait_cain_fe11_cyl.png'
-    """
     return f"Portrait_{clean_name(name)}_{fe_code}_cyl.png"
 
 

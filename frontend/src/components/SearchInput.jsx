@@ -55,8 +55,8 @@ export default function SearchInput({ onSelect, disabled }) {
               className="px-4 py-2 cursor-pointer hover:bg-gray-700 text-sm flex items-center gap-2"
             >
               {character.portrait_url
-                ? <img src={character.portrait_url} alt="" className="w-6 h-6 rounded-full object-cover" />
-                : <div className="w-6 h-6 rounded-full bg-gray-600 flex items-center justify-center text-xs">{character.name[0]}</div>
+                ? <img src={character.portrait_url} alt="" className="w-6 h-6 rounded object-cover" />
+                : <div className="w-6 h-6 rounded bg-gray-600 flex items-center justify-center text-xs">{character.name[0]}</div>
               }
               {character.name}
             </li>

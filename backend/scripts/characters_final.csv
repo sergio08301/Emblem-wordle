@@ -1,0 +1,621 @@
+name,portrait_url,game,gender,weapon,starting_class,movement_type,hair_color,is_active,promotion_tier
+Marth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marth.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Lord,Infantry,Blue,True,Unique
+Abel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/abel.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Green,True,Unpromoted
+Frey,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frey.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Blue,True,Unpromoted
+Jagen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jagen.png,Shadow Dragon,Male,Sword|Lance,Paladin,Cavalry,Gray,True,Promoted
+Cain (Shadow Dragon),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cain%20(shadow%20dragon).png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Red,True,Unpromoted
+Gordin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gordin.png,Shadow Dragon|New Mystery of the Emblem,Male,Bow,Archer,Infantry,Green,True,Unpromoted
+Draug,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/draug.png,Shadow Dragon|New Mystery of the Emblem,Male,Lance,Knight,Armored,Green,True,Unpromoted
+Norne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/norne.png,Shadow Dragon|New Mystery of the Emblem,Female,Bow,Archer,Infantry,Red,True,Unpromoted
+Caeda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caeda.png,Shadow Dragon|New Mystery of the Emblem,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Wrys,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wrys.png,Shadow Dragon|New Mystery of the Emblem,Male,Staff,Curate,Infantry,Bald,True,Unpromoted
+Ogma,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ogma.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Mercenary,Infantry,Yellow,True,Unpromoted
+Barst,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/barst.png,Shadow Dragon|New Mystery of the Emblem,Male,Axe,Fighter,Infantry,Blue,True,Unpromoted
+Bord,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bord.png,Shadow Dragon|New Mystery of the Emblem,Male,Axe,Fighter,Infantry,Brown,True,Unpromoted
+Cord,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cord.png,Shadow Dragon|New Mystery of the Emblem,Male,Axe,Fighter,Infantry,Brown,True,Unpromoted
+Darros,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/darros.png,Shadow Dragon|New Mystery of the Emblem,Male,Axe,Pirate,Infantry,Bald,True,Unpromoted
+Castor,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/castor.png,Shadow Dragon|New Mystery of the Emblem,Male,Bow,Hunter,Infantry,Blue,True,Unpromoted
+Julian,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/julian.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Thief,Infantry,Red,True,Unpromoted
+Lena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lena.png,Shadow Dragon|New Mystery of the Emblem,Female,Staff,Cleric,Infantry,Red,True,Unpromoted
+Navarre,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/navarre.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Myrmidon,Infantry,Black,True,Unpromoted
+Merric,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merric.png,Shadow Dragon|New Mystery of the Emblem,Male,Tome,Mage,Infantry,Green,True,Unpromoted
+Matthis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/matthis.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Pink,True,Unpromoted
+Wolf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wolf.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Bow,Horseman,Cavalry,Purple,True,Promoted
+Sedgar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sedgar.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Bow,Horseman,Cavalry,Green,True,Promoted
+Roshea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roshea.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Purple,True,Unpromoted
+Vylant,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vylant.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Red,True,Unpromoted
+Hardin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hardin.png,Shadow Dragon,Male,Sword|Lance,Cavalier,Cavalry,Brown,True,Unpromoted
+Wendell,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wendell.png,Shadow Dragon|New Mystery of the Emblem,Male,Tome|Staff,Sage,Infantry,White,True,Promoted
+Rickard,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rickard.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Thief,Infantry,Blue,True,Unpromoted
+Athena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/athena.png,Shadow Dragon|New Mystery of the Emblem,Female,Sword,Myrmidon,Infantry,Black,True,Unpromoted
+Bantu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bantu.png,Shadow Dragon|New Mystery of the Emblem,Male,Dragonstone,Manakete,Infantry,Bald,True,Unique
+Caesar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caesar.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Mercenary,Infantry,Yellow,True,Unpromoted
+Radd,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/radd.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword,Myrmidon,Infantry,Red,True,Unpromoted
+Roger,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roger.png,Shadow Dragon|New Mystery of the Emblem,Male,Lance,Knight,Armored,Pink,True,Unpromoted
+Jeorge,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeorge.png,Shadow Dragon|New Mystery of the Emblem,Male,Bow,Sniper,Infantry,Yellow,True,Promoted
+Maria,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/maria.png,Shadow Dragon|New Mystery of the Emblem,Female,Staff,Cleric,Infantry,Red,True,Unpromoted
+Minerva,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/minerva.png,Shadow Dragon|New Mystery of the Emblem,Female,Lance|Axe,Dracoknight,Flying,Red,True,Promoted
+Linde,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linde.png,Shadow Dragon|New Mystery of the Emblem,Female,Tome,Mage,Infantry,Brown,True,Unpromoted
+Jake,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jake.png,Shadow Dragon|New Mystery of the Emblem,Male,Ballista,Ballistician,Ballistician,Purple,True,Unique
+Dolph,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dolph.png,Shadow Dragon|New Mystery of the Emblem,Male,Lance,Knight,Armored,Bald,True,Unpromoted
+Macellan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/macellan.png,Shadow Dragon|New Mystery of the Emblem,Male,Lance,Knight,Armored,Bald,True,Unpromoted
+Tomas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tomas.png,Shadow Dragon|New Mystery of the Emblem,Male,Bow,Archer,Infantry,Green,True,Unpromoted
+Boah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boah.png,Shadow Dragon,Male,Tome|Staff,Bishop,Infantry,White,True,Promoted
+Midia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midia.png,Shadow Dragon|New Mystery of the Emblem,Female,Sword|Lance,Paladin,Cavalry,Blue,True,Promoted
+Horace,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/horace.png,Shadow Dragon|New Mystery of the Emblem,Male,Lance|Bow,General,Armored,Blue,True,Promoted
+Beck,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beck.png,Shadow Dragon|New Mystery of the Emblem,Male,Ballista,Ballistician,Ballistician,Brown,True,Unique
+Astram,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astram.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Axe,Hero,Infantry,Yellow,True,Promoted
+Catria,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/catria.png,Shadow Dragon|New Mystery of the Emblem|Echoes: Shadows of Valentia,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Palla,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/palla.png,Shadow Dragon|New Mystery of the Emblem|Echoes: Shadows of Valentia,Female,Lance,Pegasus Knight,Flying,Green,True,Unpromoted
+Arran,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arran.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Lance,Paladin,Cavalry,Yellow,True,Promoted
+Samson,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/samson.png,Shadow Dragon|New Mystery of the Emblem,Male,Sword|Axe,Hero,Infantry,Blue,True,Promoted
+Xane,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xane.png,Shadow Dragon|New Mystery of the Emblem,Male,,Freelancer,Infantry,Red,True,Unique
+Etzel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/etzel.png,Shadow Dragon|New Mystery of the Emblem,Male,Tome|Staff,Sorcerer,Infantry,Red,True,Promoted
+Est,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/est.png,Shadow Dragon|New Mystery of the Emblem|Echoes: Shadows of Valentia,Female,Lance,Pegasus Knight,Flying,Pink,True,Unpromoted
+Tiki,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tiki.png,Shadow Dragon|New Mystery of the Emblem|Awakening,Female,Dragonstone,Manakete,Infantry,Green,True,Unique
+Lorenz (Shadow Dragon),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lorenz%20(shadow%20dragon).png,Shadow Dragon,Male,Lance|Bow,General,Armored,White,True,Promoted
+Ymir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ymir.png,Shadow Dragon|New Mystery of the Emblem,Male,Axe|Bow,Warrior,Infantry,Purple,True,Promoted
+Elice,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elice.png,Shadow Dragon|New Mystery of the Emblem,Female,Staff,Cleric,Infantry,Blue,True,Unpromoted
+Gotoh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gotoh.png,Shadow Dragon,Male,Tome|Staff,Sage,Infantry,White,True,Promoted
+Nagi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nagi.png,Shadow Dragon|New Mystery of the Emblem,Female,Dragonstone,Manakete,Infantry,Green,True,Unique
+Luke,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/luke.png,New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Green,True,Unpromoted
+Roderick,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roderick.png,New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Brown,True,Unpromoted
+Cecil,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cecil.png,New Mystery of the Emblem,Female,Sword|Lance,Cavalier,Cavalry,Red,True,Unpromoted
+Ryan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ryan.png,New Mystery of the Emblem,Male,Bow,Archer,Infantry,Green,True,Unpromoted
+Marisha,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marisha.png,New Mystery of the Emblem,Female,Staff,Cleric,Infantry,Blue,True,Unpromoted
+Warren,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/warren.png,New Mystery of the Emblem,Male,Bow,Hunter,Infantry,Yellow,True,Unpromoted
+Yuliya,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuliya.png,New Mystery of the Emblem,Female,Staff,Cleric,Infantry,Yellow,True,Unpromoted
+Jubelo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jubelo.png,New Mystery of the Emblem,Male,Tome,Mage,Infantry,Yellow,True,Unpromoted
+Sirius,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sirius.png,New Mystery of the Emblem,Male,Sword|Lance,Paladin,Cavalry,Yellow,True,Promoted
+Samuel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/samuel.png,New Mystery of the Emblem,Male,Sword,Myrmidon,Infantry,Brown,True,Unpromoted
+Phina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/phina.png,New Mystery of the Emblem,Female,Sword,Dancer,Infantry,Red,True,Unique
+Arlen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arlen.png,New Mystery of the Emblem,Male,Tome,Mage,Infantry,Yellow,True,Unpromoted
+Dice,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dice.png,New Mystery of the Emblem,Male,Axe,Fighter,Infantry,Brown,True,Unpromoted
+Malice,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/malice.png,New Mystery of the Emblem,Female,Sword,Myrmidon,Infantry,Purple,True,Unpromoted
+Roberto,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roberto.png,New Mystery of the Emblem,Male,Sword|Bow,Horseman,Cavalry,Yellow,False,Promoted
+Belf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/belf.png,New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Black,False,Unpromoted
+Reiden,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reiden.png,New Mystery of the Emblem,Male,Sword|Lance,Cavalier,Cavalry,Brown,False,Unpromoted
+Katarina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/katarina.png,New Mystery of the Emblem,Female,Tome|Staff,Sage,Infantry,Purple,True,Promoted
+Sheena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sheena.png,New Mystery of the Emblem,Female,Lance|Bow,General,Armored,Brown,True,Promoted
+Frost,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frost.png,New Mystery of the Emblem,Male,Tome|Staff,Bishop,Infantry,White|Bald,False,Promoted
+Michalis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/michalis.png,New Mystery of the Emblem,Male,Lance|Axe,Dracoknight,Flying,Red,True,Promoted
+Nyna,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nyna.png,New Mystery of the Emblem,Female,Tome|Staff,Bishop,Infantry,Yellow,True,Promoted
+Alm,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alm.png,Echoes: Shadows of Valentia,Male,Sword,Fighter(Alm),Infantry,Green,True,Unpromoted
+Lukas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lukas.png,Echoes: Shadows of Valentia,Male,Lance,Soldier,Infantry,Red,True,Unpromoted
+Gray,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gray.png,Echoes: Shadows of Valentia,Male,Sword,Villager,Infantry,Black,True,Trainee
+Tobin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tobin.png,Echoes: Shadows of Valentia,Male,Sword,Villager,Infantry,Brown,True,Trainee
+Kliff,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kliff.png,Echoes: Shadows of Valentia,Male,Sword,Villager,Infantry,White,True,Trainee
+Faye,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/faye.png,Echoes: Shadows of Valentia,Female,Sword,Villager,Infantry,Yellow,True,Trainee
+Silque,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silque.png,Echoes: Shadows of Valentia,Female,White Magic|Black Magic,Cleric,Infantry,Blue,True,Unpromoted
+Clair,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clair.png,Echoes: Shadows of Valentia,Female,Lance,Pegasus Knight,Flying,Yellow,True,Unpromoted
+Clive,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clive.png,Echoes: Shadows of Valentia,Male,Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Forsyth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forsyth.png,Echoes: Shadows of Valentia,Male,Lance,Soldier,Infantry,Green,True,Unpromoted
+Python,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/python.png,Echoes: Shadows of Valentia,Male,Bow,Archer,Infantry,Blue,True,Unpromoted
+Luthier,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/luthier.png,Echoes: Shadows of Valentia,Male,Black Magic,Mage,Infantry,Orange|Yellow,True,Unpromoted
+Mathilda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mathilda.png,Echoes: Shadows of Valentia,Female,Lance,Paladin,Cavalry,Yellow,True,Promoted
+Delthea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/delthea.png,Echoes: Shadows of Valentia,Female,Black Magic,Mage,Infantry,Brown,True,Unpromoted
+Tatiana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tatiana.png,Echoes: Shadows of Valentia,Female,White Magic|Black Magic,Saint,Infantry,Turquoise,True,Promoted
+Zeke,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zeke.png,Echoes: Shadows of Valentia,Male,Lance,Gold Knight,Cavalry,Yellow,True,Promoted
+Mycen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mycen.png,Echoes: Shadows of Valentia,Male,Lance,Gold Knight,Cavalry,Gray,True,Promoted
+Celica,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/celica.png,Echoes: Shadows of Valentia,Female,Black Magic|Sword|White Magic,Priestess(Celica),Infantry,Orange,True,Unpromoted
+Mae,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mae.png,Echoes: Shadows of Valentia,Female,Black Magic,Mage,Infantry,Pink,True,Unpromoted
+Boey,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boey.png,Echoes: Shadows of Valentia,Male,Black Magic,Mage,Infantry,White,True,Unpromoted
+Genny,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/genny.png,Echoes: Shadows of Valentia,Female,White Magic|Black Magic,Cleric,Infantry,Pink,True,Unpromoted
+Saber,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saber.png,Echoes: Shadows of Valentia,Male,Sword,Mercenary,Infantry,Orange,True,Unpromoted
+Valbar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/valbar.png,Echoes: Shadows of Valentia,Male,Lance,Knight,Armored,Brown,True,Promoted
+Kamui,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kamui.png,Echoes: Shadows of Valentia,Male,Lance,Mercenary,Infantry,Black,True,Unpromoted
+Leon,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leon.png,Echoes: Shadows of Valentia,Male,Bow,Archer,Infantry,Purple,True,Unpromoted
+Atlas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/atlas.png,Echoes: Shadows of Valentia,Male,Sword,Villager,Infantry,Gray,True,Trainee
+Jesse,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jesse.png,Echoes: Shadows of Valentia,Male,Sword,Mercenary,Infantry,Yellow,True,Unpromoted
+Sonya,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sonya.png,Echoes: Shadows of Valentia,Female,Black Magic,Mage,Infantry,Purple,True,Unpromoted
+Deen (Echoes),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deen%20(echoes).png,Echoes: Shadows of Valentia,Male,Sword,Myrmidon,Infantry,Purple,True,Unpromoted
+Nomah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nomah.png,Echoes: Shadows of Valentia,Male,Black Magic|White Magic,Sage,Infantry,White,True,Promoted
+Conrad,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/conrad.png,Echoes: Shadows of Valentia,Male,Lance,Paladin,Cavalry,Orange,True,Promoted
+Emma,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/emma.png,Echoes: Shadows of Valentia,Female,Lance,Falcon Knight,Flying,Brown,False,Promoted
+Randal,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/randal.png,Echoes: Shadows of Valentia,Male,Lance,Paladin,Cavalry,Green,False,Promoted
+Yuzu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuzu.png,Echoes: Shadows of Valentia,Female,Sword|Black Magic|White Magic,Priestess,Infantry,Purple,False,Promoted
+Shade,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shade.png,Echoes: Shadows of Valentia,Female,Black Magic|White Magic,Saint,Infantry,Gray,False,Promoted
+Sigurd,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sigurd.png,Genealogy of the Holy War,Male,Sword|Lance,Knight Lord,Cavalry,Blue,True,Promoted
+Naoise,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/naoise.png,Genealogy of the Holy War,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Alec,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alec.png,Genealogy of the Holy War,Male,Sword|Lance,Cavalier,Cavalry,Green,True,Unpromoted
+Arden,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arden.png,Genealogy of the Holy War,Male,Sword,Sword Armor,Armored,Green,True,Unpromoted
+Azelle,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azelle.png,Genealogy of the Holy War,Male,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Red,True,Unpromoted
+Lex,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lex.png,Genealogy of the Holy War,Male,Axe,Axe Knight,Cavalry,Blue,True,Unpromoted
+Quan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/quan.png,Genealogy of the Holy War,Male,Lance,Duke Knight,Cavalry,Brown,True,Promoted
+Finn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/finn.png,Genealogy of the Holy War|Thracia 776,Male,Lance,Lance Knight,Cavalry,Blue,True,Unpromoted
+Ethlyn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ethlyn.png,Genealogy of the Holy War,Female,Sword|Staff,Troubadour,Cavalry,Pink,True,Unpromoted
+Midir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midir.png,Genealogy of the Holy War,Male,Bow,Arch Knight,Cavalry,Green,True,Unpromoted
+Dew,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dew.png,Genealogy of the Holy War,Male,Sword,Thief,Infantry,Yellow,True,Unpromoted
+Edain,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edain.png,Genealogy of the Holy War,Female,Staff,Priest,Infantry,Yellow,True,Unpromoted
+Ayra,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ayra.png,Genealogy of the Holy War,Female,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Deirdre,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deirdre.png,Genealogy of the Holy War,Female,Light Magic|Staff,Shaman(Genealogy),Infantry,Purple,True,Unpromoted
+Jamke,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jamke.png,Genealogy of the Holy War,Male,Bow,Bow Fighter,Infantry,Brown,True,Unpromoted
+Chulainn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chulainn.png,Genealogy of the Holy War,Male,Sword,Sword Fighter,Infantry,Yellow,True,Unpromoted
+Lachesis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lachesis.png,Genealogy of the Holy War,Female,Sword|Staff,Princess,Infantry,Yellow,True,Unpromoted
+Beowolf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beowolf.png,Genealogy of the Holy War,Male,Sword,Free Knight,Cavalry,Yellow,True,Unpromoted
+Lewyn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lewyn.png,Genealogy of the Holy War,Male,Fire Magic|Thunder Magic|Wind Magic|Light Magic,Bard(Mage),Infantry,Green,True,Unpromoted
+Silvia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silvia.png,Genealogy of the Holy War,Female,Sword,Dancer,Infantry,Green,True,Unique
+Erinys,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/erinys.png,Genealogy of the Holy War,Female,Sword|Lance,Pegasus Knight,Flying,Green,True,Unpromoted
+Brigid,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brigid.png,Genealogy of the Holy War,Female,Bow,Sniper,Infantry,Yellow,True,Promoted
+Tailtiu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tailtiu.png,Genealogy of the Holy War,Female,Thunder Magic,Thunder Mage,Infantry,Purple,True,Unpromoted
+Claud,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/claud.png,Genealogy of the Holy War,Male,Fire Magic|Thunder Magic|Wind Magic|Staff,High Priest,Infantry,Yellow,True,Promoted
+Seliph,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seliph.png,Genealogy of the Holy War,Male,Sword,Junior Lord,Infantry,Blue,True,Unpromoted
+Scáthach,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/scathach.png,Genealogy of the Holy War,Male,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Dalvin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dalvin.png,Genealogy of the Holy War,Male,Sword,Sword Fighter,Infantry,Black,False,Unpromoted
+Larcei,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/larcei.png,Genealogy of the Holy War,Female,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Creidne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/creidne.png,Genealogy of the Holy War,Female,Sword,Sword Fighter,Infantry,Black,False,Unpromoted
+Lana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lana.png,Genealogy of the Holy War,Female,Staff,Priest,Infantry,Orange,True,Unpromoted
+Miurne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miurne.png,Genealogy of the Holy War,Female,Staff,Priest,Infantry,Black,False,Unpromoted
+Diarmuid,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/diarmuid.png,Genealogy of the Holy War|Thracia 776,Male,Sword,Free Knight,Cavalry,Yellow,True,Unpromoted
+Tristan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tristan.png,Genealogy of the Holy War,Male,Sword,Free Knight,Cavalry,Brown,False,Unpromoted
+Lester,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lester.png,Genealogy of the Holy War,Male,Bow,Arch Knight,Cavalry,Blue,True,Unpromoted
+Deimne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deimne.png,Genealogy of the Holy War,Male,Bow,Arch Knight,Cavalry,Brown,False,Unpromoted
+Oifey,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oifey.png,Genealogy of the Holy War,Male,Sword|Lance,Paladin,Cavalry,Brown,True,Promoted
+Julia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/julia.png,Genealogy of the Holy War,Female,Light Magic|Staff,Shaman(Genealogy),Infantry,Purple,True,Unpromoted
+Fee,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fee.png,Genealogy of the Holy War,Female,Sword|Lance,Pegasus Knight,Flying,Green,True,Unpromoted
+Herminia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/herminia.png,Genealogy of the Holy War,Female,Sword|Lance,Pegasus Knight,Flying,Green,False,Unpromoted
+Arthur(Genealogy),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arthur(genealogy).png,Genealogy of the Holy War,Male,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Purple,True,Unpromoted
+Amid,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amid.png,Genealogy of the Holy War,Male,Wind Magic,Wind Mage,Infantry,Green,False,Unpromoted
+Iucharba,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/iucharba.png,Genealogy of the Holy War,Male,Axe,Axe Fighter,Infantry,Brown,True,Unpromoted
+Iuchar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/iuchar.png,Genealogy of the Holy War,Male,Axe,Axe Knight,Cavalry,Brown,True,Unpromoted
+Leif,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leif.png,Genealogy of the Holy War|Thracia 776,Male,Sword,Prince,Infantry,Brown,True,Unpromoted
+Nanna,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nanna.png,Genealogy of the Holy War|Thracia 776,Female,Sword|Staff,Troubadour,Cavalry,Yellow,True,Unpromoted
+Jeanne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeanne.png,Genealogy of the Holy War,Female,Sword|Staff,Troubadour,Cavalry,Brown,False,Unpromoted
+Shannan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shannan.png,Genealogy of the Holy War,Male,Sword,Swordmaster,Infantry,Black,True,Promoted
+Patty,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/patty.png,Genealogy of the Holy War,Female,Sword,Thief,Infantry,Yellow,True,Unpromoted
+Daisy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/daisy.png,Genealogy of the Holy War,Female,Sword,Thief,Infantry,Brown,False,Unpromoted
+Ares,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ares.png,Genealogy of the Holy War,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Lene,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lene.png,Genealogy of the Holy War,Female,Sword,Dancer,Infantry,Green,True,Unique
+Laylea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laylea.png,Genealogy of the Holy War,Female,Sword,Dancer,Infantry,Black,False,Unique
+Tine,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tine.png,Genealogy of the Holy War,Female,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Purple,True,Unpromoted
+Linda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linda.png,Genealogy of the Holy War,Female,Thunder Magic,Thunder Mage,Infantry,Brown,False,Unpromoted
+Febail,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/febail.png,Genealogy of the Holy War,Male,Bow,Bow Fighter,Infantry,Yellow,True,Unpromoted
+Asaello,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asaello.png,Genealogy of the Holy War,Male,Bow,Bow Fighter,Infantry,Black,False,Unpromoted
+Ced,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ced.png,Genealogy of the Holy War|Thracia 776,Male,Fire Magic|Thunder Magic|Wind Magic|Light Magic|Staff,Sage,Infantry,Green,True,Promoted
+Hawk,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hawk.png,Genealogy of the Holy War,Male,Fire Magic|Thunder Magic|Wind Magic|Light Magic|Staff,Sage,Infantry,Brown,False,Promoted
+Hannibal,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hannibal.png,Genealogy of the Holy War,Male,Sword|Lance|Axe|Bow,General,Armored,Brown,True,Promoted
+Coirpre,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/coirpre.png,Genealogy of the Holy War,Male,Staff,Priest,Infantry,Yellow,True,Unpromoted
+Charlot,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/charlot.png,Genealogy of the Holy War,Male,Staff,Priest,Infantry,Blue,False,Unpromoted
+Altena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/altena.png,Genealogy of the Holy War,Female,Sword|Lance,Wyvern Knight,Flying,Brown,True,Unpromoted
+Osian,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/osian.png,Thracia 776,Male,Axe,Axe Fighter,Infantry,Black,True,Unpromoted
+Halvan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/halvan.png,Thracia 776,Male,Axe,Axe Fighter,Infantry,Black,True,Unpromoted
+Eyvel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eyvel.png,Thracia 776,Female,Sword,Swordmaster,Infantry,Yellow,True,Promoted
+Dagdar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dagdar.png,Thracia 776,Male,Axe|Bow,Warrior,Infantry,Brown,True,Promoted
+Tanya,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tanya.png,Thracia 776,Female,Bow,Bow Fighter,Infantry,Brown,True,Unpromoted
+Marty,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marty.png,Thracia 776,Male,Axe,Brigand,Infantry,Brown,True,Unpromoted
+Ronan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ronan.png,Thracia 776,Male,Bow,Bow Fighter,Infantry,Blue,True,Unpromoted
+Safy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/safy.png,Thracia 776,Female,Staff,Priest,Infantry,Green,True,Unpromoted
+Lifis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lifis.png,Thracia 776,Male,Sword,Thief,Infantry,Brown,True,Unpromoted
+Machyua,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/machyua.png,Thracia 776,Female,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Brighton,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brighton.png,Thracia 776,Male,Axe,Axe Knight,Cavalry,Green,True,Unpromoted
+Lara,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lara.png,Thracia 776,Female,Sword,Thief,Infantry,Black,True,Unpromoted
+Fergus,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fergus.png,Thracia 776,Male,Sword,Free Knight,Cavalry,Yellow,True,Unpromoted
+Karin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karin.png,Thracia 776,Female,Lance,Pegasus Rider,Flying,Green,True,Unpromoted
+Dalsin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dalsin.png,Thracia 776,Male,Axe,Axe Armor,Armored,Brown,True,Unpromoted
+Asbel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asbel.png,Thracia 776,Male,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Turquoise,True,Unpromoted
+Hicks,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hicks.png,Thracia 776,Male,Axe,Axe Knight,Cavalry,Black,False,Unpromoted
+Shiva,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shiva.png,Thracia 776,Male,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Carrion,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/carrion.png,Thracia 776,Male,Sword|Lance,Cavalier,Cavalry,Brown,True,Unpromoted
+Selphina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selphina.png,Thracia 776,Female,Bow,Arch Knight,Cavalry,Blue,True,Unpromoted
+Cain(Thracia 776),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cain(thracia%20776).png,Thracia 776,Male,Lance,Lance Knight,Cavalry,Yellow,False,Unpromoted
+Alva,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alva.png,Thracia 776,Male,Lance,Lance Knight,Cavalry,Blue,False,Unpromoted
+Robert,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/robert.png,Thracia 776,Male,Bow,Arch Knight,Cavalry,Brown,False,Unpromoted
+Fred,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fred.png,Thracia 776,Male,Sword|Lance,Paladin,Cavalry,Brown,True,Promoted
+Olwen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/olwen.png,Thracia 776,Female,Sword|Fire Magic|Thunder Magic|Wind Magic,Mage Knight,Cavalry,Black,True,Promoted
+Mareeta,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mareeta.png,Thracia 776,Female,Sword,Sword Fighter,Infantry,Black,True,Unpromoted
+Salem,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/salem.png,Thracia 776,Male,Fire Magic|Thunder Magic|Wind Magic|Dark Magic|Staff,Loptr Mage,Infantry,Red,True,Unpromoted
+Perne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/perne.png,Thracia 776,Male,Sword,Thief Fighter,Infantry,Blue,True,Promoted
+Troude,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/troude.png,Thracia 776,Male,Sword,Sword Fighter,Infantry,Gray,False,Unpromoted
+Tina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tina.png,Thracia 776,Female,Staff,Priest,Infantry,Green,True,Unpromoted
+Glade,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/glade.png,Thracia 776,Male,Lance,Duke Knight,Cavalry,Black,True,Promoted
+Deen(Thracia 776),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deen(thracia%20776).png,Thracia 776,Male,Lance,Wyvern Knight,Flying,Black,True,Promoted
+Eda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eda.png,Thracia 776,Female,Lance,Dragon Rider,Flying,Black,True,Unpromoted
+Homer,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/homer.png,Thracia 776,Male,Fire Magic|Thunder Magic|Wind Magic|Light Magic,Bard(Mage),Infantry,Purple,True,Unpromoted
+Linoan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linoan.png,Thracia 776,Female,Fire Magic|Thunder Magic|Wind Magic|Light Magic|Staff,Cleric,Infantry,Pink,True,Unpromoted
+Ralf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ralf.png,Thracia 776,Male,Sword|Axe,Mercenary,Infantry,Brown,False,Promoted
+Ilios,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ilios.png,Thracia 776,Male,Sword|Fire Magic|Thunder Magic|Wind Magic,Mage Knight,Cavalry,Green,True,Promoted
+Sleuf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sleuf.png,Thracia 776,Male,Staff,Priest,Infantry,Yellow,True,Unpromoted
+Misha,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/misha.png,Thracia 776,Female,Lance,Pegasus Knight,Flying,Green,True,Promoted
+Sara,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sara.png,Thracia 776,Female,Fire Magic|Thunder Magic|Wind Magic|Light Magic|Staff,Cleric,Infantry,Purple,True,Unpromoted
+Shannam,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shannam.png,Thracia 776,Male,Sword,Swordmaster,Infantry,Black,True,Promoted
+Miranda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miranda.png,Thracia 776,Female,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Brown,True,Unpromoted
+Xavier,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xavier.png,Thracia 776,Male,Sword|Lance|Axe|Bow,General,Armored,Brown,True,Promoted
+Amalda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amalda.png,Thracia 776,Female,Sword|Staff,Paladin,Cavalry,Gray,True,Promoted
+Conomor,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/conomor.png,Thracia 776,Male,Sword|Lance,Paladin,Cavalry,Gray,True,Promoted
+Saias,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saias.png,Thracia 776,Male,Light Magic|Staff,High Priest,Infantry,Red,True,Promoted
+Galzus,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/galzus.png,Thracia 776,Male,Sword|Axe,Mercenary,Infantry,Gray,True,Promoted
+Roy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roy.png,The Binding Blade,Male,Sword,Lord,Infantry,Red,True,Unpromoted
+Marcus,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marcus.png,The Binding Blade|The Blazing Blade,Male,Sword|Lance|Axe,Paladin,Cavalry,White|Purple,True,Promoted
+Alen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alen.png,The Binding Blade,Male,Sword|Lance,Cavalier,Cavalry,Red,True,Unpromoted
+Lance,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lance.png,The Binding Blade,Male,Sword|Lance,Cavalier,Cavalry,Turquoise,True,Unpromoted
+Wolt,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wolt.png,The Binding Blade,Male,Bow,Archer,Infantry,Green,True,Unpromoted
+Bors,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bors.png,The Binding Blade,Male,Lance,Knight,Armored,Green,True,Unpromoted
+Merlinus,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merlinus.png,The Binding Blade|The Blazing Blade,Male,,Transporter,Transporter,Bald|Blue,True,Unique
+Elen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elen.png,The Binding Blade,Female,Staff,Priest,Infantry,Brown,True,Unpromoted
+Dieck,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dieck.png,The Binding Blade,Male,Sword,Mercenary,Infantry,Turquoise,True,Unpromoted
+Ward,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ward.png,The Binding Blade,Male,Axe,Fighter,Infantry,Brown,True,Unpromoted
+Lot,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lot.png,The Binding Blade,Male,Axe,Fighter,Infantry,Orange,True,Unpromoted
+Shanna,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shanna.png,The Binding Blade,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Chad,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chad.png,The Binding Blade,Male,Sword,Thief,Infantry,Yellow,True,Unique
+Lugh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lugh.png,The Binding Blade,Male,Anima Magic,Mage,Infantry,Green,True,Unpromoted
+Clarine,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clarine.png,The Binding Blade,Female,Staff,Troubadour,Cavalry,Yellow,True,Unpromoted
+Rutger,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rutger.png,The Binding Blade,Male,Sword,Myrmidon,Infantry,Brown,True,Unpromoted
+Saul,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saul.png,The Binding Blade,Male,Staff,Priest,Infantry,Purple,True,Unpromoted
+Dorothy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorothy.png,The Binding Blade,Female,Bow,Archer,Infantry,Brown,True,Unpromoted
+Sue,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sue.png,The Binding Blade,Female,Bow,Nomad,Cavalry,Green,True,Unpromoted
+Zelot,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelot.png,The Binding Blade,Male,Sword|Lance|Axe,Paladin,Cavalry,Gray,True,Promoted
+Trec,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/trec.png,The Binding Blade,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Noah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/noah.png,The Binding Blade,Male,Sword|Lance,Cavalier,Cavalry,Purple,True,Unpromoted
+Astolfo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astolfo.png,The Binding Blade,Male,Sword,Thief,Infantry,Purple,True,Unique
+Lilina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lilina.png,The Binding Blade,Female,Anima Magic,Mage,Infantry,Blue,True,Unpromoted
+Barthe,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/barthe.png,The Binding Blade,Male,Lance,Knight,Armored,Yellow,True,Unpromoted
+Ogier,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ogier.png,The Binding Blade,Male,Sword,Mercenary,Infantry,Blue,True,Unpromoted
+Gwendolyn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gwendolyn.png,The Binding Blade,Female,Lance,Knight,Armored,Pink,True,Unpromoted
+Fir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fir.png,The Binding Blade,Female,Sword,Myrmidon,Infantry,Black,True,Unpromoted
+Sin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sin.png,The Binding Blade,Male,Bow,Nomad,Cavalry,Green,True,Unpromoted
+Geese,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geese.png,The Binding Blade,Male,Axe,Pirate,Infantry,Purple,True,Unpromoted
+Gonzalez,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gonzalez.png,The Binding Blade,Male,Axe,Brigand,Infantry,Brown,True,Unpromoted
+Klein,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/klein.png,The Binding Blade,Male,Bow,Sniper,Infantry,Yellow,True,Promoted
+Thea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/thea.png,The Binding Blade,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Larum,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/larum.png,The Binding Blade,Female,,Dancer,Infantry,Orange,True,Unique
+Elffin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elffin.png,The Binding Blade,Male,,Bard(Dancer),Infantry,Yellow,True,Unique
+Echidna,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/echidna.png,The Binding Blade,Female,Sword|Axe,Hero,Infantry,Gray,True,Promoted
+Bartre,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bartre.png,The Binding Blade|The Blazing Blade,Male,Axe|Bow,Warrior,Infantry,Brown,True,Promoted
+Raigh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raigh.png,The Binding Blade,Male,Dark Magic,Shaman,Infantry,Green,True,Unpromoted
+Cath,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cath.png,The Binding Blade,Female,Sword,Thief,Infantry,Orange,True,Unique
+Melady,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/melady.png,The Binding Blade,Female,Lance,Wyvern Rider,Flying,Red,True,Unpromoted
+Perceval,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/perceval.png,The Binding Blade,Male,Sword|Lance|Axe,Paladin,Cavalry,Yellow,True,Promoted
+Cecilia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cecilia.png,The Binding Blade,Female,Anima Magic|Staff,Valkyrie,Cavalry,Green,True,Promoted
+Sophia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sophia.png,The Binding Blade,Female,Dark Magic,Shaman,Infantry,Purple,True,Unpromoted
+Igrene,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/igrene.png,The Binding Blade,Female,Bow,Sniper,Infantry,Yellow,True,Promoted
+Garret,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/garret.png,The Binding Blade,Male,Axe,Berserker,Infantry,Bald,True,Promoted
+Fae,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fae.png,The Binding Blade,Female,Dragonstone,Manakete,Infantry,Pink,True,Unique
+Hugh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hugh.png,The Binding Blade,Male,Anima Magic,Mage,Infantry,Purple,True,Unpromoted
+Zeiss,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zeiss.png,The Binding Blade,Male,Lance,Wyvern Rider,Flying,Red,True,Unpromoted
+Douglas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/douglas.png,The Binding Blade,Male,Lance|Axe,General,Armored,Brown,True,Promoted
+Niime,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/niime.png,The Binding Blade,Female,Dark Magic|Staff,Druid,Infantry,Gray,True,Promoted
+Juno,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/juno.png,The Binding Blade,Female,Lance|Sword,Falcon Knight,Flying,Purple,True,Promoted
+Dayan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dayan.png,The Binding Blade,Male,Sword|Bow,Nomadic Trooper,Cavalry,Green,True,Promoted
+Yoder,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yoder.png,The Binding Blade,Male,Light Magic|Staff,Bishop,Infantry,Gray,True,Promoted
+Karel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karel.png,The Binding Blade|The Blazing Blade,Male,Sword,Swordmaster,Infantry,Black,True,Promoted
+Hector,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hector.png,The Blazing Blade,Male,Axe,Lord,Infantry,Blue,True,Unpromoted
+Matthew,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/matthew.png,The Blazing Blade,Male,Sword,Thief,Infantry,Brown,True,Unpromoted
+Oswin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oswin.png,The Blazing Blade,Male,Lance,Knight,Armored,Yellow,True,Unpromoted
+Serra,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/serra.png,The Blazing Blade,Female,Staff,Cleric,Infantry,Pink,True,Unpromoted
+Eliwood,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eliwood.png,The Blazing Blade,Male,Sword,Lord,Infantry,Red,True,Unpromoted
+Lowen,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lowen.png,The Blazing Blade,Male,Sword|Lance,Cavalier,Cavalry,Turquoise,True,Unpromoted
+Rebecca,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rebecca.png,The Blazing Blade,Female,Bow,Archer,Infantry,Green,True,Unpromoted
+Dorcas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorcas.png,The Blazing Blade,Male,Axe,Fighter,Infantry,Red,True,Unpromoted
+Guy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/guy.png,The Blazing Blade,Male,Sword,Myrmidon,Infantry,Green,True,Unpromoted
+Erk,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/erk.png,The Blazing Blade,Male,Anima Magic,Mage,Infantry,Purple,True,Unpromoted
+Priscilla,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/priscilla.png,The Blazing Blade,Female,Staff,Troubadour,Cavalry,Red,True,Unpromoted
+Lyn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lyn.png,The Blazing Blade,Female,Sword,Lord,Infantry,Green,True,Unpromoted
+Sain,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sain.png,The Blazing Blade,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Kent,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kent.png,The Blazing Blade,Male,Sword|Lance,Cavalier,Cavalry,Orange,True,Unpromoted
+Wil,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wil.png,The Blazing Blade,Male,Bow,Archer,Infantry,Brown,True,Unpromoted
+Florina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/florina.png,The Blazing Blade,Female,Lance,Pegasus Knight,Flying,Purple,True,Unpromoted
+Raven,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raven.png,The Blazing Blade,Male,Sword,Mercenary,Infantry,Red,True,Unpromoted
+Lucius,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucius.png,The Blazing Blade,Male,Light Magic,Monk,Infantry,Yellow,True,Unpromoted
+Canas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/canas.png,The Blazing Blade,Male,Dark Magic,Shaman,Infantry,Purple,True,Unpromoted
+Dart,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dart.png,The Blazing Blade,Male,Axe,Pirate,Infantry,Black,True,Unpromoted
+Fiora,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fiora.png,The Blazing Blade,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Legault,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/legault.png,The Blazing Blade,Male,Sword,Thief,Infantry,Purple,True,Unpromoted
+Ninian,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ninian.png,The Blazing Blade,Female,,Dancer,Infantry,Blue,True,Unique
+Isadora,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/isadora.png,The Blazing Blade,Female,Sword|Lance|Axe,Paladin,Cavalry,Blue,True,Promoted
+Heath,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/heath.png,The Blazing Blade,Male,Lance,Wyvern Rider,Flying,Green|White,True,Unpromoted
+Rath,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rath.png,The Blazing Blade,Male,Bow,Nomad,Cavalry,Green,True,Unpromoted
+Hawkeye,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hawkeye.png,The Blazing Blade,Male,Axe,Berserker,Infantry,Yellow,True,Promoted
+Geitz,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geitz.png,The Blazing Blade,Male,Axe|Bow,Warrior,Infantry,Pink,True,Promoted
+Wallace,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wallace.png,The Blazing Blade,Male,Lance,Knight,Armored,Bald,True,Unpromoted
+Farina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/farina.png,The Blazing Blade,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Pent,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pent.png,The Blazing Blade,Male,Anima Magic|Staff,Sage,Infantry,Gray,True,Promoted
+Louise,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/louise.png,The Blazing Blade,Female,Bow,Sniper,Infantry,Yellow,True,Promoted
+Harken,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/harken.png,The Blazing Blade,Male,Sword|Axe,Hero,Infantry,Yellow,True,Promoted
+Nino,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nino.png,The Blazing Blade,Female,Anima Magic,Mage,Infantry,Green,True,Unpromoted
+Jaffar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jaffar.png,The Blazing Blade,Male,Sword,Assassin,Infantry,Red,True,Promoted
+Vaida,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vaida.png,The Blazing Blade,Female,Sword|Lance,Wyvern Lord,Flying,Yellow,True,Promoted
+Nils,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nils.png,The Blazing Blade,Male,,Bard(Dancer),Infantry,Turquoise,True,Unique
+Karla,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karla.png,The Blazing Blade,Female,Sword,Swordmaster,Infantry,Black,True,Promoted
+Renault,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/renault.png,The Blazing Blade,Male,Light Magic|Staff,Bishop,Infantry,Green,True,Promoted
+Athos,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/athos.png,The Blazing Blade,Male,Anima Magic|Light Magic|Dark Magic|Staff,Archsage,Infantry,White,True,Unique
+Eirika,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eirika.png,The Sacred Stones,Female,Sword,Lord,Infantry,Turquoise,True,Unpromoted
+Seth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seth.png,The Sacred Stones,Male,Sword|Lance,Paladin,Cavalry,Red,True,Promoted
+Franz,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/franz.png,The Sacred Stones,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Gilliam,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gilliam.png,The Sacred Stones,Male,Lance,Knight,Armored,Black,True,Unpromoted
+Vanessa,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vanessa.png,The Sacred Stones,Female,Lance,Pegasus Knight,Flying,Green,True,Unpromoted
+Moulder,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/moulder.png,The Sacred Stones,Male,Staff,Priest,Infantry,Brown,True,Unpromoted
+Ross,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ross.png,The Sacred Stones,Male,Axe,Journeyman,Infantry,Black,True,Trainee
+Garcia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/garcia.png,The Sacred Stones,Male,Axe,Fighter,Infantry,Black,True,Unpromoted
+Neimi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/neimi.png,The Sacred Stones,Female,Bow,Archer,Infantry,Pink,True,Unpromoted
+Colm,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/colm.png,The Sacred Stones,Male,Sword,Thief,Infantry,Blue,True,Unpromoted
+Artur,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/artur.png,The Sacred Stones,Male,Light Magic,Monk,Infantry,Orange,True,Unpromoted
+Lute,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lute.png,The Sacred Stones,Female,Anima Magic,Mage,Infantry,Purple,True,Unpromoted
+Natasha,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/natasha.png,The Sacred Stones,Female,Staff,Cleric,Infantry,Yellow,True,Unpromoted
+Joshua,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/joshua.png,The Sacred Stones,Male,Sword,Myrmidon,Infantry,Red,True,Unpromoted
+Ephraim,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ephraim.png,The Sacred Stones,Male,Lance,Lord,Infantry,Turquoise,True,Unpromoted
+Forde,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forde.png,The Sacred Stones,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Kyle,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kyle.png,The Sacred Stones,Male,Sword|Lance,Cavalier,Cavalry,Green,True,Unpromoted
+Orson,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/orson.png,The Sacred Stones,Male,Sword|Lance,Paladin,Cavalry,Brown,True,Promoted
+Tana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tana.png,The Sacred Stones,Female,Lance,Pegasus Knight,Flying,Blue,True,Unpromoted
+Amelia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amelia.png,The Sacred Stones,Female,Lance,Recruit,Infantry,Yellow,True,Trainee
+Innes,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/innes.png,The Sacred Stones,Male,Bow,Sniper,Infantry,Green,True,Promoted
+Gerik,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gerik.png,The Sacred Stones,Male,Sword,Mercenary,Infantry,Green,True,Unpromoted
+Tethys,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tethys.png,The Sacred Stones,Female,,Dancer,Infantry,Red,True,Unique
+Marisa,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marisa.png,The Sacred Stones,Female,Sword,Myrmidon,Infantry,Pink,True,Unpromoted
+L'Arachel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/l'arachel.png,The Sacred Stones,Female,Staff,Troubadour,Cavalry,Green,True,Unpromoted
+Dozla,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dozla.png,The Sacred Stones,Male,Axe,Berserker,Infantry,Green,True,Promoted
+Saleh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saleh.png,The Sacred Stones,Male,Anima Magic|Staff,Sage,Infantry,Brown,True,Promoted
+Ewan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ewan.png,The Sacred Stones,Male,Anima Magic,Pupil,Infantry,Red,True,Trainee
+Cormag,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cormag.png,The Sacred Stones,Male,Lance,Wyvern Rider,Flying,Yellow,True,Unpromoted
+Rennac,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rennac.png,The Sacred Stones,Male,Sword,Rogue,Infantry,Brown,True,Promoted
+Duessel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/duessel.png,The Sacred Stones,Male,Sword|Lance|Axe,Great Knight,Cavalry|Armored,Gray,True,Promoted
+Knoll,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/knoll.png,The Sacred Stones,Male,Dark Magic,Shaman,Infantry,Purple,True,Unpromoted
+Myrrh,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/myrrh.png,The Sacred Stones,Female,Dragonstone,Manakete,Flying,Purple,True,Unique
+Syrene,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/syrene.png,The Sacred Stones,Female,Sword|Lance,Falcoknight,Flying,Green,True,Promoted
+Ike,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ike.png,Path of Radiance|Radiant Dawn,Male,Sword,Ranger,Infantry,Blue,True,Unpromoted
+Boyd,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boyd.png,Path of Radiance|Radiant Dawn,Male,Axe,Fighter,Infantry,Green,True,Unpromoted
+Titania,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/titania.png,Path of Radiance|Radiant Dawn,Female,Axe|Lance,Paladin,Cavalry,Red,True,Promoted
+Oscar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oscar.png,Path of Radiance|Radiant Dawn,Male,Lance,Lance Knight,Cavalry,Green,True,Unpromoted
+Rhys,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rhys.png,Path of Radiance|Radiant Dawn,Male,Staff,Priest,Infantry,Orange,True,Unpromoted
+Shinon,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shinon.png,Path of Radiance|Radiant Dawn,Male,Bow,Sniper,Infantry,Red,True,Promoted
+Gatrie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gatrie.png,Path of Radiance|Radiant Dawn,Male,Lance,Knight,Armored,Yellow,True,Unpromoted
+Soren,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/soren.png,Path of Radiance|Radiant Dawn,Male,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Black or Green,True,Unpromoted
+Mia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mia.png,Path of Radiance|Radiant Dawn,Female,Sword,Myrmidon,Infantry,Purple,True,Unpromoted
+Ilyana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ilyana.png,Path of Radiance|Radiant Dawn,Female,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Purple,True,Unpromoted
+Mist,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mist.png,Path of Radiance|Radiant Dawn,Female,Staff,Cleric,Infantry,Brown,True,Unpromoted
+Rolf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rolf.png,Path of Radiance|Radiant Dawn,Male,Bow,Archer,Infantry,Green,True,Unpromoted
+Marcia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marcia.png,Path of Radiance|Radiant Dawn,Female,Lance,Pegasus Knight,Flying,Pink,True,Unpromoted
+Lethe,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lethe.png,Path of Radiance|Radiant Dawn,Female,Strike,Cat,Laguz,Orange,True,Unique
+Mordecai,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mordecai.png,Path of Radiance|Radiant Dawn,Male,Strike,Tiger,Laguz,Blue,True,Unique
+Volke,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/volke.png,Path of Radiance|Radiant Dawn,Male,Knife,Thief,Infantry,Brown,True,Unpromoted
+Kieran,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kieran.png,Path of Radiance|Radiant Dawn,Male,Axe,Axe Knight,Cavalry,Red,True,Unpromoted
+Nephenee,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nephenee.png,Path of Radiance|Radiant Dawn,Female,Lance,Soldier,Infantry,Green,True,Unpromoted
+Brom,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brom.png,Path of Radiance|Radiant Dawn,Male,Lance,Knight,Armored,Brown,True,Unpromoted
+Zihark,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zihark.png,Path of Radiance|Radiant Dawn,Male,Sword,Myrmidon,Infantry,Gray,True,Unpromoted
+Sothe,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sothe.png,Path of Radiance|Radiant Dawn,Male,Knife,Thief,Infantry,Green,True,Unique
+Jill,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jill.png,Path of Radiance|Radiant Dawn,Female,Lance,Wyvern Rider,Flying,Red,True,Unpromoted
+Astrid,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astrid.png,Path of Radiance|Radiant Dawn,Female,Bow,Bow Knight,Cavalry,Black,True,Unpromoted
+Makalov,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/makalov.png,Path of Radiance|Radiant Dawn,Male,Sword,Sword Knight,Cavalry,Pink,True,Unpromoted
+Tormod,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tormod.png,Path of Radiance|Radiant Dawn,Male,Fire Magic|Thunder Magic|Wind Magic,Mage,Infantry,Red,True,Unpromoted
+Muarim,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/muarim.png,Path of Radiance|Radiant Dawn,Male,Strike,Tiger,Laguz,Green,True,Unique
+Stefan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/stefan.png,Path of Radiance|Radiant Dawn,Male,Sword,Swordmaster,Infantry,Green,True,Promoted
+Devdan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/devdan.png,Path of Radiance,Male,Lance,Halberdier,Infantry,Green,True,Promoted
+Tanith,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tanith.png,Path of Radiance|Radiant Dawn,Female,Sword|Lance,Falcon Knight,Flying,Brown,True,Promoted
+Reyson,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reyson.png,Path of Radiance|Radiant Dawn,Male,,Heron,Laguz|Flying,Yellow,True,Unique
+Janaff,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/janaff.png,Path of Radiance|Radiant Dawn,Male,Strike,Hawk,Laguz|Flying,Brown,True,Unique
+Ulki,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ulki.png,Path of Radiance|Radiant Dawn,Male,Strike,Hawk,Laguz|Flying,Brown,True,Unique
+Calill,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/calill.png,Path of Radiance|Radiant Dawn,Female,Fire Magic|Thunder Magic|Wind Magic|Knife,Sage,Infantry,Yellow,True,Promoted
+Tauroneo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tauroneo.png,Path of Radiance|Radiant Dawn,Male,Sword|Lance,General,Armored,Gray,True,Promoted
+Ranulf,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ranulf.png,Path of Radiance|Radiant Dawn,Male,Strike,Cat,Laguz,Blue,True,Unique
+Haar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/haar.png,Path of Radiance|Radiant Dawn,Male,Lance|Axe,Wyvern Lord,Flying,Brown,True,Promoted
+Bastian,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bastian.png,Path of Radiance|Radiant Dawn,Male,Fire Magic|Thunder Magic|Wind Magic|Knife,Sage,Infantry,Yellow,True,Promoted
+Lucia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucia.png,Path of Radiance|Radiant Dawn,Female,Sword,Swordmaster,Infantry,Blue,True,Promoted
+Geoffrey,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geoffrey.png,Path of Radiance|Radiant Dawn,Male,Lance|Bow,Paladin,Cavalry,Blue,True,Promoted
+Largo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/largo.png,Path of Radiance,Male,Axe,Berserker,Infantry,Purple,True,Promoted
+Elincia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elincia.png,Path of Radiance|Radiant Dawn,Female,Sword|Staff,Princess Crimea,Flying,Green,True,Unique
+Nasir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nasir.png,Path of Radiance|Radiant Dawn,Male,Strike,White Dragon,Laguz,Blue,True,Unique
+Ena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ena.png,Path of Radiance|Radiant Dawn,Female,Strike,Red Dragon,Laguz,Pink,True,Unique
+Tibarn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tibarn.png,Path of Radiance|Radiant Dawn,Male,Strike,Hawk,Laguz|Flying,Black,True,Unique
+Naesala,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/naesala.png,Path of Radiance|Radiant Dawn,Male,Strike,Raven,Laguz|Flying,Blue,True,Unique
+Giffca,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/giffca.png,Path of Radiance|Radiant Dawn,Male,Strike,Lion,Laguz,Black,True,Unique
+Micaiah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/micaiah.png,Radiant Dawn,Female,Light Magic,Light Mage,Infantry,White,True,Unpromoted
+Edward,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edward.png,Radiant Dawn,Male,Sword,Myrmidon,Infantry,Brown,True,Unpromoted
+Leonardo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leonardo.png,Radiant Dawn,Male,Bow,Archer,Infantry,Yellow,True,Unpromoted
+Nolan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nolan.png,Radiant Dawn,Male,Axe,Fighter,Infantry,Brown,True,Unpromoted
+Laura,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laura.png,Radiant Dawn,Female,Staff,Priest,Infantry,Black,True,Unpromoted
+Aran,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/aran.png,Radiant Dawn,Male,Lance,Soldier,Infantry,Green,True,Unpromoted
+Meg,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/meg.png,Radiant Dawn,Female,Sword,Armor Sword,Armored,Brown,True,Unpromoted
+Volug,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/volug.png,Radiant Dawn,Male,Strike,Wolf,Laguz,Black,True,Unique
+Fiona,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fiona.png,Radiant Dawn,Female,Lance,Lance Knight,Cavalry,Red,True,Unpromoted
+Vika,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vika.png,Radiant Dawn,Female,Strike,Raven,Laguz|Flying,Green,True,Unique
+Rafiel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rafiel.png,Radiant Dawn,Male,,Heron,Laguz,Yellow,True,Unique
+Nailah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nailah.png,Radiant Dawn,Female,Strike,Wolf Queen,Laguz,Gray,True,Unique
+Black Knight,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/black%20knight.png,Radiant Dawn,Male,Sword|Lance,Black Knight,Armored,Helmet,True,Unique
+Nealuchi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nealuchi.png,Radiant Dawn,Male,Strike,Raven,Laguz|Flying,Bald|White,True,Unique
+Leanne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leanne.png,Radiant Dawn,Female,,Heron,Laguz|Flying,Yellow,True,Unique
+Heather,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/heather.png,Radiant Dawn,Female,Knife,Rogue,Infantry,Yellow,True,Promoted
+Danved,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/danved.png,Radiant Dawn,Male,Lance,Halberdier,Infantry,Green,True,Promoted
+Kyza,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kyza.png,Radiant Dawn,Non Binary,Strike,Tiger,Laguz,Gray,True,Unique
+Lyre,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lyre.png,Radiant Dawn,Female,Strike,Cat,Laguz,Orange,True,Unique
+Sigrun,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sigrun.png,Radiant Dawn,Female,Sword|Lance,Falconknight,Flying,Turquoise,True,Promoted
+Skrimir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/skrimir.png,Radiant Dawn,Male,Strike,Lion,Laguz,Red,True,Unique
+Sanaki,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sanaki.png,Radiant Dawn,Female,Fire Magic|Thunder Magic|Wind Magic|Light Magic,Empress,Infantry,Purple,True,Unique
+Pelleas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pelleas.png,Radiant Dawn,Male,Thunder Magic|Dark Magic,Dark Sage,Infantry,Purple,True,Promoted
+Oliver,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oliver.png,Radiant Dawn,Male,Light Magic|Staff,Saint,Infantry,Bald|Red,True,Promoted
+Caineghis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caineghis.png,Radiant Dawn,Male,Strike,Lion King,Laguz,Red,True,Unique
+Kurthnaga,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kurthnaga.png,Radiant Dawn,Male,Strike,Dragon Prince,Laguz,Green,True,Unique
+Renning,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/renning.png,Radiant Dawn,Male,Sword|Axe,Gold Knight,Cavalry,Green,True,Promoted
+Gareth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gareth.png,Radiant Dawn,Male,Strike,Red Dragon,Laguz,Red,True,Unique
+Sephiran,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sephiran.png,Radiant Dawn,Male,Light Magic|Dark Magic|Staff,Chancellor,Infantry,Black,True,Unique
+Robin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/robin.png,Awakening,Male|Female,Sword|Tome,Tactician,Infantry,White,True,Unpromoted
+Chrom,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chrom.png,Awakening,Male,Sword,Lord,Infantry,Blue,True,Unpromoted
+Lissa,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lissa.png,Awakening,Female,Staff,Cleric,Infantry,Yellow,True,Unpromoted
+Frederick,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frederick.png,Awakening,Male,Sword|Lance|Axe,Great Knight,Cavalry|Armored,Brown,True,Promoted
+Sully,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sully.png,Awakening,Female,Sword|Lance,Cavalier,Cavalry,Red,True,Unpromoted
+Virion,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/virion.png,Awakening,Male,Bow,Archer,Infantry,Blue,True,Unpromoted
+Stahl,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/stahl.png,Awakening,Male,Sword|Lance,Cavalier,Cavalry,Brown,True,Unpromoted
+Vaike,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vaike.png,Awakening,Male,Axe,Fighter,Infantry,Yellow,True,Unpromoted
+Miriel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miriel.png,Awakening,Female,Tome,Mage,Infantry,Red,True,Unpromoted
+Sumia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sumia.png,Awakening,Female,Lance,Pegasus Knight,Flying,Brown,True,Unpromoted
+Kellam,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kellam.png,Awakening,Male,Lance,Knight,Armored,Brown,True,Unpromoted
+Lon'qu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lon'qu.png,Awakening,Male,Sword,Myrmidon,Infantry,Brown,True,Unpromoted
+Ricken,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ricken.png,Awakening,Male,Tome,Mage,Infantry,Brown,True,Unpromoted
+Maribelle,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/maribelle.png,Awakening,Female,Staff,Troubadour,Cavalry,Yellow,True,Unpromoted
+Panne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/panne.png,Awakening,Female,Beaststone,Taguel,Infantry,Brown,True,Unique
+Gaius,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gaius.png,Awakening,Male,Sword,Thief,Infantry,Orange,True,Unpromoted
+Cordelia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cordelia.png,Awakening,Female,Lance,Pegasus Knight,Flying,Red,True,Unpromoted
+Gregor,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gregor.png,Awakening,Male,Sword,Mercenary,Infantry,Red,True,Unpromoted
+Nowi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nowi.png,Awakening,Female,Dragonstone,Manakete,Infantry,Yellow|Green,True,Unique
+Libra,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/libra.png,Awakening,Male,Axe|Staff,War Monk,Infantry,Yellow,True,Promoted
+Tharja,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tharja.png,Awakening,Female,Tome,Dark Mage,Infantry,Black,True,Unpromoted
+Olivia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/olivia.png,Awakening,Female,Sword,Dancer,Infantry,Pink,True,Unique
+Cherche,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cherche.png,Awakening,Female,Axe,Wyvern Rider,Flying,Red,True,Unpromoted
+Henry,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/henry.png,Awakening,Male,Tome,Dark Mage,Infantry,White,True,Unpromoted
+Lucina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucina.png,Awakening,Female,Sword,Lord,Infantry,Blue,True,Unpromoted
+Say'ri,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/say'ri.png,Awakening,Female,Sword,Swordmaster,Infantry,Black,True,Promoted
+Basilio,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/basilio.png,Awakening,Male,Axe|Bow,Warrior,Infantry,Bald,True,Promoted
+Flavia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flavia.png,Awakening,Female,Sword|Axe,Hero,Infantry,Yellow,True,Promoted
+Donnel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/donnel.png,Awakening,Male,Lance,Villager,Infantry,Brown,True,Trainee
+Anna(Awakening),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(awakening).png,Awakening,Female,Sword|Staff,Trickster,Infantry,Red,True,Promoted
+Owain,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/owain.png,Awakening,Male,Sword,Myrmidon,Infantry,Yellow,True,Unpromoted
+Inigo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/inigo.png,Awakening,Male,Sword,Mercenary,Infantry,Gray,True,Unpromoted
+Brady,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brady.png,Awakening,Male,Staff,Priest,Infantry,Yellow,True,Unpromoted
+Kjelle,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kjelle.png,Awakening,Female,Lance,Knight,Armored,Black,True,Unpromoted
+Cynthia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cynthia.png,Awakening,Female,Lance,Pegasus Knight,Flying,Brown,True,Unpromoted
+Severa,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/severa.png,Awakening,Female,Sword,Mercenary,Infantry,Red,True,Unpromoted
+Gerome,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gerome.png,Awakening,Male,Axe,Wyvern Rider,Flying,Red,True,Unpromoted
+Morgan,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/morgan.png,Awakening,Male|Female,Sword|Tome,Tactician,Infantry,Black,True,Unpromoted
+Yarne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yarne.png,Awakening,Male,Beaststone,Taguel,Infantry,Brown,True,Unpromoted
+Laurent,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laurent.png,Awakening,Male,Tome,Mage,Infantry,Red,True,Unpromoted
+Noire,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/noire.png,Awakening,Female,Bow,Archer,Infantry,Black,True,Unpromoted
+Nah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nah.png,Awakening,Female,Dragonstone,Manakete,Infantry,Green,True,Unpromoted
+Corrin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/corrin.png,Fates,Male|Female,Dragonstone|Sword,Nohr Prince/Princess,Infantry,White,True,Unpromoted
+Felicia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/felicia.png,Fates,Female,Dagger|Staff,Maid,Infantry,Pink,True,Promoted
+Jakob,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jakob.png,Fates,Male,Dagger|Staff,Butler,Infantry,Gray,True,Promoted
+Azura,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azura.png,Fates,Female,Lance,Songstress,Infantry,Blue,True,Unique
+Gunter,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gunter.png,Fates,Male,Sword|Lance|Axe,Great Knight,Cavalry|Armored,Purple,True,Promoted
+Sakura,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sakura.png,Fates,Female,Staff,Shrine Maiden,Infantry,Red,True,Unpromoted
+Hana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hana.png,Fates,Female,Sword,Samurai,Infantry,Brown,True,Unpromoted
+Subaki,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/subaki.png,Fates,Male,Lance,Sky Knight,Flying,Red,True,Unpromoted
+Kaze,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kaze.png,Fates,Male,Dagger,Ninja,Infantry,Green,True,Unpromoted
+Rinkah,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rinkah.png,Fates,Female,Axe,Oni Savage,Infantry,White,True,Unpromoted
+Hayato,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hayato.png,Fates,Male,Tome,Diviner,Infantry,Brown,True,Unpromoted
+Takumi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/takumi.png,Fates,Male,Bow,Archer,Infantry,Beige,True,Unpromoted
+Oboro,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oboro.png,Fates,Female,Lance,Spear Fighter,Infantry,Blue,True,Unpromoted
+Hinata,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hinata.png,Fates,Male,Sword,Samurai,Infantry,Brown,True,Unpromoted
+Saizo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saizo.png,Fates,Male,Dagger,Ninja,Infantry,Red,True,Unpromoted
+Orochi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/orochi.png,Fates,Female,Tome,Diviner,Infantry,Brown,True,Unpromoted
+Reina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reina.png,Fates,Female,Lance|Bow,Kinshi Knight,Flying,Blue,True,Promoted
+Kagero,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kagero.png,Fates,Female,Dagger,Ninja,Infantry,Brown,True,Unpromoted
+Camilla,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/camilla.png,Fates,Female,Axe|Tome,Malig Knight,Flying,Purple,True,Promoted
+Beruka,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beruka.png,Fates,Female,Axe,Wyvern Rider,Flying,Blue,True,Unpromoted
+Selena,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selena.png,Fates,Female,Sword,Mercenary,Infantry,Red,True,Unpromoted
+Kaden,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kaden.png,Fates,Male,Beaststone,Kitsune,Infantry,Brown,True,Unpromoted
+Keaton,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/keaton.png,Fates,Male,Beaststone,Wolfskin,Infantry,White|Black,True,Unpromoted
+Elise,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elise.png,Fates,Female,Staff,Troubadour,Cavalry,Yellow|Purple,True,Unpromoted
+Arthur(Fates),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arthur(fates).png,Fates,Male,Axe,Fighter,Infantry,Yellow,True,Unpromoted
+Effie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/effie.png,Fates,Female,Lance,Knight,Armored,Gray,True,Unpromoted
+Benny,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/benny.png,Fates,Male,Lance,Knight,Armored,Yellow,True,Unpromoted
+Charlotte,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/charlotte.png,Fates,Female,Axe,Fighter,Infantry,Yellow,True,Unpromoted
+Silas,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silas.png,Fates,Male,Sword|Lance,Cavalier,Cavalry,Gray,True,Unpromoted
+Nyx,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nyx.png,Fates,Female,Tome,Dark Mage,Infantry,Black,True,Unpromoted
+Shura,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shura.png,Fates,Male,Bow|Staff,Adventurer,Infantry,White|Black,True,Promoted
+Ryoma,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ryoma.png,Fates,Male,Sword,Swordmaster,Infantry,Brown,True,Promoted
+Hinoka,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hinoka.png,Fates,Female,Lance,Sky Knight,Flying,Red,True,Unpromoted
+Azama,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azama.png,Fates,Male,Staff,Monk(Fates),Infantry,Brown,True,Unpromoted
+Setsuna,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/setsuna.png,Fates,Female,Bow,Archer,Infantry,Turquoise,True,Unpromoted
+Scarlet,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/scarlet.png,Fates,Female,Lance|Axe,Wyvern Lord,Flying,Yellow,True,Promoted
+Xander,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xander.png,Fates,Male,Sword|Lance,Paladin,Cavalry,Yellow,True,Promoted
+Leo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leo.png,Fates,Male,Sword|Tome,Dark Knight,Cavalry,Yellow,True,Promoted
+Odin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/odin.png,Fates,Male,Tome,Dark Mage,Infantry,Yellow,True,Unpromoted
+Laslow,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laslow.png,Fates,Male,Sword,Mercenary,Infantry,Gray,True,Unpromoted
+Peri,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/peri.png,Fates,Female,Sword|Lance,Cavalier,Cavalry,Blue|Pink,True,Unpromoted
+Niles,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/niles.png,Fates,Male,Bow,Outlaw,Infantry,White,True,Unpromoted
+Fuga,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fuga.png,Fates,Male,Sword|Lance|Axe,Master of Arms,Infantry,Bald,True,Promoted
+Flora,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flora.png,Fates,Female,Dagger|Staff,Maid,Infantry,Blue,True,Promoted
+Izana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/izana.png,Fates,Male,Tome|Staff,Onmyoji,Infantry,White,True,Promoted
+Yukimura,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yukimura.png,Fates,Male,Dagger|Bow,Mechanist,Puppet,Turquoise,True,Promoted
+Mozu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mozu.png,Fates,Female,Lance,Villager,Infantry,Brown,True,Trainee
+Kana,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kana.png,Fates,Male|Female,Dragonstone|Sword,Nohr Prince/Princess,Infantry,White,True,Unpromoted
+Shigure,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shigure.png,Fates,Male,Lance,Sky Knight,Flying,Blue,True,Unpromoted
+Dwyer,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dwyer.png,Fates,Male,Staff,Troubadour,Cavalry,Gray,True,Unpromoted
+Sophie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sophie.png,Fates,Female,Sword|Lance,Cavalier,Cavalry,Gray,True,Unpromoted
+Midori,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midori.png,Fates,Female,Bow,Apothecary,Infantry,Green,True,Unpromoted
+Shiro,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shiro.png,Fates,Male,Lance,Spear Fighter,Infantry,Brown,True,Unpromoted
+Kiragi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kiragi.png,Fates,Male,Bow,Archer,Infantry,Beige,True,Unpromoted
+Asugi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asugi.png,Fates,Male,Dagger,Ninja,Infantry,Orange,True,Unpromoted
+Selkie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selkie.png,Fates,Female,Beaststone,Kitsune,Infantry,Yellow|Brown,True,Unpromoted
+Hisame,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hisame.png,Fates,Male,Sword,Samurai,Infantry,Brown,True,Unpromoted
+Mitama,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mitama.png,Fates,Female,Staff,Shrine Maiden,Infantry,Pink,True,Unpromoted
+Caeldori,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caeldori.png,Fates,Female,Lance,Sky Knight,Flying,Red,True,Unpromoted
+Rhajat,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rhajat.png,Fates,Female,Tome,Diviner,Infantry,Black,True,Unpromoted
+Siegbert,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/siegbert.png,Fates,Male,Sword|Lance,Cavalier,Cavalry,Yellow,True,Unpromoted
+Forrest,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forrest.png,Fates,Male,Staff,Troubadour,Cavalry,Yellow,True,Unpromoted
+Ignatius,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ignatius.png,Fates,Male,Lance,Knight,Armored,Yellow,True,Unpromoted
+Velouria,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/velouria.png,Fates,Female,Beaststone,Wolfskin,Infantry,Gray|Black,True,Unpromoted
+Percy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/percy.png,Fates,Male,Axe,Wyvern Rider,Flying,Yellow,True,Unpromoted
+Ophelia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ophelia.png,Fates,Female,Tome,Dark Mage,Infantry,Yellow,True,Unpromoted
+Soleil,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/soleil.png,Fates,Female,Sword,Mercenary,Infantry,Pink,True,Unpromoted
+Nina,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nina.png,Fates,Female,Bow,Outlaw,Infantry,White,True,Unpromoted
+Anna(Fates),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(fates).png,Fates,Female,Bow,Outlaw,Infantry,Red,True,Unpromoted
+Byleth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/byleth.png,Three Houses,Male|Female,Sword,Enlightened One,Infantry,Blue,True,Unpromoted
+Edelgard,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edelgard.png,Three Houses,Female,Axe,Armored Lord,Armored,White,True,Unpromoted
+Hubert,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hubert.png,Three Houses,Male,Black Magic,Noble,Infantry,Black,True,Unpromoted
+Ferdinand,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ferdinand.png,Three Houses,Male,Lance,Noble,Infantry,Orange,True,Unpromoted
+Linhardt,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linhardt.png,Three Houses,Male,White Magic,Noble,Infantry,Green,True,Unpromoted
+Caspar,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caspar.png,Three Houses,Male,Axe,Noble,Infantry,Blue,True,Unpromoted
+Bernadetta,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bernadetta.png,Three Houses,Female,Bow,Noble,Infantry,Purple,True,Unpromoted
+Dorothea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorothea.png,Three Houses,Female,Black Magic,Commoner,Infantry,Brown,True,Unpromoted
+Petra,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/petra.png,Three Houses,Female,Sword,Commoner,Infantry,Purple,True,Unpromoted
+Dimitri,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dimitri.png,Three Houses,Male,Lance,High Lord,Infantry,Yellow,True,Unpromoted
+Dedue,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dedue.png,Three Houses,Male,Axe,Commoner,Infantry,White,True,Unpromoted
+Felix,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/felix.png,Three Houses,Male,Sword,Noble,Infantry,Black,True,Unpromoted
+Ashe,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ashe.png,Three Houses,Male,Bow,Commoner,Infantry,Gray,True,Unpromoted
+Sylvain,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sylvain.png,Three Houses,Male,Lance|Axe,Noble,Infantry,Orange,True,Unpromoted
+Mercedes,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mercedes.png,Three Houses,Female,White Magic,Commoner,Infantry,Beige,True,Unpromoted
+Annette,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/annette.png,Three Houses,Female,Black Magic,Noble,Infantry,Orange,True,Unpromoted
+Ingrid,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ingrid.png,Three Houses,Female,Lance,Noble,Infantry,Yellow,True,Unpromoted
+Claude,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/claude.png,Three Houses,Male,Bow,Wyvern Master,Flying,Brown,True,Unpromoted
+Lorenz(Three Houses),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lorenz(three%20houses).png,Three Houses,Male,Lance,Noble,Infantry,Purple,True,Unpromoted
+Raphael,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raphael.png,Three Houses,Male,Brawling,Commoner,Infantry,Yellow,True,Unpromoted
+Ignatz,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ignatz.png,Three Houses,Male,Bow,Commoner,Infantry,Green,True,Unpromoted
+Lysithea,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lysithea.png,Three Houses,Female,Black Magic,Noble,Infantry,White,True,Unpromoted
+Marianne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marianne.png,Three Houses,Female,White Magic,Noble,Infantry,Blue,True,Unpromoted
+Hilda,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hilda.png,Three Houses,Female,Axe,Noble,Infantry,Pink,True,Unpromoted
+Leonie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leonie.png,Three Houses,Female,Lance,Commoner,Infantry,Orange,True,Unpromoted
+Seteth,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seteth.png,Three Houses,Male,Lance,Wyvern Rider,Flying,Green,True,Promoted
+Flayn,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flayn.png,Three Houses,Female,White Magic,Priest,Infantry,Green,True,Promoted
+Hanneman,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hanneman.png,Three Houses,Male,Black Magic,Mage,Infantry,Gray,True,Promoted
+Manuela,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/manuela.png,Three Houses,Female,White Magic,Priest,Infantry,Brown,True,Promoted
+Gilbert,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gilbert.png,Three Houses,Male,Lance|Axe,Fortress Knight,Armored,Orange,True,Promoted
+Alois,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alois.png,Three Houses,Male,Axe|Brawling,Warrior,Infantry,Brown,True,Promoted
+Catherine,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/catherine.png,Three Houses,Female,Sword,Swordmaster,Infantry,Yellow,True,Promoted
+Shamir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shamir.png,Three Houses,Female,Bow,Sniper,Infantry,Purple,True,Promoted
+Cyril,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cyril.png,Three Houses,Male,Axe|Bow,Commoner,Infantry,Black,True,Unpromoted
+Jeritza,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeritza.png,Three Houses,Male,Sword|Lance,Death Knight,Cavalry,Beige,True,Unique
+Anna(Three Houses),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(three%20houses).png,Three Houses,Female,Sword|Bow,Myrmidon,Infantry,Red,True,Unpromoted
+Yuri,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuri.png,Three Houses,Male,Sword|White Magic,Trickster,Infantry,Purple,True,Promoted
+Balthus,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/balthus.png,Three Houses,Male,Brawling|Axe,War Monk,Infantry,Black,True,Promoted
+Constance,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/constance.png,Three Houses,Female,Black Magic,Dark Flyier,Flying,Yellow|Purple,True,Promoted
+Hapi,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hapi.png,Three Houses,Female,Black Magic,Valkyrie,Cavalry,Red,True,Promoted
+Alear,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alear.png,Engage,Male|Female,Sword,Dragon Child,Infantry,Red|Blue,True,Unpromoted
+Vander,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vander.png,Engage,Male,Axe,Paladin,Cavalry,White,True,Promoted
+Clanne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clanne.png,Engage,Male,Tome,Mage,Infantry,Beige,True,Unpromoted
+Framme,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/framme.png,Engage,Female,Staff|Arts,Martial Monk,Infantry,Beige,True,Unpromoted
+Alfred,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alfred.png,Engage,Male,Lance,Noble(Alfred),Cavalry,Yellow,True,Unpromoted
+Etie,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/etie.png,Engage,Female,Bow,Archer,Infantry,Orange,True,Unpromoted
+Boucheron,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boucheron.png,Engage,Male,Axe,Axe Fighter,Infantry,Brown,True,Unpromoted
+Céline,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/celine.png,Engage,Female,Sword|Tome,Noble(Céline),Infantry,Yellow,True,Unpromoted
+Chloé,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chloe.png,Engage,Female,Lance,Lance Flier,Flying,Blue,True,Unpromoted
+Louis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/louis.png,Engage,Male,Lance,Lance Armor,Armored,Black,True,Unpromoted
+Yunaka,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yunaka.png,Engage,Female,Dagger,Thief,Infantry,Red,True,Unpromoted
+Alcryst,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alcryst.png,Engage,Male,Bow,Lord(Alcryst),Infantry,Blue,True,Unpromoted
+Citrinne,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/citrinne.png,Engage,Female,Tome,Mage,Infantry,Yellow,True,Unpromoted
+Lapis,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lapis.png,Engage,Female,Sword,Sword Fighter,Infantry,Pink,True,Unpromoted
+Diamant,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/diamant.png,Engage,Male,Sword,Lord(Diamant),Infantry,Red,True,Unpromoted
+Amber,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amber.png,Engage,Male,Lance,Lance Cavalier,Cavalry,Yellow,True,Unpromoted
+Jade,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jade.png,Engage,Female,Axe,Axe Armor,Armored,Yellow,True,Unpromoted
+Ivy,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ivy.png,Engage,Female,Tome|Staff,Wing Tamer,Flying,Purple,True,Unpromoted
+Kagetsu,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kagetsu.png,Engage,Male,Sword,Swordmaster,Infantry,Blue,True,Promoted
+Zelkov,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelkov.png,Engage,Male,Dagger,Thief,Infantry,Black,True,Unpromoted
+Fogado,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fogado.png,Engage,Male,Bow,Sentinel(Fogado),Cavalry,Black,True,Unpromoted
+Pandreo,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pandreo.png,Engage,Male,Tome|Staff|Arts,High Priest,Infantry,Orange,True,Promoted
+Bunet,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bunet.png,Engage,Male,Sword|Axe,Great Knight,Cavalry|Armored,Yellow,True,Promoted
+Timerra,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/timerra.png,Engage,Female,Lance,Sentinel(Timerra),Infantry,Black,True,Unpromoted
+Panette,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/panette.png,Engage,Female,Axe,Berserker,Infantry,Orange,True,Promoted
+Merrin,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merrin.png,Engage,Female,Sword|Dagger,Wolf Knight,Cavalry,Yellow,True,Promoted
+Hortensia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hortensia.png,Engage,Female,Tome|Staff,Wing Tamer,Flying,Pink|White,True,Unpromoted
+Seadall,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seadall.png,Engage,Male,Arts,Dancer,Infantry,Black,True,Unique
+Rosado,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rosado.png,Engage,Male,Lance|Axe,Wyvern Knight,Flying,Blue|Pink,True,Unpromoted
+Goldmary,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/goldmary.png,Engage,Female,Sword|Lance,Hero,Infantry,Brown,True,Promoted
+Lindon,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lindon.png,Engage,Male,Tome|Staff,Sage,Infantry,White,True,Promoted
+Saphir,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saphir.png,Engage,Female,Axe|Bow,Warrior,Infantry,White,True,Promoted
+Mauvier,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mauvier.png,Engage,Male,Lance|Staff,Royal Knight,Cavalry,Gray,True,Promoted
+Vayle,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vayle.png,Engage,Female,Tome|Dagger,Fell Child,Infantry,Black|White,True,Unique
+Jean,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jean.png,Engage,Male,Staff|Arts,Martial Monk,Infantry,Blue,True,Unpromoted
+Anna(Engage),https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(engage).png,Engage,Female,Axe,Axe Fighter,Infantry,Red,True,Unpromoted
+Nel,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nel.png,Engage,Female,Lance|Dragonstone,Fell Child,Infantry,Black,True,Unique
+Rafal,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rafal.png,Engage,Male,Axe|Dragonstone,Fell Child,Infantry,White,True,Unique
+Zelestia,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelestia.png,Engage,Female,Sword|Tome,Melusine,Flying,White,True,Unique
+Gregory,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gregory.png,Engage,Male,Tome|Staff,Sage,Infantry,Green,True,Promoted
+Madeline,https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/madeline.png,Engage,Female,Axe,General,Armored,Yellow,True,Promoted

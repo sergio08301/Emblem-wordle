@@ -1,7 +1,7 @@
 [
   {
     "name": "Marth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marth.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -26,7 +26,7 @@
   },
   {
     "name": "Abel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/abel.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -52,7 +52,7 @@
   },
   {
     "name": "Frey",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frey.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -78,7 +78,7 @@
   },
   {
     "name": "Jagen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jagen.png",
     "game": [
       "Shadow Dragon"
     ],
@@ -103,7 +103,7 @@
   },
   {
     "name": "Cain (Shadow Dragon)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cain(shadow%20dragon).png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -129,7 +129,7 @@
   },
   {
     "name": "Gordin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gordin.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -154,7 +154,7 @@
   },
   {
     "name": "Draug",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/draug.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -179,7 +179,7 @@
   },
   {
     "name": "Norne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/norne.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -204,7 +204,7 @@
   },
   {
     "name": "Caeda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caeda.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -229,7 +229,7 @@
   },
   {
     "name": "Wrys",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wrys.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -254,7 +254,7 @@
   },
   {
     "name": "Ogma",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ogma.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -279,7 +279,7 @@
   },
   {
     "name": "Barst",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/barst.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -304,7 +304,7 @@
   },
   {
     "name": "Bord",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bord.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -329,7 +329,7 @@
   },
   {
     "name": "Cord",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cord.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -354,7 +354,7 @@
   },
   {
     "name": "Darros",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/darros.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -379,7 +379,7 @@
   },
   {
     "name": "Castor",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/castor.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -404,7 +404,7 @@
   },
   {
     "name": "Julian",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/julian.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -429,7 +429,7 @@
   },
   {
     "name": "Lena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lena.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -454,7 +454,7 @@
   },
   {
     "name": "Navarre",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/navarre.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -479,7 +479,7 @@
   },
   {
     "name": "Merric",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merric.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -504,7 +504,7 @@
   },
   {
     "name": "Matthis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/matthis.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -530,7 +530,7 @@
   },
   {
     "name": "Wolf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wolf.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -556,7 +556,7 @@
   },
   {
     "name": "Sedgar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sedgar.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -582,7 +582,7 @@
   },
   {
     "name": "Roshea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roshea.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -607,8 +607,8 @@
     "is_active": true
   },
   {
-    "name": "Vylant",
-    "portrait_url": null,
+    "name": "Vyland",
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vyland.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -634,7 +634,7 @@
   },
   {
     "name": "Hardin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hardin.png",
     "game": [
       "Shadow Dragon"
     ],
@@ -659,7 +659,7 @@
   },
   {
     "name": "Wendell",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wendell.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -685,7 +685,7 @@
   },
   {
     "name": "Rickard",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rickard.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -710,7 +710,7 @@
   },
   {
     "name": "Athena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/athena.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -735,7 +735,7 @@
   },
   {
     "name": "Bantu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bantu.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -760,7 +760,7 @@
   },
   {
     "name": "Caesar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caesar.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -785,7 +785,7 @@
   },
   {
     "name": "Radd",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/radd.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -810,7 +810,7 @@
   },
   {
     "name": "Roger",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roger.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -835,7 +835,7 @@
   },
   {
     "name": "Jeorge",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeorge.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -860,7 +860,7 @@
   },
   {
     "name": "Maria",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/maria.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -885,7 +885,7 @@
   },
   {
     "name": "Minerva",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/minerva.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -911,7 +911,7 @@
   },
   {
     "name": "Linde",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linde.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -936,7 +936,7 @@
   },
   {
     "name": "Jake",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jake.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -961,7 +961,7 @@
   },
   {
     "name": "Dolph",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dolph.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -986,7 +986,7 @@
   },
   {
     "name": "Macellan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/macellan.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1011,7 +1011,7 @@
   },
   {
     "name": "Tomas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tomas.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1036,7 +1036,7 @@
   },
   {
     "name": "Boah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boah.png",
     "game": [
       "Shadow Dragon"
     ],
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "Midia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midia.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1087,7 +1087,7 @@
   },
   {
     "name": "Horace",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/horace.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1113,7 +1113,7 @@
   },
   {
     "name": "Beck",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beck.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1138,7 +1138,7 @@
   },
   {
     "name": "Astram",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astram.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1164,7 +1164,7 @@
   },
   {
     "name": "Catria",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/catria.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem",
@@ -1190,7 +1190,7 @@
   },
   {
     "name": "Palla",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/palla.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem",
@@ -1216,7 +1216,7 @@
   },
   {
     "name": "Arran",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arran.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1242,7 +1242,7 @@
   },
   {
     "name": "Samson",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/samson.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1268,7 +1268,7 @@
   },
   {
     "name": "Xane",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xane.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "Etzel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/etzel.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1319,7 +1319,7 @@
   },
   {
     "name": "Est",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/est.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem",
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Tiki",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tiki.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem",
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "Lorenz (Shadow Dragon)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lorenz(shadow%20dragon).png",
     "game": [
       "Shadow Dragon"
     ],
@@ -1396,7 +1396,7 @@
   },
   {
     "name": "Ymir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ymir.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1422,7 +1422,7 @@
   },
   {
     "name": "Elice",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elice.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1447,7 +1447,7 @@
   },
   {
     "name": "Gotoh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gotoh.png",
     "game": [
       "Shadow Dragon"
     ],
@@ -1472,7 +1472,7 @@
   },
   {
     "name": "Nagi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nagi.png",
     "game": [
       "Shadow Dragon",
       "New Mystery of the Emblem"
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Luke",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/luke.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1522,7 +1522,7 @@
   },
   {
     "name": "Roderick",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roderick.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1547,7 +1547,7 @@
   },
   {
     "name": "Cecil",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cecil.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1572,7 +1572,7 @@
   },
   {
     "name": "Ryan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ryan.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1596,7 +1596,7 @@
   },
   {
     "name": "Marisha",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marisha.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1620,7 +1620,7 @@
   },
   {
     "name": "Warren",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/warren.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1644,7 +1644,7 @@
   },
   {
     "name": "Yuliya",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuliya.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1668,7 +1668,7 @@
   },
   {
     "name": "Jubelo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jubelo.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1692,7 +1692,7 @@
   },
   {
     "name": "Sirius",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sirius.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Samuel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/samuel.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Phina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/phina.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1765,7 +1765,7 @@
   },
   {
     "name": "Arlen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arlen.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1789,7 +1789,7 @@
   },
   {
     "name": "Dice",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dice.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "Malice",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/malice.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Roberto",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roberto.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1862,7 +1862,7 @@
   },
   {
     "name": "Belf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/belf.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1887,7 +1887,7 @@
   },
   {
     "name": "Reiden",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reiden.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1912,7 +1912,7 @@
   },
   {
     "name": "Katarina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/katarina.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Sheena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sheena.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1962,7 +1962,7 @@
   },
   {
     "name": "Frost",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frost.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -1988,7 +1988,7 @@
   },
   {
     "name": "Michalis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/michalis.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -2013,7 +2013,7 @@
   },
   {
     "name": "Nyna",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nyna.png",
     "game": [
       "New Mystery of the Emblem"
     ],
@@ -2038,7 +2038,7 @@
   },
   {
     "name": "Alm",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alm.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2062,7 +2062,7 @@
   },
   {
     "name": "Lukas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lukas.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2086,7 +2086,7 @@
   },
   {
     "name": "Gray",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gray.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2110,7 +2110,7 @@
   },
   {
     "name": "Tobin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tobin.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2134,7 +2134,7 @@
   },
   {
     "name": "Kliff",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kliff.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2158,7 +2158,7 @@
   },
   {
     "name": "Faye",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/faye.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2182,7 +2182,7 @@
   },
   {
     "name": "Silque",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silque.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2207,7 +2207,7 @@
   },
   {
     "name": "Clair",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clair.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2231,7 +2231,7 @@
   },
   {
     "name": "Clive",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clive.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2255,7 +2255,7 @@
   },
   {
     "name": "Forsyth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forsyth.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2279,7 +2279,7 @@
   },
   {
     "name": "Python",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/python.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2303,7 +2303,7 @@
   },
   {
     "name": "Luthier",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/luthier.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2328,7 +2328,7 @@
   },
   {
     "name": "Mathilda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mathilda.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2352,7 +2352,7 @@
   },
   {
     "name": "Delthea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/delthea.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2376,7 +2376,7 @@
   },
   {
     "name": "Tatiana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tatiana.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2401,7 +2401,7 @@
   },
   {
     "name": "Zeke",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zeke.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2425,7 +2425,7 @@
   },
   {
     "name": "Mycen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mycen.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "Celica",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/celica.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2475,7 +2475,7 @@
   },
   {
     "name": "Mae",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mae.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2499,7 +2499,7 @@
   },
   {
     "name": "Boey",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boey.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2523,7 +2523,7 @@
   },
   {
     "name": "Genny",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/genny.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2548,7 +2548,7 @@
   },
   {
     "name": "Saber",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saber.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2572,7 +2572,7 @@
   },
   {
     "name": "Valbar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/valbar.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2596,7 +2596,7 @@
   },
   {
     "name": "Kamui",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kamui.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2620,7 +2620,7 @@
   },
   {
     "name": "Leon",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leon.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2644,7 +2644,7 @@
   },
   {
     "name": "Atlas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/atlas.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2668,7 +2668,7 @@
   },
   {
     "name": "Jesse",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jesse.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2692,7 +2692,7 @@
   },
   {
     "name": "Sonya",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sonya.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2716,7 +2716,7 @@
   },
   {
     "name": "Deen (Echoes)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deen(echoes).png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2740,7 +2740,7 @@
   },
   {
     "name": "Nomah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nomah.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2765,7 +2765,7 @@
   },
   {
     "name": "Conrad",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/conrad.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "Emma",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/emma.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2813,7 +2813,7 @@
   },
   {
     "name": "Randal",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/randal.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2837,7 +2837,7 @@
   },
   {
     "name": "Yuzu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuzu.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2863,7 +2863,7 @@
   },
   {
     "name": "Shade",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shade.png",
     "game": [
       "Echoes: Shadows of Valentia"
     ],
@@ -2888,7 +2888,7 @@
   },
   {
     "name": "Sigurd",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sigurd.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Naoise",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/naoise.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -2938,7 +2938,7 @@
   },
   {
     "name": "Alec",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alec.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -2963,7 +2963,7 @@
   },
   {
     "name": "Arden",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arden.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -2987,7 +2987,7 @@
   },
   {
     "name": "Azelle",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azelle.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3013,7 +3013,7 @@
   },
   {
     "name": "Lex",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lex.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3037,7 +3037,7 @@
   },
   {
     "name": "Quan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/quan.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "Finn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/finn.png",
     "game": [
       "Genealogy of the Holy War",
       "Thracia 776"
@@ -3086,7 +3086,7 @@
   },
   {
     "name": "Ethlyn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ethlyn.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3111,7 +3111,7 @@
   },
   {
     "name": "Midir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midir.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3135,7 +3135,7 @@
   },
   {
     "name": "Dew",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dew.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3159,7 +3159,7 @@
   },
   {
     "name": "Edain",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edain.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3183,7 +3183,7 @@
   },
   {
     "name": "Ayra",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ayra.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3207,7 +3207,7 @@
   },
   {
     "name": "Deirdre",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deirdre.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3232,7 +3232,7 @@
   },
   {
     "name": "Jamke",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jamke.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3256,7 +3256,7 @@
   },
   {
     "name": "Chulainn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chulainn.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3280,7 +3280,7 @@
   },
   {
     "name": "Lachesis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lachesis.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3305,7 +3305,7 @@
   },
   {
     "name": "Beowolf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beowolf.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3329,7 +3329,7 @@
   },
   {
     "name": "Lewyn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lewyn.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3356,7 +3356,7 @@
   },
   {
     "name": "Silvia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silvia.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3380,7 +3380,7 @@
   },
   {
     "name": "Erinys",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/erinys.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3405,7 +3405,7 @@
   },
   {
     "name": "Brigid",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brigid.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3429,7 +3429,7 @@
   },
   {
     "name": "Tailtiu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tailtiu.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3453,7 +3453,7 @@
   },
   {
     "name": "Claud",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/claud.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3480,7 +3480,7 @@
   },
   {
     "name": "Seliph",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seliph.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3504,7 +3504,7 @@
   },
   {
     "name": "Scáthach",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/scathach.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3528,7 +3528,7 @@
   },
   {
     "name": "Dalvin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dalvin.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3552,7 +3552,7 @@
   },
   {
     "name": "Larcei",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/larcei.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3576,7 +3576,7 @@
   },
   {
     "name": "Creidne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/creidne.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3600,7 +3600,7 @@
   },
   {
     "name": "Lana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lana.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3624,7 +3624,7 @@
   },
   {
     "name": "Miurne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miurne.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3648,7 +3648,7 @@
   },
   {
     "name": "Diarmuid",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/diarmuid.png",
     "game": [
       "Genealogy of the Holy War",
       "Thracia 776"
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "Tristan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tristan.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3697,7 +3697,7 @@
   },
   {
     "name": "Lester",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lester.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3721,7 +3721,7 @@
   },
   {
     "name": "Deimne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deimne.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "Oifey",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oifey.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3770,7 +3770,7 @@
   },
   {
     "name": "Julia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/julia.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3795,7 +3795,7 @@
   },
   {
     "name": "Fee",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fee.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3820,7 +3820,7 @@
   },
   {
     "name": "Herminia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/herminia.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3845,7 +3845,7 @@
   },
   {
     "name": "Arthur(Genealogy)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arthur(genealogy).png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "Amid",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amid.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3895,7 +3895,7 @@
   },
   {
     "name": "Iucharba",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/iucharba.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3919,7 +3919,7 @@
   },
   {
     "name": "Iuchar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/iuchar.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -3943,7 +3943,7 @@
   },
   {
     "name": "Leif",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leif.png",
     "game": [
       "Genealogy of the Holy War",
       "Thracia 776"
@@ -3968,7 +3968,7 @@
   },
   {
     "name": "Nanna",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nanna.png",
     "game": [
       "Genealogy of the Holy War",
       "Thracia 776"
@@ -3994,7 +3994,7 @@
   },
   {
     "name": "Jeanne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeanne.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4019,7 +4019,7 @@
   },
   {
     "name": "Shannan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shannan.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4043,7 +4043,7 @@
   },
   {
     "name": "Patty",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/patty.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4067,7 +4067,7 @@
   },
   {
     "name": "Daisy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/daisy.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4091,7 +4091,7 @@
   },
   {
     "name": "Ares",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ares.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4116,7 +4116,7 @@
   },
   {
     "name": "Lene",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lene.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4140,7 +4140,7 @@
   },
   {
     "name": "Laylea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laylea.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4164,7 +4164,7 @@
   },
   {
     "name": "Tine",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tine.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4190,7 +4190,7 @@
   },
   {
     "name": "Linda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linda.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4214,7 +4214,7 @@
   },
   {
     "name": "Febail",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/febail.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4238,7 +4238,7 @@
   },
   {
     "name": "Asaello",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asaello.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4262,7 +4262,7 @@
   },
   {
     "name": "Ced",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ced.png",
     "game": [
       "Genealogy of the Holy War",
       "Thracia 776"
@@ -4291,7 +4291,7 @@
   },
   {
     "name": "Hawk",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hawk.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4319,7 +4319,7 @@
   },
   {
     "name": "Hannibal",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hannibal.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4346,7 +4346,7 @@
   },
   {
     "name": "Coirpre",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/coirpre.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4370,7 +4370,7 @@
   },
   {
     "name": "Charlot",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/charlot.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4394,7 +4394,7 @@
   },
   {
     "name": "Altena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/altena.png",
     "game": [
       "Genealogy of the Holy War"
     ],
@@ -4419,7 +4419,7 @@
   },
   {
     "name": "Osian",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/osian.png",
     "game": [
       "Thracia 776"
     ],
@@ -4443,7 +4443,7 @@
   },
   {
     "name": "Halvan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/halvan.png",
     "game": [
       "Thracia 776"
     ],
@@ -4467,7 +4467,7 @@
   },
   {
     "name": "Eyvel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eyvel.png",
     "game": [
       "Thracia 776"
     ],
@@ -4491,7 +4491,7 @@
   },
   {
     "name": "Dagdar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dagdar.png",
     "game": [
       "Thracia 776"
     ],
@@ -4516,7 +4516,7 @@
   },
   {
     "name": "Tanya",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tanya.png",
     "game": [
       "Thracia 776"
     ],
@@ -4540,7 +4540,7 @@
   },
   {
     "name": "Marty",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marty.png",
     "game": [
       "Thracia 776"
     ],
@@ -4564,7 +4564,7 @@
   },
   {
     "name": "Ronan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ronan.png",
     "game": [
       "Thracia 776"
     ],
@@ -4588,7 +4588,7 @@
   },
   {
     "name": "Safy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/safy.png",
     "game": [
       "Thracia 776"
     ],
@@ -4612,7 +4612,7 @@
   },
   {
     "name": "Lifis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lifis.png",
     "game": [
       "Thracia 776"
     ],
@@ -4636,7 +4636,7 @@
   },
   {
     "name": "Machyua",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/machyua.png",
     "game": [
       "Thracia 776"
     ],
@@ -4660,7 +4660,7 @@
   },
   {
     "name": "Brighton",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brighton.png",
     "game": [
       "Thracia 776"
     ],
@@ -4684,7 +4684,7 @@
   },
   {
     "name": "Lara",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lara.png",
     "game": [
       "Thracia 776"
     ],
@@ -4708,7 +4708,7 @@
   },
   {
     "name": "Fergus",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fergus.png",
     "game": [
       "Thracia 776"
     ],
@@ -4732,7 +4732,7 @@
   },
   {
     "name": "Karin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karin.png",
     "game": [
       "Thracia 776"
     ],
@@ -4756,7 +4756,7 @@
   },
   {
     "name": "Dalsin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dalsin.png",
     "game": [
       "Thracia 776"
     ],
@@ -4780,7 +4780,7 @@
   },
   {
     "name": "Asbel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asbel.png",
     "game": [
       "Thracia 776"
     ],
@@ -4806,7 +4806,7 @@
   },
   {
     "name": "Hicks",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hicks.png",
     "game": [
       "Thracia 776"
     ],
@@ -4830,7 +4830,7 @@
   },
   {
     "name": "Shiva",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shiva.png",
     "game": [
       "Thracia 776"
     ],
@@ -4854,7 +4854,7 @@
   },
   {
     "name": "Carrion",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/carrion.png",
     "game": [
       "Thracia 776"
     ],
@@ -4879,7 +4879,7 @@
   },
   {
     "name": "Selphina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selphina.png",
     "game": [
       "Thracia 776"
     ],
@@ -4903,7 +4903,7 @@
   },
   {
     "name": "Cain(Thracia 776)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cain(thracia776).png",
     "game": [
       "Thracia 776"
     ],
@@ -4927,7 +4927,7 @@
   },
   {
     "name": "Alva",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alva.png",
     "game": [
       "Thracia 776"
     ],
@@ -4951,7 +4951,7 @@
   },
   {
     "name": "Robert",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/robert.png",
     "game": [
       "Thracia 776"
     ],
@@ -4975,7 +4975,7 @@
   },
   {
     "name": "Fred",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fred.png",
     "game": [
       "Thracia 776"
     ],
@@ -5000,7 +5000,7 @@
   },
   {
     "name": "Olwen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/olwen.png",
     "game": [
       "Thracia 776"
     ],
@@ -5027,7 +5027,7 @@
   },
   {
     "name": "Mareeta",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mareeta.png",
     "game": [
       "Thracia 776"
     ],
@@ -5051,7 +5051,7 @@
   },
   {
     "name": "Salem",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/salem.png",
     "game": [
       "Thracia 776"
     ],
@@ -5079,7 +5079,7 @@
   },
   {
     "name": "Perne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/perne.png",
     "game": [
       "Thracia 776"
     ],
@@ -5103,7 +5103,7 @@
   },
   {
     "name": "Troude",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/troude.png",
     "game": [
       "Thracia 776"
     ],
@@ -5127,7 +5127,7 @@
   },
   {
     "name": "Tina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tina.png",
     "game": [
       "Thracia 776"
     ],
@@ -5151,7 +5151,7 @@
   },
   {
     "name": "Glade",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/glade.png",
     "game": [
       "Thracia 776"
     ],
@@ -5175,7 +5175,7 @@
   },
   {
     "name": "Deen(Thracia 776)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/deen(thracia776).png",
     "game": [
       "Thracia 776"
     ],
@@ -5199,7 +5199,7 @@
   },
   {
     "name": "Eda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eda.png",
     "game": [
       "Thracia 776"
     ],
@@ -5223,7 +5223,7 @@
   },
   {
     "name": "Homer",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/homer.png",
     "game": [
       "Thracia 776"
     ],
@@ -5250,7 +5250,7 @@
   },
   {
     "name": "Linoan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linoan.png",
     "game": [
       "Thracia 776"
     ],
@@ -5278,7 +5278,7 @@
   },
   {
     "name": "Ralf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ralf.png",
     "game": [
       "Thracia 776"
     ],
@@ -5303,7 +5303,7 @@
   },
   {
     "name": "Ilios",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ilios.png",
     "game": [
       "Thracia 776"
     ],
@@ -5330,7 +5330,7 @@
   },
   {
     "name": "Sleuf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sleuf.png",
     "game": [
       "Thracia 776"
     ],
@@ -5354,7 +5354,7 @@
   },
   {
     "name": "Misha",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/misha.png",
     "game": [
       "Thracia 776"
     ],
@@ -5378,7 +5378,7 @@
   },
   {
     "name": "Sara",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sara.png",
     "game": [
       "Thracia 776"
     ],
@@ -5406,7 +5406,7 @@
   },
   {
     "name": "Shannam",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shannam.png",
     "game": [
       "Thracia 776"
     ],
@@ -5430,7 +5430,7 @@
   },
   {
     "name": "Miranda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miranda.png",
     "game": [
       "Thracia 776"
     ],
@@ -5456,7 +5456,7 @@
   },
   {
     "name": "Xavier",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xavier.png",
     "game": [
       "Thracia 776"
     ],
@@ -5483,7 +5483,7 @@
   },
   {
     "name": "Amalda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amalda.png",
     "game": [
       "Thracia 776"
     ],
@@ -5508,7 +5508,7 @@
   },
   {
     "name": "Conomor",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/conomor.png",
     "game": [
       "Thracia 776"
     ],
@@ -5533,7 +5533,7 @@
   },
   {
     "name": "Saias",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saias.png",
     "game": [
       "Thracia 776"
     ],
@@ -5558,7 +5558,7 @@
   },
   {
     "name": "Galzus",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/galzus.png",
     "game": [
       "Thracia 776"
     ],
@@ -5583,7 +5583,7 @@
   },
   {
     "name": "Roy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/roy.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5607,7 +5607,7 @@
   },
   {
     "name": "Marcus",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marcus.png",
     "game": [
       "The Binding Blade",
       "The Blazing Blade"
@@ -5635,7 +5635,7 @@
   },
   {
     "name": "Alen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alen.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5660,7 +5660,7 @@
   },
   {
     "name": "Lance",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lance.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5685,7 +5685,7 @@
   },
   {
     "name": "Wolt",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wolt.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5709,7 +5709,7 @@
   },
   {
     "name": "Bors",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bors.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5733,7 +5733,7 @@
   },
   {
     "name": "Merlinus",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merlinus.png",
     "game": [
       "The Binding Blade",
       "The Blazing Blade"
@@ -5759,7 +5759,7 @@
   },
   {
     "name": "Elen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elen.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5783,7 +5783,7 @@
   },
   {
     "name": "Dieck",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dieck.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5807,7 +5807,7 @@
   },
   {
     "name": "Ward",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ward.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5831,7 +5831,7 @@
   },
   {
     "name": "Lot",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lot.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5855,7 +5855,7 @@
   },
   {
     "name": "Shanna",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shanna.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5879,7 +5879,7 @@
   },
   {
     "name": "Chad",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chad.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5903,7 +5903,7 @@
   },
   {
     "name": "Lugh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lugh.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5927,7 +5927,7 @@
   },
   {
     "name": "Clarine",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clarine.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5951,7 +5951,7 @@
   },
   {
     "name": "Rutger",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rutger.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5975,7 +5975,7 @@
   },
   {
     "name": "Saul",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saul.png",
     "game": [
       "The Binding Blade"
     ],
@@ -5999,7 +5999,7 @@
   },
   {
     "name": "Dorothy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorothy.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6023,7 +6023,7 @@
   },
   {
     "name": "Sue",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sue.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6047,7 +6047,7 @@
   },
   {
     "name": "Zelot",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelot.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6073,7 +6073,7 @@
   },
   {
     "name": "Trec",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/trec.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6098,7 +6098,7 @@
   },
   {
     "name": "Noah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/noah.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6123,7 +6123,7 @@
   },
   {
     "name": "Astolfo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astolfo.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6147,7 +6147,7 @@
   },
   {
     "name": "Lilina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lilina.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6171,7 +6171,7 @@
   },
   {
     "name": "Barthe",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/barthe.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6195,7 +6195,7 @@
   },
   {
     "name": "Ogier",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ogier.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6219,7 +6219,7 @@
   },
   {
     "name": "Gwendolyn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gwendolyn.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6243,7 +6243,7 @@
   },
   {
     "name": "Fir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fir.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6267,7 +6267,7 @@
   },
   {
     "name": "Sin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sin.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6291,7 +6291,7 @@
   },
   {
     "name": "Geese",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geese.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6315,7 +6315,7 @@
   },
   {
     "name": "Gonzalez",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gonzalez.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6339,7 +6339,7 @@
   },
   {
     "name": "Klein",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/klein.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6363,7 +6363,7 @@
   },
   {
     "name": "Thea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/thea.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6387,7 +6387,7 @@
   },
   {
     "name": "Larum",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/larum.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6411,7 +6411,7 @@
   },
   {
     "name": "Elffin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elffin.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6435,7 +6435,7 @@
   },
   {
     "name": "Echidna",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/echidna.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6460,7 +6460,7 @@
   },
   {
     "name": "Bartre",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bartre.png",
     "game": [
       "The Binding Blade",
       "The Blazing Blade"
@@ -6486,7 +6486,7 @@
   },
   {
     "name": "Raigh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raigh.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6510,7 +6510,7 @@
   },
   {
     "name": "Cath",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cath.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6534,7 +6534,7 @@
   },
   {
     "name": "Melady",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/melady.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6558,7 +6558,7 @@
   },
   {
     "name": "Perceval",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/perceval.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6584,7 +6584,7 @@
   },
   {
     "name": "Cecilia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cecilia.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6609,7 +6609,7 @@
   },
   {
     "name": "Sophia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sophia.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6633,7 +6633,7 @@
   },
   {
     "name": "Igrene",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/igrene.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6657,7 +6657,7 @@
   },
   {
     "name": "Garret",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/garret.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6681,7 +6681,7 @@
   },
   {
     "name": "Fae",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fae.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6705,7 +6705,7 @@
   },
   {
     "name": "Hugh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hugh.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6729,7 +6729,7 @@
   },
   {
     "name": "Zeiss",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zeiss.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6753,7 +6753,7 @@
   },
   {
     "name": "Douglas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/douglas.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6778,7 +6778,7 @@
   },
   {
     "name": "Niime",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/niime.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6803,7 +6803,7 @@
   },
   {
     "name": "Juno",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/juno.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6828,7 +6828,7 @@
   },
   {
     "name": "Dayan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dayan.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6853,7 +6853,7 @@
   },
   {
     "name": "Yoder",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yoder.png",
     "game": [
       "The Binding Blade"
     ],
@@ -6878,7 +6878,7 @@
   },
   {
     "name": "Karel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karel.png",
     "game": [
       "The Binding Blade",
       "The Blazing Blade"
@@ -6903,7 +6903,7 @@
   },
   {
     "name": "Hector",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hector.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -6927,7 +6927,7 @@
   },
   {
     "name": "Matthew",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/matthew.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -6951,7 +6951,7 @@
   },
   {
     "name": "Oswin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oswin.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -6975,7 +6975,7 @@
   },
   {
     "name": "Serra",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/serra.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -6999,7 +6999,7 @@
   },
   {
     "name": "Eliwood",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eliwood.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7023,7 +7023,7 @@
   },
   {
     "name": "Lowen",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lowen.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7048,7 +7048,7 @@
   },
   {
     "name": "Rebecca",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rebecca.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7072,7 +7072,7 @@
   },
   {
     "name": "Dorcas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorcas.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7096,7 +7096,7 @@
   },
   {
     "name": "Guy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/guy.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7120,7 +7120,7 @@
   },
   {
     "name": "Erk",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/erk.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7144,7 +7144,7 @@
   },
   {
     "name": "Priscilla",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/priscilla.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7168,7 +7168,7 @@
   },
   {
     "name": "Lyn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lyn.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7192,7 +7192,7 @@
   },
   {
     "name": "Sain",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sain.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7217,7 +7217,7 @@
   },
   {
     "name": "Kent",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kent.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7242,7 +7242,7 @@
   },
   {
     "name": "Wil",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wil.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7266,7 +7266,7 @@
   },
   {
     "name": "Florina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/florina.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7290,7 +7290,7 @@
   },
   {
     "name": "Raven",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raven.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7314,7 +7314,7 @@
   },
   {
     "name": "Lucius",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucius.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7338,7 +7338,7 @@
   },
   {
     "name": "Canas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/canas.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7362,7 +7362,7 @@
   },
   {
     "name": "Dart",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dart.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7386,7 +7386,7 @@
   },
   {
     "name": "Fiora",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fiora.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7410,7 +7410,7 @@
   },
   {
     "name": "Legault",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/legault.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7434,7 +7434,7 @@
   },
   {
     "name": "Ninian",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ninian.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7458,7 +7458,7 @@
   },
   {
     "name": "Isadora",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/isadora.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7484,7 +7484,7 @@
   },
   {
     "name": "Heath",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/heath.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7509,7 +7509,7 @@
   },
   {
     "name": "Rath",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rath.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7533,7 +7533,7 @@
   },
   {
     "name": "Hawkeye",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hawkeye.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7557,7 +7557,7 @@
   },
   {
     "name": "Geitz",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geitz.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7582,7 +7582,7 @@
   },
   {
     "name": "Wallace",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/wallace.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7606,7 +7606,7 @@
   },
   {
     "name": "Farina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/farina.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7630,7 +7630,7 @@
   },
   {
     "name": "Pent",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pent.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7655,7 +7655,7 @@
   },
   {
     "name": "Louise",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/louise.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7679,7 +7679,7 @@
   },
   {
     "name": "Harken",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/harken.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7704,7 +7704,7 @@
   },
   {
     "name": "Nino",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nino.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7728,7 +7728,7 @@
   },
   {
     "name": "Jaffar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jaffar.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7752,7 +7752,7 @@
   },
   {
     "name": "Vaida",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vaida.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7777,7 +7777,7 @@
   },
   {
     "name": "Nils",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nils.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7801,7 +7801,7 @@
   },
   {
     "name": "Karla",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/karla.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7825,7 +7825,7 @@
   },
   {
     "name": "Renault",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/renault.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7850,7 +7850,7 @@
   },
   {
     "name": "Athos",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/athos.png",
     "game": [
       "The Blazing Blade"
     ],
@@ -7877,7 +7877,7 @@
   },
   {
     "name": "Eirika",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/eirika.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -7901,7 +7901,7 @@
   },
   {
     "name": "Seth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seth.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -7926,7 +7926,7 @@
   },
   {
     "name": "Franz",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/franz.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -7951,7 +7951,7 @@
   },
   {
     "name": "Gilliam",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gilliam.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -7975,7 +7975,7 @@
   },
   {
     "name": "Vanessa",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vanessa.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -7999,7 +7999,7 @@
   },
   {
     "name": "Moulder",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/moulder.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8023,7 +8023,7 @@
   },
   {
     "name": "Ross",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ross.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8047,7 +8047,7 @@
   },
   {
     "name": "Garcia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/garcia.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8071,7 +8071,7 @@
   },
   {
     "name": "Neimi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/neimi.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8095,7 +8095,7 @@
   },
   {
     "name": "Colm",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/colm.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8119,7 +8119,7 @@
   },
   {
     "name": "Artur",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/artur.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8143,7 +8143,7 @@
   },
   {
     "name": "Lute",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lute.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8167,7 +8167,7 @@
   },
   {
     "name": "Natasha",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/natasha.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8191,7 +8191,7 @@
   },
   {
     "name": "Joshua",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/joshua.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8215,7 +8215,7 @@
   },
   {
     "name": "Ephraim",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ephraim.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8239,7 +8239,7 @@
   },
   {
     "name": "Forde",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forde.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8264,7 +8264,7 @@
   },
   {
     "name": "Kyle",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kyle.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8289,7 +8289,7 @@
   },
   {
     "name": "Orson",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/orson.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8314,7 +8314,7 @@
   },
   {
     "name": "Tana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tana.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8338,7 +8338,7 @@
   },
   {
     "name": "Amelia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amelia.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8362,7 +8362,7 @@
   },
   {
     "name": "Innes",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/innes.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8386,7 +8386,7 @@
   },
   {
     "name": "Gerik",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gerik.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8410,7 +8410,7 @@
   },
   {
     "name": "Tethys",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tethys.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8434,7 +8434,7 @@
   },
   {
     "name": "Marisa",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marisa.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8458,7 +8458,7 @@
   },
   {
     "name": "L'Arachel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/l'arachel.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8482,7 +8482,7 @@
   },
   {
     "name": "Dozla",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dozla.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8506,7 +8506,7 @@
   },
   {
     "name": "Saleh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saleh.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8531,7 +8531,7 @@
   },
   {
     "name": "Ewan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ewan.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8555,7 +8555,7 @@
   },
   {
     "name": "Cormag",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cormag.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8579,7 +8579,7 @@
   },
   {
     "name": "Rennac",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rennac.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8603,7 +8603,7 @@
   },
   {
     "name": "Duessel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/duessel.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8630,7 +8630,7 @@
   },
   {
     "name": "Knoll",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/knoll.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8654,7 +8654,7 @@
   },
   {
     "name": "Myrrh",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/myrrh.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8678,7 +8678,7 @@
   },
   {
     "name": "Syrene",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/syrene.png",
     "game": [
       "The Sacred Stones"
     ],
@@ -8703,7 +8703,7 @@
   },
   {
     "name": "Ike",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ike.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8728,7 +8728,7 @@
   },
   {
     "name": "Boyd",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boyd.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8753,7 +8753,7 @@
   },
   {
     "name": "Titania",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/titania.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8779,7 +8779,7 @@
   },
   {
     "name": "Oscar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oscar.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8804,7 +8804,7 @@
   },
   {
     "name": "Rhys",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rhys.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8829,7 +8829,7 @@
   },
   {
     "name": "Shinon",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shinon.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8854,7 +8854,7 @@
   },
   {
     "name": "Gatrie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gatrie.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8879,7 +8879,7 @@
   },
   {
     "name": "Soren",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/soren.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8906,7 +8906,7 @@
   },
   {
     "name": "Mia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mia.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8931,7 +8931,7 @@
   },
   {
     "name": "Ilyana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ilyana.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8958,7 +8958,7 @@
   },
   {
     "name": "Mist",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mist.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -8983,7 +8983,7 @@
   },
   {
     "name": "Rolf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rolf.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9008,7 +9008,7 @@
   },
   {
     "name": "Marcia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marcia.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9033,7 +9033,7 @@
   },
   {
     "name": "Lethe",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lethe.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9058,7 +9058,7 @@
   },
   {
     "name": "Mordecai",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mordecai.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9083,7 +9083,7 @@
   },
   {
     "name": "Volke",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/volke.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9108,7 +9108,7 @@
   },
   {
     "name": "Kieran",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kieran.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9133,7 +9133,7 @@
   },
   {
     "name": "Nephenee",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nephenee.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9158,7 +9158,7 @@
   },
   {
     "name": "Brom",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brom.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9183,7 +9183,7 @@
   },
   {
     "name": "Zihark",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zihark.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9208,7 +9208,7 @@
   },
   {
     "name": "Sothe",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sothe.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9233,7 +9233,7 @@
   },
   {
     "name": "Jill",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jill.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9258,7 +9258,7 @@
   },
   {
     "name": "Astrid",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/astrid.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9283,7 +9283,7 @@
   },
   {
     "name": "Makalov",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/makalov.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9308,7 +9308,7 @@
   },
   {
     "name": "Tormod",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tormod.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9335,7 +9335,7 @@
   },
   {
     "name": "Muarim",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/muarim.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9360,7 +9360,7 @@
   },
   {
     "name": "Stefan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/stefan.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9385,7 +9385,7 @@
   },
   {
     "name": "Devdan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/devdan.png",
     "game": [
       "Path of Radiance"
     ],
@@ -9409,7 +9409,7 @@
   },
   {
     "name": "Tanith",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tanith.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9435,7 +9435,7 @@
   },
   {
     "name": "Reyson",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reyson.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9461,7 +9461,7 @@
   },
   {
     "name": "Janaff",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/janaff.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9487,7 +9487,7 @@
   },
   {
     "name": "Ulki",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ulki.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9513,7 +9513,7 @@
   },
   {
     "name": "Calill",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/calill.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9541,7 +9541,7 @@
   },
   {
     "name": "Tauroneo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tauroneo.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9567,7 +9567,7 @@
   },
   {
     "name": "Ranulf",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ranulf.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9592,7 +9592,7 @@
   },
   {
     "name": "Haar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/haar.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9618,7 +9618,7 @@
   },
   {
     "name": "Bastian",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bastian.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9646,7 +9646,7 @@
   },
   {
     "name": "Lucia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucia.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9671,7 +9671,7 @@
   },
   {
     "name": "Geoffrey",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/geoffrey.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9697,7 +9697,7 @@
   },
   {
     "name": "Largo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/largo.png",
     "game": [
       "Path of Radiance"
     ],
@@ -9721,7 +9721,7 @@
   },
   {
     "name": "Elincia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elincia.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9747,7 +9747,7 @@
   },
   {
     "name": "Nasir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nasir.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9772,7 +9772,7 @@
   },
   {
     "name": "Ena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ena.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9797,7 +9797,7 @@
   },
   {
     "name": "Tibarn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tibarn.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9823,7 +9823,7 @@
   },
   {
     "name": "Naesala",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/naesala.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9849,7 +9849,7 @@
   },
   {
     "name": "Giffca",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/giffca.png",
     "game": [
       "Path of Radiance",
       "Radiant Dawn"
@@ -9874,7 +9874,7 @@
   },
   {
     "name": "Micaiah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/micaiah.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -9898,7 +9898,7 @@
   },
   {
     "name": "Edward",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edward.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -9922,7 +9922,7 @@
   },
   {
     "name": "Leonardo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leonardo.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -9946,7 +9946,7 @@
   },
   {
     "name": "Nolan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nolan.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -9970,7 +9970,7 @@
   },
   {
     "name": "Laura",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laura.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -9994,7 +9994,7 @@
   },
   {
     "name": "Aran",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/aran.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10018,7 +10018,7 @@
   },
   {
     "name": "Meg",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/meg.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10042,7 +10042,7 @@
   },
   {
     "name": "Volug",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/volug.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10066,7 +10066,7 @@
   },
   {
     "name": "Fiona",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fiona.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10090,7 +10090,7 @@
   },
   {
     "name": "Vika",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vika.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10115,7 +10115,7 @@
   },
   {
     "name": "Rafiel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rafiel.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10139,7 +10139,7 @@
   },
   {
     "name": "Nailah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nailah.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10163,7 +10163,7 @@
   },
   {
     "name": "Black Knight",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/black_knight.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10188,7 +10188,7 @@
   },
   {
     "name": "Nealuchi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nealuchi.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10214,7 +10214,7 @@
   },
   {
     "name": "Leanne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leanne.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10239,7 +10239,7 @@
   },
   {
     "name": "Heather",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/heather.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10263,7 +10263,7 @@
   },
   {
     "name": "Danved",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/danved.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10287,7 +10287,7 @@
   },
   {
     "name": "Kyza",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kyza.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10311,7 +10311,7 @@
   },
   {
     "name": "Lyre",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lyre.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10335,7 +10335,7 @@
   },
   {
     "name": "Sigrun",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sigrun.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10360,7 +10360,7 @@
   },
   {
     "name": "Skrimir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/skrimir.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10384,7 +10384,7 @@
   },
   {
     "name": "Sanaki",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sanaki.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10411,7 +10411,7 @@
   },
   {
     "name": "Pelleas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pelleas.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10436,7 +10436,7 @@
   },
   {
     "name": "Oliver",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oliver.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10462,7 +10462,7 @@
   },
   {
     "name": "Caineghis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caineghis.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10486,7 +10486,7 @@
   },
   {
     "name": "Kurthnaga",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kurthnaga.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10510,7 +10510,7 @@
   },
   {
     "name": "Renning",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/renning.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10535,7 +10535,7 @@
   },
   {
     "name": "Gareth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gareth.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10559,7 +10559,7 @@
   },
   {
     "name": "Sephiran",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sephiran.png",
     "game": [
       "Radiant Dawn"
     ],
@@ -10585,7 +10585,7 @@
   },
   {
     "name": "Robin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/robin.png",
     "game": [
       "Awakening"
     ],
@@ -10611,7 +10611,7 @@
   },
   {
     "name": "Chrom",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chrom.png",
     "game": [
       "Awakening"
     ],
@@ -10635,7 +10635,7 @@
   },
   {
     "name": "Lissa",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lissa.png",
     "game": [
       "Awakening"
     ],
@@ -10659,7 +10659,7 @@
   },
   {
     "name": "Frederick",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/frederick.png",
     "game": [
       "Awakening"
     ],
@@ -10686,7 +10686,7 @@
   },
   {
     "name": "Sully",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sully.png",
     "game": [
       "Awakening"
     ],
@@ -10711,7 +10711,7 @@
   },
   {
     "name": "Virion",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/virion.png",
     "game": [
       "Awakening"
     ],
@@ -10735,7 +10735,7 @@
   },
   {
     "name": "Stahl",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/stahl.png",
     "game": [
       "Awakening"
     ],
@@ -10760,7 +10760,7 @@
   },
   {
     "name": "Vaike",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vaike.png",
     "game": [
       "Awakening"
     ],
@@ -10784,7 +10784,7 @@
   },
   {
     "name": "Miriel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/miriel.png",
     "game": [
       "Awakening"
     ],
@@ -10808,7 +10808,7 @@
   },
   {
     "name": "Sumia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sumia.png",
     "game": [
       "Awakening"
     ],
@@ -10832,7 +10832,7 @@
   },
   {
     "name": "Kellam",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kellam.png",
     "game": [
       "Awakening"
     ],
@@ -10856,7 +10856,7 @@
   },
   {
     "name": "Lon'qu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lon'qu.png",
     "game": [
       "Awakening"
     ],
@@ -10880,7 +10880,7 @@
   },
   {
     "name": "Ricken",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ricken.png",
     "game": [
       "Awakening"
     ],
@@ -10904,7 +10904,7 @@
   },
   {
     "name": "Maribelle",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/maribelle.png",
     "game": [
       "Awakening"
     ],
@@ -10928,7 +10928,7 @@
   },
   {
     "name": "Panne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/panne.png",
     "game": [
       "Awakening"
     ],
@@ -10952,7 +10952,7 @@
   },
   {
     "name": "Gaius",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gaius.png",
     "game": [
       "Awakening"
     ],
@@ -10976,7 +10976,7 @@
   },
   {
     "name": "Cordelia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cordelia.png",
     "game": [
       "Awakening"
     ],
@@ -11000,7 +11000,7 @@
   },
   {
     "name": "Gregor",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gregor.png",
     "game": [
       "Awakening"
     ],
@@ -11024,7 +11024,7 @@
   },
   {
     "name": "Nowi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nowi.png",
     "game": [
       "Awakening"
     ],
@@ -11049,7 +11049,7 @@
   },
   {
     "name": "Libra",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/libra.png",
     "game": [
       "Awakening"
     ],
@@ -11074,7 +11074,7 @@
   },
   {
     "name": "Tharja",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/tharja.png",
     "game": [
       "Awakening"
     ],
@@ -11098,7 +11098,7 @@
   },
   {
     "name": "Olivia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/olivia.png",
     "game": [
       "Awakening"
     ],
@@ -11122,7 +11122,7 @@
   },
   {
     "name": "Cherche",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cherche.png",
     "game": [
       "Awakening"
     ],
@@ -11146,7 +11146,7 @@
   },
   {
     "name": "Henry",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/henry.png",
     "game": [
       "Awakening"
     ],
@@ -11170,7 +11170,7 @@
   },
   {
     "name": "Lucina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lucina.png",
     "game": [
       "Awakening"
     ],
@@ -11194,7 +11194,7 @@
   },
   {
     "name": "Say'ri",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/say'ri.png",
     "game": [
       "Awakening"
     ],
@@ -11218,7 +11218,7 @@
   },
   {
     "name": "Basilio",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/basilio.png",
     "game": [
       "Awakening"
     ],
@@ -11243,7 +11243,7 @@
   },
   {
     "name": "Flavia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flavia.png",
     "game": [
       "Awakening"
     ],
@@ -11268,7 +11268,7 @@
   },
   {
     "name": "Donnel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/donnel.png",
     "game": [
       "Awakening"
     ],
@@ -11292,7 +11292,7 @@
   },
   {
     "name": "Anna(Awakening)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(awakening).png",
     "game": [
       "Awakening"
     ],
@@ -11317,7 +11317,7 @@
   },
   {
     "name": "Owain",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/owain.png",
     "game": [
       "Awakening"
     ],
@@ -11341,7 +11341,7 @@
   },
   {
     "name": "Inigo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/inigo.png",
     "game": [
       "Awakening"
     ],
@@ -11365,7 +11365,7 @@
   },
   {
     "name": "Brady",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/brady.png",
     "game": [
       "Awakening"
     ],
@@ -11389,7 +11389,7 @@
   },
   {
     "name": "Kjelle",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kjelle.png",
     "game": [
       "Awakening"
     ],
@@ -11413,7 +11413,7 @@
   },
   {
     "name": "Cynthia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cynthia.png",
     "game": [
       "Awakening"
     ],
@@ -11437,7 +11437,7 @@
   },
   {
     "name": "Severa",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/severa.png",
     "game": [
       "Awakening"
     ],
@@ -11461,7 +11461,7 @@
   },
   {
     "name": "Gerome",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gerome.png",
     "game": [
       "Awakening"
     ],
@@ -11485,7 +11485,7 @@
   },
   {
     "name": "Morgan",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/morgan.png",
     "game": [
       "Awakening"
     ],
@@ -11511,7 +11511,7 @@
   },
   {
     "name": "Yarne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yarne.png",
     "game": [
       "Awakening"
     ],
@@ -11535,7 +11535,7 @@
   },
   {
     "name": "Laurent",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laurent.png",
     "game": [
       "Awakening"
     ],
@@ -11559,7 +11559,7 @@
   },
   {
     "name": "Noire",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/noire.png",
     "game": [
       "Awakening"
     ],
@@ -11583,7 +11583,7 @@
   },
   {
     "name": "Nah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nah.png",
     "game": [
       "Awakening"
     ],
@@ -11607,7 +11607,7 @@
   },
   {
     "name": "Corrin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/corrin.png",
     "game": [
       "Fates"
     ],
@@ -11633,7 +11633,7 @@
   },
   {
     "name": "Felicia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/felicia.png",
     "game": [
       "Fates"
     ],
@@ -11658,7 +11658,7 @@
   },
   {
     "name": "Jakob",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jakob.png",
     "game": [
       "Fates"
     ],
@@ -11683,7 +11683,7 @@
   },
   {
     "name": "Azura",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azura.png",
     "game": [
       "Fates"
     ],
@@ -11707,7 +11707,7 @@
   },
   {
     "name": "Gunter",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gunter.png",
     "game": [
       "Fates"
     ],
@@ -11734,7 +11734,7 @@
   },
   {
     "name": "Sakura",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sakura.png",
     "game": [
       "Fates"
     ],
@@ -11758,7 +11758,7 @@
   },
   {
     "name": "Hana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hana.png",
     "game": [
       "Fates"
     ],
@@ -11782,7 +11782,7 @@
   },
   {
     "name": "Subaki",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/subaki.png",
     "game": [
       "Fates"
     ],
@@ -11806,7 +11806,7 @@
   },
   {
     "name": "Kaze",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kaze.png",
     "game": [
       "Fates"
     ],
@@ -11830,7 +11830,7 @@
   },
   {
     "name": "Rinkah",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rinkah.png",
     "game": [
       "Fates"
     ],
@@ -11854,7 +11854,7 @@
   },
   {
     "name": "Hayato",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hayato.png",
     "game": [
       "Fates"
     ],
@@ -11878,7 +11878,7 @@
   },
   {
     "name": "Takumi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/takumi.png",
     "game": [
       "Fates"
     ],
@@ -11902,7 +11902,7 @@
   },
   {
     "name": "Oboro",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/oboro.png",
     "game": [
       "Fates"
     ],
@@ -11926,7 +11926,7 @@
   },
   {
     "name": "Hinata",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hinata.png",
     "game": [
       "Fates"
     ],
@@ -11950,7 +11950,7 @@
   },
   {
     "name": "Saizo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saizo.png",
     "game": [
       "Fates"
     ],
@@ -11974,7 +11974,7 @@
   },
   {
     "name": "Orochi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/orochi.png",
     "game": [
       "Fates"
     ],
@@ -11998,7 +11998,7 @@
   },
   {
     "name": "Reina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/reina.png",
     "game": [
       "Fates"
     ],
@@ -12023,7 +12023,7 @@
   },
   {
     "name": "Kagero",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kagero.png",
     "game": [
       "Fates"
     ],
@@ -12047,7 +12047,7 @@
   },
   {
     "name": "Camilla",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/camilla.png",
     "game": [
       "Fates"
     ],
@@ -12072,7 +12072,7 @@
   },
   {
     "name": "Beruka",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/beruka.png",
     "game": [
       "Fates"
     ],
@@ -12096,7 +12096,7 @@
   },
   {
     "name": "Selena",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selena.png",
     "game": [
       "Fates"
     ],
@@ -12120,7 +12120,7 @@
   },
   {
     "name": "Kaden",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kaden.png",
     "game": [
       "Fates"
     ],
@@ -12144,7 +12144,7 @@
   },
   {
     "name": "Keaton",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/keaton.png",
     "game": [
       "Fates"
     ],
@@ -12169,7 +12169,7 @@
   },
   {
     "name": "Elise",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/elise.png",
     "game": [
       "Fates"
     ],
@@ -12194,7 +12194,7 @@
   },
   {
     "name": "Arthur(Fates)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/arthur(fates).png",
     "game": [
       "Fates"
     ],
@@ -12218,7 +12218,7 @@
   },
   {
     "name": "Effie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/effie.png",
     "game": [
       "Fates"
     ],
@@ -12242,7 +12242,7 @@
   },
   {
     "name": "Benny",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/benny.png",
     "game": [
       "Fates"
     ],
@@ -12266,7 +12266,7 @@
   },
   {
     "name": "Charlotte",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/charlotte.png",
     "game": [
       "Fates"
     ],
@@ -12290,7 +12290,7 @@
   },
   {
     "name": "Silas",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/silas.png",
     "game": [
       "Fates"
     ],
@@ -12315,7 +12315,7 @@
   },
   {
     "name": "Nyx",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nyx.png",
     "game": [
       "Fates"
     ],
@@ -12339,7 +12339,7 @@
   },
   {
     "name": "Shura",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shura.png",
     "game": [
       "Fates"
     ],
@@ -12365,7 +12365,7 @@
   },
   {
     "name": "Ryoma",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ryoma.png",
     "game": [
       "Fates"
     ],
@@ -12389,7 +12389,7 @@
   },
   {
     "name": "Hinoka",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hinoka.png",
     "game": [
       "Fates"
     ],
@@ -12413,7 +12413,7 @@
   },
   {
     "name": "Azama",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/azama.png",
     "game": [
       "Fates"
     ],
@@ -12437,7 +12437,7 @@
   },
   {
     "name": "Setsuna",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/setsuna.png",
     "game": [
       "Fates"
     ],
@@ -12461,7 +12461,7 @@
   },
   {
     "name": "Scarlet",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/scarlet.png",
     "game": [
       "Fates"
     ],
@@ -12486,7 +12486,7 @@
   },
   {
     "name": "Xander",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/xander.png",
     "game": [
       "Fates"
     ],
@@ -12511,7 +12511,7 @@
   },
   {
     "name": "Leo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leo.png",
     "game": [
       "Fates"
     ],
@@ -12536,7 +12536,7 @@
   },
   {
     "name": "Odin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/odin.png",
     "game": [
       "Fates"
     ],
@@ -12560,7 +12560,7 @@
   },
   {
     "name": "Laslow",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/laslow.png",
     "game": [
       "Fates"
     ],
@@ -12584,7 +12584,7 @@
   },
   {
     "name": "Peri",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/peri.png",
     "game": [
       "Fates"
     ],
@@ -12610,7 +12610,7 @@
   },
   {
     "name": "Niles",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/niles.png",
     "game": [
       "Fates"
     ],
@@ -12634,7 +12634,7 @@
   },
   {
     "name": "Fuga",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fuga.png",
     "game": [
       "Fates"
     ],
@@ -12660,7 +12660,7 @@
   },
   {
     "name": "Flora",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flora.png",
     "game": [
       "Fates"
     ],
@@ -12685,7 +12685,7 @@
   },
   {
     "name": "Izana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/izana.png",
     "game": [
       "Fates"
     ],
@@ -12710,7 +12710,7 @@
   },
   {
     "name": "Yukimura",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yukimura.png",
     "game": [
       "Fates"
     ],
@@ -12735,7 +12735,7 @@
   },
   {
     "name": "Mozu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mozu.png",
     "game": [
       "Fates"
     ],
@@ -12759,7 +12759,7 @@
   },
   {
     "name": "Kana",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kana.png",
     "game": [
       "Fates"
     ],
@@ -12785,7 +12785,7 @@
   },
   {
     "name": "Shigure",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shigure.png",
     "game": [
       "Fates"
     ],
@@ -12809,7 +12809,7 @@
   },
   {
     "name": "Dwyer",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dwyer.png",
     "game": [
       "Fates"
     ],
@@ -12833,7 +12833,7 @@
   },
   {
     "name": "Sophie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sophie.png",
     "game": [
       "Fates"
     ],
@@ -12858,7 +12858,7 @@
   },
   {
     "name": "Midori",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/midori.png",
     "game": [
       "Fates"
     ],
@@ -12882,7 +12882,7 @@
   },
   {
     "name": "Shiro",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shiro.png",
     "game": [
       "Fates"
     ],
@@ -12906,7 +12906,7 @@
   },
   {
     "name": "Kiragi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kiragi.png",
     "game": [
       "Fates"
     ],
@@ -12930,7 +12930,7 @@
   },
   {
     "name": "Asugi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/asugi.png",
     "game": [
       "Fates"
     ],
@@ -12954,7 +12954,7 @@
   },
   {
     "name": "Selkie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/selkie.png",
     "game": [
       "Fates"
     ],
@@ -12979,7 +12979,7 @@
   },
   {
     "name": "Hisame",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hisame.png",
     "game": [
       "Fates"
     ],
@@ -13003,7 +13003,7 @@
   },
   {
     "name": "Mitama",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mitama.png",
     "game": [
       "Fates"
     ],
@@ -13027,7 +13027,7 @@
   },
   {
     "name": "Caeldori",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caeldori.png",
     "game": [
       "Fates"
     ],
@@ -13051,7 +13051,7 @@
   },
   {
     "name": "Rhajat",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rhajat.png",
     "game": [
       "Fates"
     ],
@@ -13075,7 +13075,7 @@
   },
   {
     "name": "Siegbert",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/siegbert.png",
     "game": [
       "Fates"
     ],
@@ -13100,7 +13100,7 @@
   },
   {
     "name": "Forrest",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/forrest.png",
     "game": [
       "Fates"
     ],
@@ -13124,7 +13124,7 @@
   },
   {
     "name": "Ignatius",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ignatius.png",
     "game": [
       "Fates"
     ],
@@ -13148,7 +13148,7 @@
   },
   {
     "name": "Velouria",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/velouria.png",
     "game": [
       "Fates"
     ],
@@ -13173,7 +13173,7 @@
   },
   {
     "name": "Percy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/percy.png",
     "game": [
       "Fates"
     ],
@@ -13197,7 +13197,7 @@
   },
   {
     "name": "Ophelia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ophelia.png",
     "game": [
       "Fates"
     ],
@@ -13221,7 +13221,7 @@
   },
   {
     "name": "Soleil",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/soleil.png",
     "game": [
       "Fates"
     ],
@@ -13245,7 +13245,7 @@
   },
   {
     "name": "Nina",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nina.png",
     "game": [
       "Fates"
     ],
@@ -13269,7 +13269,7 @@
   },
   {
     "name": "Anna(Fates)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(fates).png",
     "game": [
       "Fates"
     ],
@@ -13293,7 +13293,7 @@
   },
   {
     "name": "Byleth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/byleth.png",
     "game": [
       "Three Houses"
     ],
@@ -13318,7 +13318,7 @@
   },
   {
     "name": "Edelgard",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/edelgard.png",
     "game": [
       "Three Houses"
     ],
@@ -13342,7 +13342,7 @@
   },
   {
     "name": "Hubert",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hubert.png",
     "game": [
       "Three Houses"
     ],
@@ -13366,7 +13366,7 @@
   },
   {
     "name": "Ferdinand",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ferdinand.png",
     "game": [
       "Three Houses"
     ],
@@ -13390,7 +13390,7 @@
   },
   {
     "name": "Linhardt",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/linhardt.png",
     "game": [
       "Three Houses"
     ],
@@ -13414,7 +13414,7 @@
   },
   {
     "name": "Caspar",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/caspar.png",
     "game": [
       "Three Houses"
     ],
@@ -13438,7 +13438,7 @@
   },
   {
     "name": "Bernadetta",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bernadetta.png",
     "game": [
       "Three Houses"
     ],
@@ -13462,7 +13462,7 @@
   },
   {
     "name": "Dorothea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dorothea.png",
     "game": [
       "Three Houses"
     ],
@@ -13486,7 +13486,7 @@
   },
   {
     "name": "Petra",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/petra.png",
     "game": [
       "Three Houses"
     ],
@@ -13510,7 +13510,7 @@
   },
   {
     "name": "Dimitri",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dimitri.png",
     "game": [
       "Three Houses"
     ],
@@ -13534,7 +13534,7 @@
   },
   {
     "name": "Dedue",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/dedue.png",
     "game": [
       "Three Houses"
     ],
@@ -13558,7 +13558,7 @@
   },
   {
     "name": "Felix",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/felix.png",
     "game": [
       "Three Houses"
     ],
@@ -13582,7 +13582,7 @@
   },
   {
     "name": "Ashe",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ashe.png",
     "game": [
       "Three Houses"
     ],
@@ -13606,7 +13606,7 @@
   },
   {
     "name": "Sylvain",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/sylvain.png",
     "game": [
       "Three Houses"
     ],
@@ -13631,7 +13631,7 @@
   },
   {
     "name": "Mercedes",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mercedes.png",
     "game": [
       "Three Houses"
     ],
@@ -13655,7 +13655,7 @@
   },
   {
     "name": "Annette",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/annette.png",
     "game": [
       "Three Houses"
     ],
@@ -13679,7 +13679,7 @@
   },
   {
     "name": "Ingrid",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ingrid.png",
     "game": [
       "Three Houses"
     ],
@@ -13703,7 +13703,7 @@
   },
   {
     "name": "Claude",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/claude.png",
     "game": [
       "Three Houses"
     ],
@@ -13727,7 +13727,7 @@
   },
   {
     "name": "Lorenz(Three Houses)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lorenz(three%20houses).png",
     "game": [
       "Three Houses"
     ],
@@ -13751,7 +13751,7 @@
   },
   {
     "name": "Raphael",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/raphael.png",
     "game": [
       "Three Houses"
     ],
@@ -13775,7 +13775,7 @@
   },
   {
     "name": "Ignatz",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ignatz.png",
     "game": [
       "Three Houses"
     ],
@@ -13799,7 +13799,7 @@
   },
   {
     "name": "Lysithea",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lysithea.png",
     "game": [
       "Three Houses"
     ],
@@ -13823,7 +13823,7 @@
   },
   {
     "name": "Marianne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/marianne.png",
     "game": [
       "Three Houses"
     ],
@@ -13847,7 +13847,7 @@
   },
   {
     "name": "Hilda",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hilda.png",
     "game": [
       "Three Houses"
     ],
@@ -13871,7 +13871,7 @@
   },
   {
     "name": "Leonie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/leonie.png",
     "game": [
       "Three Houses"
     ],
@@ -13895,7 +13895,7 @@
   },
   {
     "name": "Seteth",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seteth.png",
     "game": [
       "Three Houses"
     ],
@@ -13919,7 +13919,7 @@
   },
   {
     "name": "Flayn",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/flayn.png",
     "game": [
       "Three Houses"
     ],
@@ -13943,7 +13943,7 @@
   },
   {
     "name": "Hanneman",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hanneman.png",
     "game": [
       "Three Houses"
     ],
@@ -13967,7 +13967,7 @@
   },
   {
     "name": "Manuela",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/manuela.png",
     "game": [
       "Three Houses"
     ],
@@ -13991,7 +13991,7 @@
   },
   {
     "name": "Gilbert",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gilbert.png",
     "game": [
       "Three Houses"
     ],
@@ -14016,7 +14016,7 @@
   },
   {
     "name": "Alois",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alois.png",
     "game": [
       "Three Houses"
     ],
@@ -14041,7 +14041,7 @@
   },
   {
     "name": "Catherine",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/catherine.png",
     "game": [
       "Three Houses"
     ],
@@ -14065,7 +14065,7 @@
   },
   {
     "name": "Shamir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/shamir.png",
     "game": [
       "Three Houses"
     ],
@@ -14089,7 +14089,7 @@
   },
   {
     "name": "Cyril",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/cyril.png",
     "game": [
       "Three Houses"
     ],
@@ -14114,7 +14114,7 @@
   },
   {
     "name": "Jeritza",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jeritza.png",
     "game": [
       "Three Houses"
     ],
@@ -14139,7 +14139,7 @@
   },
   {
     "name": "Anna(Three Houses)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(three%20houses).png",
     "game": [
       "Three Houses"
     ],
@@ -14164,7 +14164,7 @@
   },
   {
     "name": "Yuri",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yuri.png",
     "game": [
       "Three Houses"
     ],
@@ -14189,7 +14189,7 @@
   },
   {
     "name": "Balthus",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/balthus.png",
     "game": [
       "Three Houses"
     ],
@@ -14214,7 +14214,7 @@
   },
   {
     "name": "Constance",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/constance.png",
     "game": [
       "Three Houses"
     ],
@@ -14239,7 +14239,7 @@
   },
   {
     "name": "Hapi",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hapi.png",
     "game": [
       "Three Houses"
     ],
@@ -14263,7 +14263,7 @@
   },
   {
     "name": "Alear",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alear.png",
     "game": [
       "Engage"
     ],
@@ -14289,7 +14289,7 @@
   },
   {
     "name": "Vander",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/vander.png",
     "game": [
       "Engage"
     ],
@@ -14313,7 +14313,7 @@
   },
   {
     "name": "Clanne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/clanne.png",
     "game": [
       "Engage"
     ],
@@ -14337,7 +14337,7 @@
   },
   {
     "name": "Framme",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/framme.png",
     "game": [
       "Engage"
     ],
@@ -14362,7 +14362,7 @@
   },
   {
     "name": "Alfred",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alfred.png",
     "game": [
       "Engage"
     ],
@@ -14386,7 +14386,7 @@
   },
   {
     "name": "Etie",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/etie.png",
     "game": [
       "Engage"
     ],
@@ -14410,7 +14410,7 @@
   },
   {
     "name": "Boucheron",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/boucheron.png",
     "game": [
       "Engage"
     ],
@@ -14434,7 +14434,7 @@
   },
   {
     "name": "Céline",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/celine.png",
     "game": [
       "Engage"
     ],
@@ -14459,7 +14459,7 @@
   },
   {
     "name": "Chloé",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/chloe.png",
     "game": [
       "Engage"
     ],
@@ -14483,7 +14483,7 @@
   },
   {
     "name": "Louis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/louis.png",
     "game": [
       "Engage"
     ],
@@ -14507,7 +14507,7 @@
   },
   {
     "name": "Yunaka",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/yunaka.png",
     "game": [
       "Engage"
     ],
@@ -14531,7 +14531,7 @@
   },
   {
     "name": "Alcryst",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/alcryst.png",
     "game": [
       "Engage"
     ],
@@ -14555,7 +14555,7 @@
   },
   {
     "name": "Citrinne",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/citrinne.png",
     "game": [
       "Engage"
     ],
@@ -14579,7 +14579,7 @@
   },
   {
     "name": "Lapis",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lapis.png",
     "game": [
       "Engage"
     ],
@@ -14603,7 +14603,7 @@
   },
   {
     "name": "Diamant",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/diamant.png",
     "game": [
       "Engage"
     ],
@@ -14627,7 +14627,7 @@
   },
   {
     "name": "Amber",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/amber.png",
     "game": [
       "Engage"
     ],
@@ -14651,7 +14651,7 @@
   },
   {
     "name": "Jade",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jade.png",
     "game": [
       "Engage"
     ],
@@ -14675,7 +14675,7 @@
   },
   {
     "name": "Ivy",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/ivy.png",
     "game": [
       "Engage"
     ],
@@ -14700,7 +14700,7 @@
   },
   {
     "name": "Kagetsu",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/kagetsu.png",
     "game": [
       "Engage"
     ],
@@ -14724,7 +14724,7 @@
   },
   {
     "name": "Zelkov",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelkov.png",
     "game": [
       "Engage"
     ],
@@ -14748,7 +14748,7 @@
   },
   {
     "name": "Fogado",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/fogado.png",
     "game": [
       "Engage"
     ],
@@ -14772,7 +14772,7 @@
   },
   {
     "name": "Pandreo",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/pandreo.png",
     "game": [
       "Engage"
     ],
@@ -14798,7 +14798,7 @@
   },
   {
     "name": "Bunet",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/bunet.png",
     "game": [
       "Engage"
     ],
@@ -14824,7 +14824,7 @@
   },
   {
     "name": "Timerra",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/timerra.png",
     "game": [
       "Engage"
     ],
@@ -14848,7 +14848,7 @@
   },
   {
     "name": "Panette",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/panette.png",
     "game": [
       "Engage"
     ],
@@ -14872,7 +14872,7 @@
   },
   {
     "name": "Merrin",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/merrin.png",
     "game": [
       "Engage"
     ],
@@ -14897,7 +14897,7 @@
   },
   {
     "name": "Hortensia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/hortensia.png",
     "game": [
       "Engage"
     ],
@@ -14923,7 +14923,7 @@
   },
   {
     "name": "Seadall",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/seadall.png",
     "game": [
       "Engage"
     ],
@@ -14947,7 +14947,7 @@
   },
   {
     "name": "Rosado",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rosado.png",
     "game": [
       "Engage"
     ],
@@ -14973,7 +14973,7 @@
   },
   {
     "name": "Goldmary",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/goldmary.png",
     "game": [
       "Engage"
     ],
@@ -14998,7 +14998,7 @@
   },
   {
     "name": "Lindon",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/lindon.png",
     "game": [
       "Engage"
     ],
@@ -15023,7 +15023,7 @@
   },
   {
     "name": "Saphir",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/saphir.png",
     "game": [
       "Engage"
     ],
@@ -15048,7 +15048,7 @@
   },
   {
     "name": "Mauvier",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/mauvier.png",
     "game": [
       "Engage"
     ],
@@ -15072,8 +15072,8 @@
     "is_active": true
   },
   {
-    "name": "Vayle",
-    "portrait_url": null,
+    "name": "Veyle",
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/veyle.png",
     "game": [
       "Engage"
     ],
@@ -15099,7 +15099,7 @@
   },
   {
     "name": "Jean",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/jean.png",
     "game": [
       "Engage"
     ],
@@ -15124,7 +15124,7 @@
   },
   {
     "name": "Anna(Engage)",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/anna(engage).png",
     "game": [
       "Engage"
     ],
@@ -15148,7 +15148,7 @@
   },
   {
     "name": "Nel",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/nel.png",
     "game": [
       "Engage"
     ],
@@ -15173,7 +15173,7 @@
   },
   {
     "name": "Rafal",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/rafal.png",
     "game": [
       "Engage"
     ],
@@ -15198,7 +15198,7 @@
   },
   {
     "name": "Zelestia",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/zelestia.png",
     "game": [
       "Engage"
     ],
@@ -15223,7 +15223,7 @@
   },
   {
     "name": "Gregory",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/gregory.png",
     "game": [
       "Engage"
     ],
@@ -15248,7 +15248,7 @@
   },
   {
     "name": "Madeline",
-    "portrait_url": null,
+    "portrait_url": "https://snbhejdrbrhzprvkzgdy.supabase.co/storage/v1/object/public/portraits/madeline.png",
     "game": [
       "Engage"
     ],
