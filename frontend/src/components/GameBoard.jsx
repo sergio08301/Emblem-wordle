@@ -39,10 +39,10 @@ export default function GameBoard({ guesses }) {
     <div className="flex flex-col gap-2 w-max mx-auto px-2">
 
       <div className="flex items-center gap-2">
-        <div className="w-12 shrink-0" />
-        <div className="w-28 shrink-0" />
+        <div className="w-12 lg:w-14 xl:w-16 shrink-0" />
+        <div className="w-28 lg:w-32 xl:w-36 shrink-0" />
         {HEADERS.map(({ label, wide, tooltip }) => (
-          <div key={label} className={`${wide ? 'w-36' : 'w-24'} relative group text-center text-xs text-gray-300 font-semibold uppercase tracking-wide cursor-default`}>
+          <div key={label} className={`${wide ? 'w-36 lg:w-40 xl:w-48' : 'w-24 lg:w-28 xl:w-32'} relative group text-center text-xs text-gray-300 font-semibold uppercase tracking-wide cursor-default`}>
             {label}
             <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-56 bg-gray-900 text-gray-200 text-xs font-normal normal-case tracking-normal rounded-lg px-3 py-2 shadow-lg invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-opacity duration-150 pointer-events-none z-10 whitespace-pre-line text-left">
               {tooltip}

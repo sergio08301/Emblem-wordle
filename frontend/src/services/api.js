@@ -12,20 +12,48 @@ async function request(path, options = {}) {
   return response.json()
 }
 
-export function getToday(anonymousId) {
+export function getToday(anonymousId, token = null) {
   return request('/game/today', {
-    headers: { 'X-Anonymous-ID': anonymousId },
+    headers: {
+      'X-Anonymous-ID': anonymousId,
+      ...(token ? { Authorization: `Bearer ${token}` } : {}),
+    },
   })
 }
 
-export function submitGuess(characterId, anonymousId) {
+export function submitGuess(characterId, anonymousId, token = null) {
   return request('/game/guess', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'X-Anonymous-ID': anonymousId,
+      ...(token ? { Authorization: `Bearer ${token}` } : {}),
     },
     body: JSON.stringify({ character_id: characterId }),
+  })
+}
+
+export function recruitDaily(token) {
+  return request('/army/me/recruit/daily', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${token}` },
+  })
+}
+
+export function getBarracks(token) {
+  return request('/army/me/barracks', {
+    headers: { Authorization: `Bearer ${token}` },
+  })
+}
+
+export function setCharacterSlot(token, characterId, slot) {
+  return request(`/army/me/characters/${characterId}/slot`, {
+    method: 'PUT',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({ slot }),
   })
 }
 
@@ -43,10 +71,24 @@ export function startInfinite() {
   return request('/game/infinite/start', { method: 'POST' })
 }
 
-export function submitInfiniteGuess(sessionToken, characterId, attemptNumber) {
+export function submitInfiniteGuess(sessionToken, characterId, attemptNumber, token = null) {
   return request('/game/infinite/guess', {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: {
+      'Content-Type': 'application/json',
+      ...(token ? { Authorization: `Bearer ${token}` } : {}),
+    },
     body: JSON.stringify({ session_token: sessionToken, character_id: characterId, attempt_number: attemptNumber }),
+  })
+}
+
+export function recruitInfinite(token, characterId) {
+  return request('/army/me/recruit/infinite', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({ character_id: characterId }),
   })
 }

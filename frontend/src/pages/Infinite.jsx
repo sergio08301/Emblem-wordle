@@ -8,7 +8,7 @@ import HPBar from '../components/HPBar'
 import { playHitSound, playLevelUpSound, playDeathSound } from '../utils/sounds'
 
 export default function Infinite() {
-  const { guesses, won, lost, sessionToken, targetCharacter, loading, error, startGame, submitGuess } = useInfiniteGame()
+  const { guesses, won, lost, sessionToken, targetCharacter, infiniteTokenAvailable, loading, error, startGame, submitGuess, recruitCurrent } = useInfiniteGame()
   const [dismissed, setDismissed] = useState(false)
   const completed = won || lost
   const showModal = completed && !!targetCharacter && !dismissed
@@ -34,7 +34,7 @@ export default function Infinite() {
   }
 
   return (
-    <div className="text-white flex flex-col items-center py-10 px-4">
+    <div className="text-white flex flex-col items-center py-6 px-4">
       <h1 className="text-3xl font-bold mb-1">Infinite Mode</h1>
       <p className="text-gray-300 mb-6">Guess as many Fire Emblem characters as you want</p>
 
@@ -83,6 +83,7 @@ export default function Infinite() {
           targetCharacter={targetCharacter}
           stats={null}
           showShare={false}
+          onRecruitInfinite={won && infiniteTokenAvailable ? recruitCurrent : null}
           onClose={() => setDismissed(true)}
           onPlayAgain={handlePlayAgain}
         />

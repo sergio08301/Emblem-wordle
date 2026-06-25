@@ -40,14 +40,14 @@ export default function GuessRow({ guess }) {
   return (
     <div className="flex items-center gap-2">
 
-      <div className="w-12 h-12 rounded bg-gray-700 flex items-center justify-center overflow-hidden shrink-0">
+      <div className="w-12 h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16 rounded bg-gray-700 flex items-center justify-center overflow-hidden shrink-0">
         {character_portrait_url
           ? <img src={character_portrait_url} alt={character_name} className="w-full h-full object-cover" />
           : <span className="text-xs text-gray-400 font-bold">{character_name[0]}</span>
         }
       </div>
 
-      <span className="w-28 text-sm font-medium truncate shrink-0">{character_name}</span>
+      <span className="w-28 lg:w-32 xl:w-36 text-sm lg:text-base font-medium truncate shrink-0">{character_name}</span>
 
       {FIELDS.map(({ key, wide }) => {
         const { status, direction } = result[key]

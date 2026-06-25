@@ -7,9 +7,9 @@ from app.models.game_session import GameSession
 from app.models.guess import Guess as GuessModel
 from app.models.user import User
 from app.models.user_stats import UserStats
-from app.schemas.game import CharacterData, GuessRequest, GuessResponse, GuessResult, SessionResponse, TargetCharacter
+from app.schemas.game import CharacterData, GuessRequest, GuessResponse, GuessResult, SessionResponse, TargetCharacter, XpReportEntry
 from app.schemas.user import UserStatsResponse
-from app.services import auth_service, daily_service, game_service
+from app.services import army_service, auth_service, daily_service, game_service
 
 router = APIRouter(prefix="/game", tags=["game"])
 
@@ -25,7 +25,12 @@ def get_current_user_optional(
     return auth_service.get_user_from_token(db, token)
 
 
-def _build_guess_response(guess: GuessModel, session: GameSession, target: Character | None = None) -> GuessResponse:
+def _build_guess_response(
+    guess: GuessModel,
+    session: GameSession,
+    target: Character | None = None,
+    xp_report: list[dict] | None = None,
+) -> GuessResponse:
     return GuessResponse(
         attempt_number=guess.attempt_number,
         character_name=guess.character.name,
@@ -35,6 +40,7 @@ def _build_guess_response(guess: GuessModel, session: GameSession, target: Chara
         session_completed=session.completed,
         session_won=session.won,
         target_character=TargetCharacter.model_validate(target) if target else None,
+        xp_report=[XpReportEntry(**e) for e in (xp_report or [])],
     )
 
 
@@ -56,6 +62,13 @@ def get_today(
     )
 
     target = challenge.character if session.completed else None
+    already_recruited = False
+    infinite_token_available = False
+    if current_user:
+        from app.models.user_character import UserCharacter
+        if session.completed and session.won:
+            already_recruited = db.get(UserCharacter, (current_user.id, challenge.character_id)) is not None
+        infinite_token_available = army_service.has_infinite_token(db, current_user.id)
     return SessionResponse(
         session_id=session.id,
         completed=session.completed,
@@ -63,6 +76,8 @@ def get_today(
         attempts_count=session.attempts_count,
         guesses=[_build_guess_response(g, session) for g in guesses],
         target_character=TargetCharacter.model_validate(target) if target else None,
+        already_recruited=already_recruited,
+        infinite_token_available=infinite_token_available,
     )
 
 
@@ -86,8 +101,13 @@ def submit_guess(
     except ValueError as e:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
 
+    xp_report = []
+    if session.completed and session.won and current_user:
+        xp_report = army_service.award_xp(db, current_user.id)
+        db.commit()
+
     target = challenge.character if session.completed else None
-    return _build_guess_response(guess, session, target)
+    return _build_guess_response(guess, session, target, xp_report)
 
 
 @router.get("/stats", response_model=UserStatsResponse)

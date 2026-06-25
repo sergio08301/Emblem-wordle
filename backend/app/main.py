@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import auth, characters, game, infinite, stats
+from app.routers import army, auth, characters, game, infinite, stats
 
 app = FastAPI(title="Emblem Wordle API")
 
@@ -20,6 +20,7 @@ app.include_router(characters.router)
 app.include_router(game.router)
 app.include_router(infinite.router)
 app.include_router(stats.router)
+app.include_router(army.router)
 
 
 @app.get("/health")

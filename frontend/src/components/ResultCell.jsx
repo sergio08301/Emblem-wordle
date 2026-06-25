@@ -21,7 +21,7 @@ const DIRECTION_ARROW = {
 export default function ResultCell({ value, status, direction, wide = false }) {
   return (
     <div className={`${STATUS_STYLES[status]} flex flex-col items-center justify-center
-                     ${wide ? 'w-36' : 'w-24'} h-16 rounded text-white text-sm font-semibold text-center p-1`}>
+                     ${wide ? 'w-36 lg:w-40 xl:w-48' : 'w-24 lg:w-28 xl:w-32'} h-16 lg:h-18 xl:h-20 rounded text-white text-xs lg:text-sm font-semibold text-center p-1`}>
       <span>{value}</span>
       {direction && (
         <span className="text-lg">{DIRECTION_ARROW[direction]}</span>

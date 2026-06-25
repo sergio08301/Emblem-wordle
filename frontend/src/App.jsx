@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Login from './pages/Login'
 import Register from './pages/Register'
 import Infinite from './pages/Infinite'
+import Barracks from './pages/Barracks'
 import Navbar from './components/Navbar'
 import HowToPlayModal from './components/HowToPlayModal'
 
@@ -39,6 +40,7 @@ export default function App() {
                 <Route path="/login" element={<Login />} />
                 <Route path="/register" element={<Register />} />
                 <Route path="/infinite" element={<Infinite />} />
+                <Route path="/barracks" element={<Barracks />} />
               </Routes>
             </main>
             {showHelp && <HowToPlayModal onClose={closeHelp} />}

@@ -40,6 +40,7 @@ class CharacterData(BaseModel):
 
 
 class TargetCharacter(BaseModel):
+    id: int
     name: str
     portrait_url: str | None
     game: list[str]
@@ -51,6 +52,13 @@ class TargetCharacter(BaseModel):
     model_config = {"from_attributes": True}
 
 
+class XpReportEntry(BaseModel):
+    character_name: str
+    xp_gained: int
+    leveled_up: bool
+    new_level: int
+
+
 class GuessResponse(BaseModel):
     attempt_number: int
     character_name: str
@@ -60,6 +68,7 @@ class GuessResponse(BaseModel):
     session_completed: bool
     session_won: bool
     target_character: TargetCharacter | None = None
+    xp_report: list[XpReportEntry] = []
 
 
 class SessionResponse(BaseModel):
@@ -69,6 +78,8 @@ class SessionResponse(BaseModel):
     attempts_count: int
     guesses: list[GuessResponse]
     target_character: TargetCharacter | None = None
+    already_recruited: bool = False
+    infinite_token_available: bool = False
 
 
 class InfiniteStartResponse(BaseModel):
@@ -89,3 +100,4 @@ class InfiniteGuessResponse(BaseModel):
     won: bool
     lost: bool = False
     target_character: TargetCharacter | None = None
+    infinite_token_available: bool = False

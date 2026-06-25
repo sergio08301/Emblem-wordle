@@ -2,14 +2,17 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useGame } from '../hooks/useGame'
 import { useStats } from '../hooks/useStats'
+import { useAuth } from '../context/AuthContext'
 import SearchInput from '../components/SearchInput'
 import GameBoard from '../components/GameBoard'
 import ResultModal from '../components/ResultModal'
 import HPBar from '../components/HPBar'
 import { playHitSound, playLevelUpSound, playDeathSound } from '../utils/sounds'
+import { recruitDaily } from '../services/api'
 
 export default function Home() {
-  const { guesses, completed, won, loading, error, targetCharacter, submitGuess } = useGame()
+  const { guesses, completed, won, loading, error, targetCharacter, alreadyRecruited, setAlreadyRecruited, infiniteTokenAvailable, xpReport, submitGuess } = useGame()
+  const { token } = useAuth()
   const stats = useStats(completed)
   const [dismissed, setDismissed] = useState(false)
   const [modalDelayed, setModalDelayed] = useState(false)
@@ -42,7 +45,7 @@ export default function Home() {
   }
 
   return (
-    <div className="text-white flex flex-col items-center py-10 px-4">
+    <div className="text-white flex flex-col items-center py-6 px-4">
       <h1 className="text-3xl font-bold mb-1">Today's Character</h1>
       <p className="text-gray-300 mb-6">Guess today's Fire Emblem character</p>
 
@@ -82,6 +85,10 @@ export default function Home() {
           won={won}
           targetCharacter={targetCharacter}
           stats={stats}
+          onRecruitDaily={token && !alreadyRecruited ? async () => { const r = await recruitDaily(token); setAlreadyRecruited(true); return r } : null}
+          infiniteTokenAvailable={!!token && infiniteTokenAvailable}
+          xpReport={xpReport}
+          showUpsell={!token}
           onClose={() => setDismissed(true)}
         />
       )}

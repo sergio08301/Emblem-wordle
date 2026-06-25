@@ -43,6 +43,9 @@ export default function Navbar({ onHelpOpen }) {
         >?</button>
         {user ? (
           <>
+            <Link to="/barracks" className="text-sm text-gray-300 hover:text-yellow-400 transition-colors font-medium">
+              Barracks
+            </Link>
             <span className="text-gray-300 text-sm truncate max-w-30">👤 {user.username}</span>
             <button
               onClick={logout}
