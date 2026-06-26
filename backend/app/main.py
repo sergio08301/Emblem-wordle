@@ -1,14 +1,16 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routers import army, auth, characters, game, infinite, stats
+from app.core.config import settings
 
 app = FastAPI(title="Emblem Wordle API")
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",   # Vite dev server
-        "http://localhost:3000",   # Alternative local port
+        "http://localhost:5173",
+        "http://localhost:3000",
+        settings.frontend_url,
     ],
     allow_credentials=True,
     allow_methods=["*"],

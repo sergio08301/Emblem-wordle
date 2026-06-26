@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { isMuted, setMuted } from '../utils/sounds'
+import Logo from './Logo'
 
 export default function Navbar({ onHelpOpen }) {
   const { user, logout } = useAuth()
@@ -15,8 +16,8 @@ export default function Navbar({ onHelpOpen }) {
 
   return (
     <nav className="w-full bg-gray-800 px-4 sm:px-6 py-5 flex items-center justify-between gap-4">
-      <Link to="/" className="text-white font-bold text-lg">
-        Emblem Wordle
+      <Link to="/" style={{ textDecoration: 'none' }}>
+        <Logo />
       </Link>
 
       <div className="flex items-center gap-4">
