@@ -60,33 +60,37 @@ export default function Navbar({ onHelpOpen }) {
         >?</button>
         {user ? (
           <>
-            <Link to="/barracks" className="text-sm text-gray-300 hover:text-yellow-400 transition-colors font-medium">
-              Barracks
+            <Link to="/barracks" className="text-gray-300 hover:text-yellow-400 transition-colors font-medium">
+              <span className="hidden sm:inline text-sm">Barracks</span>
+              <span className="sm:hidden text-base">⚔️</span>
             </Link>
-            <span className="text-gray-300 text-sm truncate max-w-30 flex items-center gap-2">
+            <span className="text-gray-300 text-sm flex items-center gap-2">
               {avatarUrl
                 ? <img src={avatarUrl} alt="" style={{ width: 24, height: 24, borderRadius: '4px', objectFit: 'cover', flexShrink: 0 }} />
                 : <span>👤</span>
               }
-              {user.username}
+              <span className="hidden sm:inline truncate max-w-24">{user.username}</span>
             </span>
             <button
               onClick={logout}
-              className="text-sm text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-white transition-colors"
             >
-              Logout
+              <span className="hidden sm:inline text-sm">Logout</span>
+              <span className="sm:hidden text-base">↩</span>
             </button>
           </>
         ) : (
           <>
             <Link to="/login" className="text-sm text-gray-300 hover:text-white transition-colors">
-              Sign in
+              <span className="hidden sm:inline">Sign in</span>
+              <span className="sm:hidden">Login</span>
             </Link>
             <Link
               to="/register"
               className="text-sm bg-blue-600 hover:bg-blue-500 px-3 py-1 rounded transition-colors"
             >
-              Register
+              <span className="hidden sm:inline">Register</span>
+              <span className="sm:hidden">Join</span>
             </Link>
           </>
         )}

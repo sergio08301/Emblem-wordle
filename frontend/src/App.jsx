@@ -24,14 +24,14 @@ export default function App() {
       <BrowserRouter>
         <div className="relative min-h-screen">
           <div
-            className="fixed inset-0 bg-cover bg-no-repeat sm:hidden"
-            style={{ backgroundImage: "url('/FE_Expo_key_art_bg.png')", backgroundPosition: 'center 30%' }}
+            className="fixed top-0 left-0 w-full bg-cover bg-no-repeat sm:hidden"
+            style={{ backgroundImage: "url('/FE_Expo_key_art_bg.png')", backgroundPosition: 'center 30%', height: '100lvh' }}
           />
           <div
-            className="fixed inset-0 bg-cover bg-center bg-no-repeat hidden sm:block"
-            style={{ backgroundImage: "url('/ending image.jpg')" }}
+            className="fixed top-0 left-0 w-full bg-cover bg-center bg-no-repeat hidden sm:block"
+            style={{ backgroundImage: "url('/ending image.jpg')", height: '100lvh' }}
           />
-          <div className="fixed inset-0 bg-black/80" />
+          <div className="fixed top-0 left-0 w-full bg-black/80" style={{ height: '100lvh' }} />
           <div className="relative z-10 flex flex-col h-screen">
             <Navbar onHelpOpen={() => setShowHelp(true)} />
             <main className="flex-1 overflow-y-auto">
