@@ -1,61 +1,55 @@
-# FE Guess
+# Emblem-wordle
 
-A Wordle/Loldle-style web game for guessing Fire Emblem characters based on their attributes. Each day a new character is selected and players must identify it through comparative clues (correct / partial / incorrect) across categories like game of origin, weapon, class, movement type and hair color.
+A Wordle/Loldle-style web game for guessing Fire Emblem characters based on their attributes.
 
-Players can compete anonymously or create an account to save streaks, stats, and build an army of recruited characters.
+## Concept
 
----
+The user enters the name of a Fire Emblem character. The system compares it against the "character of the day" and returns, for each category, whether the value matches (green), partially matches (orange), or doesn't match (red). For "game" (game of origin), an additional indicator shows whether the daily character's game is earlier or later (up/down arrow) based on chronological release order.
 
-## Tech Stack
+Users can play without an account (anonymous mode) or register to save their streak and stats across devices.
 
-### Frontend
+### Character categories (core of the game)
 
-| Technology | Role in this project |
-|---|---|
-| **React 19** | UI framework. Every screen is a component tree; state flows down via props or context. |
-| **Vite** | Build tool and dev server. Handles JSX transpilation, hot module replacement, and production bundling. Also provides `import.meta.env` for environment variables (`VITE_API_URL`). |
-| **React Router v7** | Client-side routing. Defines the four routes: `/` (daily), `/infinite`, `/barracks`, `/login`, `/register`. See `frontend/src/App.jsx`. |
-| **Tailwind CSS v4** | Utility-first CSS. Used for layout and responsive breakpoints (`lg:`, `xl:`). Some components use inline styles instead when dynamic values are needed (e.g. XP bar width as a percentage). |
-| **Context API** | Global auth state. `frontend/src/context/AuthContext.jsx` stores the JWT token and the logged-in user object, exposing them via `useAuth()` to any component without prop drilling. |
+Each character has the following fields, used for comparison:
 
-### Backend
+- `name` — character name
+- `portrait` — portrait/sprite URL
+- `game` — game of origin (with chronological up/down indicator)
+- `gender` — gender
+- `weapon` — primary weapon (Sword, Lance, Axe, Bow, Tome, Staff...)
+- `starting_class` — starting class (Cavalier, Mage, Thief...)
+- `movement_type` — movement type (Infantry, Cavalry, Armored, Flying...)
+- `hair_color` — hair color
 
-| Technology | Role in this project |
-|---|---|
-| **Python 3.13** | Runtime language for the entire backend. |
-| **FastAPI** | Web framework. Declares HTTP endpoints with type-annotated function signatures. Automatically generates OpenAPI docs at `/docs`. Entry point: `backend/app/main.py`. |
-| **Pydantic v2** | Data validation and serialization. Every request body and response body is a Pydantic model (`backend/app/schemas/`). FastAPI uses these to validate incoming JSON and serialize outgoing responses. |
-| **pydantic-settings** | Reads environment variables into a typed `Settings` object (`backend/app/core/config.py`). In production, values come from the host's env vars; locally from `backend/.env`. |
-| **SQLAlchemy 2** | ORM. Python classes in `backend/app/models/` map to database tables. Queries are written in Python (no raw SQL). Uses the new `Mapped[type]` annotation style for type safety. |
-| **Alembic** | Database migration tool. Each schema change is a versioned script in `backend/alembic/versions/`. Running `alembic upgrade head` applies all pending migrations to the database. |
-| **psycopg2** | PostgreSQL driver. SQLAlchemy uses it under the hood to talk to the database; it is never called directly. |
-| **python-jose** | JWT creation and verification. `backend/app/core/security.py` uses it to sign tokens on login and verify them on protected endpoints. |
-| **bcrypt** | Password hashing. Passwords are never stored in plain text; `auth_service.py` hashes on register and checks the hash on login. |
-| **python-multipart** | Required by FastAPI to accept `multipart/form-data` (used in the login form flow). |
-| **uvicorn** | ASGI server that runs the FastAPI app. In development: `uvicorn app.main:app --reload`. In production: started via `Procfile` using the `$PORT` env var injected by the hosting platform. |
+### Comparison logic (core of the game)
 
-### Database
+For each category in the guess vs. the daily character:
+- **Correct (green):** identical value
+- **Partial (orange):** partial match — mainly applies to fields with multiple possible values (e.g. a character with two starting classes, or several weapon types)
+- **Incorrect (red):** no match
+- **Game:** in addition to correct/incorrect, a chronological indicator (higher / lower) relative to the actual game of origin
 
-| Technology | Role in this project |
-|---|---|
-| **PostgreSQL** | Relational database. Stores all persistent data: users, characters, daily challenges, game sessions, guesses, stats, army rosters. |
-| **Supabase** | Managed PostgreSQL hosting (free tier). Provides the `DATABASE_URL` connection string used by SQLAlchemy. |
 
-### Infrastructure
+## Tech stack
 
-| Technology | Role in this project |
-|---|---|
-| **Vercel** | Frontend hosting. Detects Vite automatically, builds with `npm run build`, serves `frontend/dist/`. The `VITE_API_URL` env var is set here to point at the backend. |
-| **GitHub** | Source control and CI trigger for Vercel deployments. |
+| Layer | Technology |
+|------|-----------|
+| Frontend | React + Vite + Tailwind CSS |
+| Backend | Python + FastAPI |
+| Database | PostgreSQL |
+| ORM | SQLAlchemy + Alembic (migrations) |
+| Auth | JWT (python-jose) |
+| Frontend hosting | Vercel |
+| Backend hosting | Koyeb |
+| Database hosting | Supabase |
+| Repository | GitHub |
 
----
-
-## Repository Structure
+## Repository structure
 
 ```
 fe-guess/
 ├── frontend/
-│   ├── index.html              ← HTML shell; loads Google Fonts (Cormorant Garamond, Josefin Sans) for the logo
+│   ├── index.html              ← HTML shell
 │   ├── vite.config.js
 │   └── src/
 │       ├── main.jsx            ← React entry point; mounts <App /> into #root
@@ -103,18 +97,12 @@ fe-guess/
 │           └── sounds.js        ← Plays hit / level-up / death sound effects.
 │
 └── backend/
-    ├── requirements.txt        ← All Python dependencies (pinned-free; install with pip install -r)
+    ├── requirements.txt        ← All Python dependencies
     ├── Procfile                ← Tells the hosting platform how to start the server: uvicorn + $PORT
-    ├── .env.example            ← Template for required environment variables
     │
     ├── alembic/
     │   ├── env.py              ← Alembic config; imports all models so it can detect schema changes
     │   └── versions/           ← One file per migration, applied in order by `alembic upgrade head`
-    │       ├── cfd34fd1fb38_create_tables.py              ← Initial schema (all core tables)
-    │       ├── 0953ec57d3ba_gender_array.py               ← Made gender a multi-value field
-    │       ├── 692ee0101dd5_add_promotion_tier_to_characters.py
-    │       ├── 47dddd3abc5c_add_last_played_date_to_user_stats.py
-    │       └── fb88e8dbea98_add_user_characters_and_daily_deploy_.py ← Army system tables
     │
     └── app/
         ├── main.py             ← FastAPI app instance; CORS middleware; router registration
@@ -160,7 +148,8 @@ fe-guess/
 
 ---
 
-## Database Schema
+
+## Database schema
 
 ### Core tables
 
@@ -197,50 +186,26 @@ fe-guess/
 
 ---
 
-## Key Design Decisions
+### Important design notes
+- `user_id` is nullable in `game_sessions` to support guest play. If `user_id` is present, `anonymous_id` is ignored.
+- `guesses.result` is flexible JSON so the schema doesn't need a migration if categories are added or removed in the future.
+- Anonymous users don't have a row in `user_stats`; their stats live client-side (not persisted across devices).
 
-### Separation of concerns
-Routers only parse the request, call a service, and return the response. All logic (guess comparison, XP calculation, daily character selection) lives in `services/`. This makes the business rules independently testable and keeps routers thin.
 
-### Guest play without an account
-`game_sessions.user_id` is nullable. Guests get a UUID stored in `localStorage` (`utils/anonymousId.js`) that acts as their anonymous identity. Stats for guests live in `localStorage` only (`utils/localStats.js`) and are not synced to the server.
+## Hosting and costs
 
-### Guess result as JSON
-`guesses.result` stores the full per-category comparison as a JSON object. This means adding or removing a category (e.g. a new attribute) doesn't require changing the table schema, only the comparison logic in `game_service.py`.
+The entire stack can be deployed for free:
+- **Vercel** (frontend) — free Hobby plan
+- **Koyeb** (backend) — permanent free plan, no server "sleep"
+- **Supabase** (PostgreSQL) — free plan, 500MB (well above what this project needs)
+- **GitHub** — free repository
 
-### XP system
-- Winning the daily challenge awards **100 XP**, split equally among all deployed characters below max level.
-- Each level requires **100 XP** (so one character levels up every day if solo-deployed).
-- Maximum level is **20**.
-- XP is awarded automatically on win; the recruit prompt is a separate opt-in action.
+## Product considerations
 
-### Composite primary keys in the army tables
-`user_characters` uses `(user_id, character_id)` as its PK — a user can recruit each character at most once, enforced at the database level. `daily_deploy_tokens` uses `(user_id, date)` — one token per user per day, also enforced at the database level.
+- This is a portfolio project: special emphasis is placed on having solid business logic implemented in the backend (not delegated to the frontend), with clear endpoints and proper authentication code.
+- The game work perfectly without requiring login.
+- A user can only play a given day's challenge once (enforced via `game_sessions`).
 
-### Infinite mode authentication
-Infinite mode is stateless: the server issues a short-lived session JWT per game (no user identity embedded). To associate a logged-in user with an infinite guess, the frontend passes *both* the infinite session JWT and the user's bearer token. The backend has an optional auth dependency (`_get_user_optional`) that extracts the user if the bearer token is present but doesn't require it.
-
----
-
-## Environment Variables
-
-### Backend (`backend/.env`)
-
-| Variable | Description |
-|---|---|
-| `DATABASE_URL` | PostgreSQL connection string (`postgresql://user:pass@host:5432/db`) |
-| `SECRET_KEY` | Secret used to sign JWTs. Generate with `python -c "import secrets; print(secrets.token_hex(32))"` |
-| `ALGORITHM` | JWT algorithm. Default: `HS256` |
-| `ACCESS_TOKEN_EXPIRE_MINUTES` | Token lifetime. Default: `30` |
-| `FRONTEND_URL` | Allowed CORS origin for the frontend (e.g. `https://fe-guess.vercel.app`) |
-
-### Frontend (`frontend/.env.local`)
-
-| Variable | Description |
-|---|---|
-| `VITE_API_URL` | Backend base URL (e.g. `https://your-backend.com`). Falls back to `http://localhost:8000`. |
-
----
 
 ## Running Locally
 
@@ -248,11 +213,9 @@ Infinite mode is stateless: the server issues a short-lived session JWT per game
 
 ```bash
 cd backend
-python -m venv venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # macOS/Linux
 pip install -r requirements.txt
-cp .env.example .env           # fill in DATABASE_URL and SECRET_KEY
 alembic upgrade head           # apply all migrations
 uvicorn app.main:app --reload
 ```
@@ -264,7 +227,6 @@ API available at `http://localhost:8000` — interactive docs at `http://localho
 ```bash
 cd frontend
 npm install
-# optional: create .env.local with VITE_API_URL=http://localhost:8000
 npm run dev
 ```
 
