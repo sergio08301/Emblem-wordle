@@ -1,13 +1,4 @@
-const BASE_URL = 'http://localhost:8000'
-
-async function request(path, options = {}) {
-  const response = await fetch(`${BASE_URL}${path}`, options)
-  if (!response.ok) {
-    const error = await response.json()
-    throw new Error(error.detail || 'Server error')
-  }
-  return response.json()
-}
+import { request } from './api'
 
 export function register(username, email, password) {
   return request('/auth/register', {

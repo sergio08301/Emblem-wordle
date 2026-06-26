@@ -3,7 +3,7 @@ const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 //Todos los componentes van a necesitar hacer peticiones al backend. Si centramos esa lógica en un solo archivo, 
 // cuando cambie la URL del servidor (por ejemplo al desplegarlo) solo hay que tocar un sitio.
 
-async function request(path, options = {}) {
+export async function request(path, options = {}) {
   const response = await fetch(`${BASE_URL}${path}`, options)
   if (!response.ok) {
     const error = await response.json()
