@@ -187,7 +187,7 @@ function BenchSection({ chars, onToggleSlot, loadingId, deploymentFull }) {
 }
 
 export default function Barracks() {
-  const { user, token } = useAuth()
+  const { user, token, loading: authLoading } = useAuth()
   const navigate = useNavigate()
   const [deployment, setDeployment] = useState([])
   const [bench, setBench] = useState([])
@@ -197,6 +197,7 @@ export default function Barracks() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
+    if (authLoading) return
     if (!user) { navigate('/login'); return }
     const savedLord = getLordId(user.id)
     getBarracks(token)
@@ -211,7 +212,7 @@ export default function Barracks() {
       })
       .catch(err => setError(err.message))
       .finally(() => setLoading(false))
-  }, [user])
+  }, [user, authLoading])
 
   function handleDesignateLord(characterId) {
     setLordId(user.id, characterId)
