@@ -1,12 +1,28 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { isMuted, setMuted } from '../utils/sounds'
+import { getBarracks } from '../services/api'
+import { getLordId } from '../utils/lordStorage'
 import Logo from './Logo'
 
 export default function Navbar({ onHelpOpen }) {
-  const { user, logout } = useAuth()
+  const { user, token, logout } = useAuth()
   const [muted, setMutedState] = useState(() => isMuted())
+  const [avatarUrl, setAvatarUrl] = useState(null)
+
+  useEffect(() => {
+    if (!user || !token) { setAvatarUrl(null); return }
+    getBarracks(token)
+      .then(data => {
+        const lordId = getLordId(user.id)
+        const dep = data.deployment
+        const lord = lordId ? dep.find(c => c.character_id === lordId) : null
+        const portrait = (lord ?? dep[0])?.character_portrait_url ?? null
+        setAvatarUrl(portrait)
+      })
+      .catch(() => setAvatarUrl(null))
+  }, [user, token])
 
   function toggleMute() {
     const next = !muted
@@ -47,7 +63,13 @@ export default function Navbar({ onHelpOpen }) {
             <Link to="/barracks" className="text-sm text-gray-300 hover:text-yellow-400 transition-colors font-medium">
               Barracks
             </Link>
-            <span className="text-gray-300 text-sm truncate max-w-30">👤 {user.username}</span>
+            <span className="text-gray-300 text-sm truncate max-w-30 flex items-center gap-2">
+              {avatarUrl
+                ? <img src={avatarUrl} alt="" style={{ width: 24, height: 24, borderRadius: '4px', objectFit: 'cover', flexShrink: 0 }} />
+                : <span>👤</span>
+              }
+              {user.username}
+            </span>
             <button
               onClick={logout}
               className="text-sm text-gray-400 hover:text-white transition-colors"

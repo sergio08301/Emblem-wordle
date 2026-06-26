@@ -260,10 +260,9 @@ CLASS_PARTIAL_GROUPS: list[frozenset[str]] = [
     # Journeyman ≈ Pirate and Fighter specifically (not the whole Fighter family)
     frozenset({"Journeyman", "Fighter"}),
     frozenset({"Journeyman", "Pirate"}),
-    # Recruit bridges Knight (armor) and Cavalier (mounted); Knight ≈ Cavalier too
+    # Recruit bridges Knight (armor) and Cavalier (mounted); non-transitive
     frozenset({"Recruit", "Knight"}),
     frozenset({"Recruit", "Cavalier"}),
-    frozenset({"Knight", "Cavalier"}),
     # Noble ≈ Commoner
     frozenset({"Noble", "Commoner"}),
     # Fell Child ≈ Dragon Child (both are Alear-type classes)

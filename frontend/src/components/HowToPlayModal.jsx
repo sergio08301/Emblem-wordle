@@ -36,7 +36,7 @@ export default function HowToPlayModal({ onClose }) {
 
         <section>
           <h3 className="font-bold mb-3 uppercase tracking-wide text-xs text-gray-400">Notes</h3>
-          <ul className="flex flex-col gap-3 text-sm text-gray-300">
+          <ul className="flex flex-col gap-3 text-sm text-gray-300 list-disc list-inside">
             <li>If a game has a remake, the remake fully replaces the original in release order, so the order goes: Shadow Dragon, Echoes, New Mystery, Genealogy…</li>
             <li>All character data, except hair color, comes from <span className="text-blue-400">fireemblemwiki.org</span>.</li>
             <li>A character's class and weapons are always those from their <strong className="text-white">first appearance</strong>. For example, Abel is a Cavalier, not a Paladin as in New Mystery.</li>
