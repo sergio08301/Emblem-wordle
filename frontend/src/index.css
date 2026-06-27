@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: 'NocturneSerif';
+  src: url('/NocturneSerifTest-SemiBoldItalic-uploaded-63b633de3e80a.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}

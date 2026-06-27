@@ -32,7 +32,8 @@ export default function FeedbackModal({ onClose }) {
         <button onClick={onClose} className="absolute top-4 right-4 text-gray-400 hover:text-white text-xl">✕</button>
 
         <h2 className="text-xl font-bold text-white mb-1">Send Feedback</h2>
-        <p className="text-gray-400 text-sm mb-6">Share a bug, suggestion or anything you'd like the developer to know.</p>
+        <p className="text-gray-400 text-sm mb-2">Share a bug, suggestion or anything you'd like the developer to know.</p>
+        <p className="text-gray-500 text-xs mb-6">Before sending, check the <strong className="text-gray-400">How to Play</strong> section — your question might already be answered there.</p>
 
         {!user ? (
           <div className="text-center py-6">

@@ -34,12 +34,12 @@ export default function Navbar({ onHelpOpen }) {
 
   return (
     <>
-    <nav className="w-full bg-gray-800 px-4 sm:px-6 py-5 flex items-center justify-between gap-4">
-      <Link to="/" style={{ textDecoration: 'none' }}>
+    <nav className="w-full bg-gray-800 px-4 sm:px-6 py-5 sm:py-6 flex items-center relative">
+      <Link to="/" style={{ textDecoration: 'none' }} className="sm:absolute sm:left-1/2 sm:-translate-x-1/2">
         <Logo />
       </Link>
 
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-4 ml-auto">
         <button
           onClick={toggleMute}
           className="text-gray-400 hover:text-white w-7 h-7 rounded-full border border-gray-600 hover:border-gray-400 flex items-center justify-center transition-colors"
