@@ -33,6 +33,7 @@ export default function Navbar({ onHelpOpen }) {
   }
 
   return (
+    <>
     <nav className="w-full bg-gray-800 px-4 sm:px-6 py-5 flex items-center justify-between gap-4">
       <Link to="/" style={{ textDecoration: 'none' }}>
         <Logo />
@@ -109,5 +110,6 @@ export default function Navbar({ onHelpOpen }) {
       </div>
     </nav>
     {showFeedback && <FeedbackModal onClose={() => setShowFeedback(false)} />}
+    </>
   )
 }
