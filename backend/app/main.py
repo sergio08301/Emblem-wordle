@@ -1,9 +1,19 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import army, auth, characters, game, infinite, stats
+from app.routers import army, auth, characters, feedback, game, infinite, stats
 from app.core.config import settings
+from app.scheduler import start_scheduler, stop_scheduler
 
-app = FastAPI(title="Emblem Wordle API")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    start_scheduler()
+    yield
+    stop_scheduler()
+
+
+app = FastAPI(title="Emblem Wordle API", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -23,6 +33,7 @@ app.include_router(game.router)
 app.include_router(infinite.router)
 app.include_router(stats.router)
 app.include_router(army.router)
+app.include_router(feedback.router)
 
 
 @app.get("/health")

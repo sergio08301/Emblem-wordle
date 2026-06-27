@@ -92,3 +92,14 @@ export function recruitInfinite(token, characterId) {
     body: JSON.stringify({ character_id: characterId }),
   })
 }
+
+export function sendFeedback(token, subject, message) {
+  return request('/feedback', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({ subject, message }),
+  })
+}

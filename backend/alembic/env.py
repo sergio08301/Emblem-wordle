@@ -7,7 +7,7 @@ from alembic import context
 
 from app.core.config import settings
 from app.core.database import Base
-from app.models import user, character, daily_challenge, game_session, guess, user_stats, user_character, daily_deploy_token  # noqa: F401 — registers models with Base.metadata
+from app.models import user, character, daily_challenge, game_session, guess, user_stats, user_character, daily_deploy_token, feedback, digest_log  # noqa: F401 — registers models with Base.metadata
 
 config = context.config
 
