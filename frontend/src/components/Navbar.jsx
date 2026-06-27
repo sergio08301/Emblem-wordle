@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { isMuted, setMuted } from '../utils/sounds'
 import { getBarracks } from '../services/api'
@@ -9,6 +9,7 @@ import FeedbackModal from './FeedbackModal'
 
 export default function Navbar({ onHelpOpen }) {
   const { user, token, logout } = useAuth()
+  const { pathname } = useLocation()
   const [muted, setMutedState] = useState(() => isMuted())
   const [avatarUrl, setAvatarUrl] = useState(null)
   const [showFeedback, setShowFeedback] = useState(false)
@@ -35,9 +36,41 @@ export default function Navbar({ onHelpOpen }) {
   return (
     <>
     <nav className="w-full bg-gray-800 px-4 sm:px-6 py-5 sm:py-6 flex items-center relative">
-      <Link to="/" style={{ textDecoration: 'none' }} className="sm:absolute sm:left-1/2 sm:-translate-x-1/2">
+      <Link to="/" style={{ textDecoration: 'none' }}>
         <Logo />
       </Link>
+
+      {/* Mode buttons — next to logo, desktop only */}
+      <div className="hidden sm:flex items-center gap-2 ml-6">
+        <Link
+          to="/"
+          className={`px-3 py-1.5 rounded-lg text-sm font-semibold transition-colors flex items-center gap-2 ${
+            pathname === '/'
+              ? 'bg-blue-600 text-white border border-blue-500'
+              : 'text-gray-400 hover:text-white border border-gray-700 hover:border-gray-500'
+          }`}
+        >
+          <div style={{ textAlign: 'left', lineHeight: 1.2 }}>
+            <div style={{ fontSize: 13 }}>Today's</div>
+            <div style={{ fontSize: 15 }}>Character</div>
+          </div>
+          <img src="/marth.png" alt="" style={{ width: 48, height: 48, objectFit: 'contain', flexShrink: 0, filter: 'drop-shadow(0 0 4px rgba(255,255,255,0.8))' }} />
+        </Link>
+        <Link
+          to="/infinite"
+          className={`px-3 py-1.5 rounded-lg text-sm font-semibold transition-colors flex items-center gap-2 ${
+            pathname === '/infinite'
+              ? 'bg-blue-600 text-white border border-blue-500'
+              : 'text-gray-400 hover:text-white border border-gray-700 hover:border-gray-500'
+          }`}
+        >
+          <div style={{ textAlign: 'left', lineHeight: 1.2 }}>
+            <div style={{ fontSize: 13 }}>Infinite</div>
+            <div style={{ fontSize: 15 }}>Mode</div>
+          </div>
+          <span style={{ fontSize: 48, lineHeight: 1, flexShrink: 0 }}>∞</span>
+        </Link>
+      </div>
 
       <div className="flex items-center gap-4 ml-auto">
         <button

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useNavigate, Link } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { getBarracks, setCharacterSlot } from '../services/api'
 import { getLordId, setLordId } from '../utils/lordStorage'
@@ -257,16 +257,8 @@ export default function Barracks() {
   return (
     <div style={{ color: 'white', maxWidth: 1600, margin: '0 auto', padding: '24px 24px' }}>
 
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 12, marginBottom: 8 }}>
+      <div style={{ marginBottom: 8 }}>
         <h1 style={{ fontSize: 28, fontWeight: 'bold' }}>Barracks</h1>
-        <div style={{ display: 'flex', gap: 8 }}>
-          <Link to="/" style={{ padding: '6px 16px', background: '#374151', borderRadius: 8, color: '#d1d5db', fontSize: 14, fontWeight: 600, textDecoration: 'none' }}>
-            Daily
-          </Link>
-          <Link to="/infinite" style={{ padding: '6px 16px', background: '#5b21b6', borderRadius: 8, color: '#e9d5ff', fontSize: 14, fontWeight: 600, textDecoration: 'none' }}>
-            Infinite Mode
-          </Link>
-        </div>
       </div>
 
       <p style={{ color: '#94a3b8', marginBottom: 28, fontSize: 14 }}>
