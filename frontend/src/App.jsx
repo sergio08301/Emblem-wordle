@@ -34,7 +34,7 @@ export default function App() {
           <div className="fixed top-0 left-0 w-full bg-black/80" style={{ height: '100lvh' }} />
           <div className="relative z-10 flex flex-col h-screen">
             <Navbar onHelpOpen={() => setShowHelp(true)} />
-            <main className="flex-1 overflow-y-auto pt-6">
+            <main className="flex-1 min-h-0 overflow-y-auto pt-6">
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/login" element={<Login />} />
