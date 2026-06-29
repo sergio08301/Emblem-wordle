@@ -105,6 +105,17 @@ export default function Navbar({ onHelpOpen }) {
           )}
         </button>
 
+        {/* Ko-fi — desktop only */}
+        <a
+          href="https://ko-fi.com/sergio08301"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hidden sm:flex transition-opacity hover:opacity-80"
+          title="Support on Ko-fi"
+        >
+          <img src="/ko-fi.webp" alt="Ko-fi" style={{ width: 28, height: 28, objectFit: 'contain' }} />
+        </a>
+
         {/* Feedback — desktop only */}
         <button
           onClick={() => setShowFeedback(true)}
@@ -171,6 +182,15 @@ export default function Navbar({ onHelpOpen }) {
                   <button onClick={() => { closeDropdown(); setShowFeedback(true) }} className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-gray-300 hover:text-white hover:bg-gray-800 transition-colors">
                     <span>✉️</span> Feedback
                   </button>
+                  <a
+                    href="https://ko-fi.com/sergio08301"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={closeDropdown}
+                    className="flex items-center gap-3 px-4 py-2.5 text-sm text-gray-300 hover:text-white hover:bg-gray-800 transition-colors"
+                  >
+                    <img src="/ko-fi.webp" alt="Ko-fi" style={{ width: 20, height: 20, objectFit: 'contain' }} /> Support on Ko-fi
+                  </a>
                   <div className="border-t border-gray-700 mt-1">
                     <button onClick={() => { closeDropdown(); logout() }} className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-red-400 hover:text-red-300 hover:bg-gray-800 transition-colors">
                       <span>↩</span> Logout
