@@ -163,7 +163,7 @@ export default function Navbar({ onHelpOpen }) {
                     <span>🗓️</span> Today's Character
                   </Link>
                   <Link to="/infinite" onClick={closeDropdown} className={`flex items-center gap-3 px-4 py-2.5 text-sm transition-colors ${pathname === '/infinite' ? 'text-blue-400' : 'text-gray-300 hover:text-white hover:bg-gray-800'}`}>
-                    <span>∞</span> Infinite Mode
+                    <span style={{ display: 'inline-block', width: '20px', textAlign: 'center', fontSize: 16 }}>∞</span> Infinite Mode
                   </Link>
                   <Link to="/barracks" onClick={closeDropdown} className={`flex items-center gap-3 px-4 py-2.5 text-sm transition-colors ${pathname === '/barracks' ? 'text-blue-400' : 'text-gray-300 hover:text-white hover:bg-gray-800'}`}>
                     <span>⚔️</span> Barracks

@@ -1,13 +1,34 @@
-import { useState, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 
 // ── Sommie messages ──────────────────────────────────────────────
-// Add or remove lines here. One will be picked at random each time Sommie appears.
+// The FIRST entry is shown the very first time Sommie ever appears (stored in localStorage).
+// All subsequent appearances cycle through the rest in shuffled order before repeating.
 const SOMMIE_MESSAGES = [
-  "Sommie thinks that you could use some help :3",
-  // "Another one here...",
-  // "And another one...",
+  "Sommie thinks that you could use some help",
+  "Sommie is sure that you know it, but you played the old translation patch",
+  "Sommie is sure that this time the answer is Meta Knight, but you could make sure of it",
+  "Sommie is also confused with all the blue haired anime swordsmen",
+  "Sommie thinks that a triangle atack between your last 3 guesses would go very hard",
+  "Sommie also thinks this will lead to another 3 years of 3 houses discourse for some reason",
+  "Sommie thinks this unit would also do well if you reclass it into a wyvern",
 ]
 // ─────────────────────────────────────────────────────────────────
+
+function pickSommieMessage() {
+  const seen = localStorage.getItem('sommie_seen')
+  if (!seen) {
+    localStorage.setItem('sommie_seen', '1')
+    return SOMMIE_MESSAGES[0]
+  }
+  const rest = SOMMIE_MESSAGES.slice(1)
+  let queue = JSON.parse(localStorage.getItem('sommie_queue') || '[]')
+  if (queue.length === 0) {
+    queue = rest.map((_, i) => i).sort(() => Math.random() - 0.5)
+  }
+  const idx = queue.pop()
+  localStorage.setItem('sommie_queue', JSON.stringify(queue))
+  return rest[idx]
+}
 
 const MAX_ATTEMPTS = 8
 const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1w4SJTSrf0r5P4nbcV04LzcIDb9mKSQXbUj3C5yfOx0g/edit?usp=sharing'
@@ -24,10 +45,13 @@ export default function HPBar({ guessCount }) {
   const remaining = MAX_ATTEMPTS - guessCount
   const showSommie = remaining <= 3
   const [hearts, setHearts] = useState([])
-  const sommieMessage = useMemo(
-    () => SOMMIE_MESSAGES[Math.floor(Math.random() * SOMMIE_MESSAGES.length)],
-    [showSommie]
-  )
+  const [sommieMessage, setSommieMessage] = useState('')
+
+  useEffect(() => {
+    if (!showSommie) return
+    const id = setTimeout(() => setSommieMessage(pickSommieMessage()), 0)
+    return () => clearTimeout(id)
+  }, [showSommie])
 
   function spawnHearts() {
     const batch = Array.from({ length: 6 }, (_, i) => ({
@@ -102,7 +126,7 @@ export default function HPBar({ guessCount }) {
     <div style={{ marginBottom: 16 }}>
       <style>{HEART_STYLE}</style>
 
-      {/* Desktop: phantom spacer | hp bar | sommie — items-end keeps hp bar vertically stable */}
+      {/* Desktop: phantom spacer | hp bar | sommie */}
       <div className="hidden sm:flex items-center justify-center" style={{ gap: 32, minHeight: 85 }}>
         <div style={{ width: SOMMIE_W, flexShrink: 0 }} />
         {hpBar}
