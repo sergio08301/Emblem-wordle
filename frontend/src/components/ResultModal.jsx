@@ -188,12 +188,13 @@ export default function ResultModal({ guesses, won, targetCharacter, stats, onRe
         )}
 
         {stats && (
-          <div className="grid grid-cols-4 gap-2 text-center mb-6">
+          <div className="grid grid-cols-5 gap-2 text-center mb-6">
             {[
               { label: 'Played', value: stats.games_played },
               { label: 'Win %', value: stats.games_played > 0 ? Math.round(stats.games_won / stats.games_played * 100) : 0 },
               { label: 'Streak', value: stats.current_streak },
               { label: 'Best', value: stats.max_streak },
+              { label: 'Avg', value: stats.avg_attempts > 0 ? stats.avg_attempts.toFixed(1) : '—' },
             ].map(({ label, value }) => (
               <div key={label} className="bg-gray-700 rounded-lg py-2">
                 <div className="text-xl font-bold">{value}</div>

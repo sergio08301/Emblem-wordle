@@ -1,4 +1,13 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
+
+// ── Sommie messages ──────────────────────────────────────────────
+// Add or remove lines here. One will be picked at random each time Sommie appears.
+const SOMMIE_MESSAGES = [
+  "Sommie thinks that you could use some help :3",
+  // "Another one here...",
+  // "And another one...",
+]
+// ─────────────────────────────────────────────────────────────────
 
 const MAX_ATTEMPTS = 8
 const SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1w4SJTSrf0r5P4nbcV04LzcIDb9mKSQXbUj3C5yfOx0g/edit?usp=sharing'
@@ -15,6 +24,10 @@ export default function HPBar({ guessCount }) {
   const remaining = MAX_ATTEMPTS - guessCount
   const showSommie = remaining <= 3
   const [hearts, setHearts] = useState([])
+  const sommieMessage = useMemo(
+    () => SOMMIE_MESSAGES[Math.floor(Math.random() * SOMMIE_MESSAGES.length)],
+    [showSommie]
+  )
 
   function spawnHearts() {
     const batch = Array.from({ length: 6 }, (_, i) => ({
@@ -61,7 +74,7 @@ export default function HPBar({ guessCount }) {
         </a>
       </div>
       <p style={{ color: '#d1d5db', fontSize: 12, textAlign: 'center', margin: 0 }}>
-        Sommie thinks that you could use some help :3
+        {sommieMessage}
       </p>
     </>
   )
