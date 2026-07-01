@@ -1,6 +1,27 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { buildShareText } from '../utils/share'
+
+function useNextDailyCountdown() {
+  const [timeLeft, setTimeLeft] = useState('')
+
+  useEffect(() => {
+    function calc() {
+      const now = new Date()
+      const midnight = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + 1))
+      const diff = midnight - now
+      const h = Math.floor(diff / 3600000)
+      const m = Math.floor((diff % 3600000) / 60000)
+      const s = Math.floor((diff % 60000) / 1000)
+      setTimeLeft(`${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`)
+    }
+    calc()
+    const id = setInterval(calc, 1000)
+    return () => clearInterval(id)
+  }, [])
+
+  return timeLeft
+}
 
 const GAME_ABBREV = {
   'Shadow Dragon': 'Shadow Dragon', 'New Mystery of the Emblem': 'New Mystery',
@@ -19,6 +40,7 @@ export default function ResultModal({ guesses, won, targetCharacter, stats, onRe
   const [copied, setCopied] = useState(false)
   const [recruitState, setRecruitState] = useState('idle') // 'idle' | 'loading' | 'done'
   const [recruitResult, setRecruitResult] = useState(null)
+  const countdown = useNextDailyCountdown()
 
   const onRecruit = onRecruitDaily || onRecruitInfinite
   const isInfiniteMode = !!onRecruitInfinite
@@ -211,6 +233,13 @@ export default function ResultModal({ guesses, won, targetCharacter, stats, onRe
           >
             {copied ? '¡Copied!' : '📋 Share Result'}
           </button>
+        )}
+
+        {showShare && !onPlayAgain && (
+          <div className="text-center mt-3">
+            <p className="text-xs text-gray-400 mb-1">Next character in</p>
+            <p className="text-lg font-mono font-bold text-white">{countdown}</p>
+          </div>
         )}
 
         {onPlayAgain && (
