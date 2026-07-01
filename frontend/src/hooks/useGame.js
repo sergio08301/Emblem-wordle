@@ -7,11 +7,15 @@
 //useEffect — ejecuta código cuando el componente aparece en pantalla (o cuando algo cambia). Lo usamos para cargar la sesión del día al arrancar.
 
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { getAnonymousId } from '../utils/anonymousId'
 import { getToday, submitGuess as submitGuessApi } from '../services/api'
 import { updateLocalStats } from '../utils/localStats'
 import { useAuth } from '../context/AuthContext'
+
+function utcDateString() {
+  return new Date().toISOString().slice(0, 10)
+}
 
 export function useGame() {
   const [guesses, setGuesses] = useState([])
@@ -26,22 +30,50 @@ export function useGame() {
 
   const anonymousId = getAnonymousId()
   const { token } = useAuth()
+  const loadedDateRef = useRef(null)
+
+  function applySession(session) {
+    setGuesses(session.guesses.map(g => ({ ...g, characterData: g.character_data })))
+    setCompleted(session.completed)
+    setWon(session.won)
+    setTargetCharacter(session.target_character)
+    setAlreadyRecruited(session.already_recruited ?? false)
+    setInfiniteTokenAvailable(session.infinite_token_available ?? false)
+  }
 
   useEffect(() => {
+    loadedDateRef.current = utcDateString()
     getToday(anonymousId, token)
-      .then(session => {
-        setGuesses(session.guesses.map(g => ({ ...g, characterData: g.character_data })))
-        setCompleted(session.completed)
-        setWon(session.won)
-        setTargetCharacter(session.target_character)
-        setAlreadyRecruited(session.already_recruited ?? false)
-        setInfiniteTokenAvailable(session.infinite_token_available ?? false)
-      })
+      .then(applySession)
       .catch(err => setError(err.message))
       .finally(() => setLoading(false))
   }, [])
 
+  useEffect(() => {
+    function handleVisibility() {
+      if (document.visibilityState === 'visible' && loadedDateRef.current && utcDateString() !== loadedDateRef.current) {
+        loadedDateRef.current = utcDateString()
+        setLoading(true)
+        getToday(anonymousId, token)
+          .then(applySession)
+          .catch(err => setError(err.message))
+          .finally(() => setLoading(false))
+      }
+    }
+    document.addEventListener('visibilitychange', handleVisibility)
+    return () => document.removeEventListener('visibilitychange', handleVisibility)
+  }, [anonymousId, token])
+
   async function submitGuess(characterId, characterData) {
+    if (loadedDateRef.current && utcDateString() !== loadedDateRef.current) {
+      loadedDateRef.current = utcDateString()
+      setLoading(true)
+      getToday(anonymousId, token)
+        .then(applySession)
+        .catch(err => setError(err.message))
+        .finally(() => setLoading(false))
+      return
+    }
     setError(null)
     try {
       const result = await submitGuessApi(characterId, anonymousId, token)
