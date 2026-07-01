@@ -1,3 +1,4 @@
+from datetime import datetime, timezone
 from sqlalchemy.orm import Session
 from app.models.user import User
 from app.models.user_stats import UserStats
@@ -44,6 +45,8 @@ def authenticate_user(db: Session, username: str, password: str) -> str | None:
     user = get_user_by_username(db, username)
     if not user or not verify_password(password, user.password_hash):
         return None
+    user.last_login = datetime.now(timezone.utc)
+    db.commit()
     return create_access_token({"user_id": user.id})
 
 
